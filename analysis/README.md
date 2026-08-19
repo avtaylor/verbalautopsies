@@ -2,7 +2,7 @@
 
 Selected, de-identified outputs from analyses comparing four large-language-model (LLM) cause-of-death experiments with physician-coded verbal autopsy (VA) references.
 
-**Start here:** open [`index.html`](index.html) to browse a small, curated set of headline figures and their aggregate source tables. The full file inventory is in [`FILE_MANIFEST.csv`](FILE_MANIFEST.csv).
+**Main landing page:** open [`../index.html`](../index.html) from the repository root. This folder also contains [`index.html`](index.html), a subfolder-local copy of the analysis navigator. The full file inventory is in [`FILE_MANIFEST.csv`](FILE_MANIFEST.csv).
 
 ## What is included
 
@@ -36,3 +36,4 @@ Paths in the retained scripts reflect the original analysis environment and may 
 ## Responsible use
 
 These outputs evaluate agreement with physician coding and population-level cause distributions. They should not be interpreted as clinical diagnoses or used to make decisions about individuals.
+

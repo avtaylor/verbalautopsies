@@ -1,0 +1,598 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Verbal Autopsies Cause of Death Determinations using GPT-5</title>
+  <style>
+    :root {
+      --ink: #1f2933;
+      --muted: #65727f;
+      --line: #d8dee5;
+      --panel: #f7f9fb;
+      --accent: #146c94;
+      --accent-2: #8a5a13;
+      --bg: #ffffff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--bg);
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.45;
+    }
+    header {
+      border-bottom: 1px solid var(--line);
+      background: #fbfcfd;
+    }
+    .wrap {
+      width: min(1180px, calc(100% - 40px));
+      margin: 0 auto;
+    }
+    .hero {
+      padding: 34px 0 24px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: 0;
+    }
+    .subtitle {
+      max-width: 880px;
+      margin: 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+    nav {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      padding: 0 0 18px;
+    }
+    nav a,
+    .link {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    nav a {
+      border: 1px solid var(--line);
+      padding: 7px 10px;
+      border-radius: 6px;
+      background: #fff;
+      font-size: 14px;
+    }
+    nav a:hover,
+    .link:hover { text-decoration: underline; }
+    main { padding: 28px 0 44px; }
+    section {
+      padding: 26px 0;
+      border-bottom: 1px solid var(--line);
+    }
+    section:last-child { border-bottom: 0; }
+    h2 {
+      margin: 0 0 7px;
+      font-size: 22px;
+      letter-spacing: 0;
+    }
+    h3 {
+      margin: 18px 0 8px;
+      font-size: 16px;
+      letter-spacing: 0;
+    }
+    p { margin: 0 0 12px; }
+    .note {
+      color: var(--muted);
+      max-width: 900px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 12px;
+      margin-top: 14px;
+    }
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 14px;
+      background: var(--panel);
+      min-height: 120px;
+    }
+    .card h3 { margin-top: 0; }
+    ul {
+      margin: 8px 0 0;
+      padding-left: 18px;
+    }
+    li { margin: 6px 0; }
+    .chart-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 16px;
+      margin-top: 14px;
+    }
+    figure {
+      margin: 0;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #fff;
+      padding: 10px;
+    }
+    figure img {
+      width: 100%;
+      height: 230px;
+      object-fit: contain;
+      display: block;
+    }
+    figcaption {
+      margin-top: 8px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .file-list {
+      columns: 2;
+      column-gap: 28px;
+    }
+    .file-list li { break-inside: avoid; }
+    code {
+      font-family: Consolas, "Liberation Mono", monospace;
+      font-size: 0.95em;
+      background: #eef3f7;
+      padding: 1px 4px;
+      border-radius: 4px;
+    }
+    .warning {
+      border-left: 4px solid var(--accent-2);
+      background: #fff8e8;
+      padding: 10px 12px;
+      margin-top: 12px;
+    }
+    footer {
+      border-top: 1px solid var(--line);
+      background: #fbfcfd;
+      padding: 24px 0 30px;
+    }
+    footer p {
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .citation {
+      margin-top: 12px;
+      padding: 12px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #fff;
+      color: var(--ink);
+      font-size: 14px;
+    }
+    .citation strong {
+      display: block;
+      margin-bottom: 6px;
+      color: var(--ink);
+    }
+    dialog {
+      width: min(1040px, calc(100% - 28px));
+      height: min(760px, calc(100% - 28px));
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 0;
+      box-shadow: 0 20px 60px rgba(20, 35, 50, 0.28);
+    }
+    dialog::backdrop {
+      background: rgba(17, 24, 39, 0.42);
+    }
+    .preview-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--line);
+      background: #fbfcfd;
+    }
+    .preview-title {
+      min-width: 0;
+      margin: 0;
+      font-size: 15px;
+      font-weight: 700;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .preview-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex: 0 0 auto;
+    }
+    .button {
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #fff;
+      color: var(--ink);
+      cursor: pointer;
+      font: inherit;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 6px 9px;
+      text-decoration: none;
+    }
+    .button:hover {
+      background: #eef3f7;
+      text-decoration: none;
+    }
+    .preview-frame {
+      display: block;
+      width: 100%;
+      height: calc(100% - 48px);
+      border: 0;
+      background: #fff;
+    }
+    .preview-help {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .carousel-count {
+      color: var(--muted);
+      font-size: 13px;
+      min-width: 58px;
+      text-align: center;
+    }
+    @media (max-width: 720px) {
+      .wrap { width: min(100% - 24px, 1180px); }
+      h1 { font-size: 24px; }
+      .file-list { columns: 1; }
+      figure img { height: 190px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap hero">
+      <h1>Verbal Autopsies Cause of Death Determinations using GPT-5</h1>
+      <p class="subtitle">Selected reproducible code, aggregate tables, and charts for comparing LLM-assigned cause-of-death codes with physician-coded verbal autopsy determinations.</p>
+    </div>
+    <nav class="wrap" aria-label="Repository sections">
+      <a href="#description">Description</a>
+      <a href="#llm-pipeline">LLM Pipeline</a>
+      <a href="#agreement">Agreement</a>
+      <a href="#csmf">CSMF and PCCC</a>
+      <a href="#jaccard">Jaccard</a>
+      <a href="#experiments">Experiments</a>
+      <a href="#inputs">Inputs</a>
+      <a href="README.md">README</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section id="description">
+      <h2>Description</h2>
+      <p>This study was conducted under an INSPIRE 2.0 project, being a collaboration between Amelia Taylor at the Malawi University of Business and Applied Sciences (MUBAS) and Albert Dube and Paul Kambiya at the Malawi Epidemiological and Intervention Research Unit (MEIRU). MEIRU has recorded vital statistics in the Karonga Health and Demographics Surveillance Site (HDSS) since 2002. This research uses the Karonga HDSS data. Verbal Autopsies (VA) data is recorded on semi-structured questionnaires with a close relative of the deceased and includes responses to questionnaire items and a verbal account called a narrative.</p>
+      <p>We evaluate whether a frontier LLM can reproduce physician cause-of-death assignment process when provided with the complete VA record. We utilise the data and cause of death (CoD) assignment protocol from the Karonga HDSS in Malawi. GPT-assigned causes of death were generated using four different experiential inputs that incorporate the narrative with the questionnaire data. We calculated the exact and flexible agreement between the LLM and physician CoDs for three types of determinations: direct, underlying and contributory, at individual and population level. Agreement was evaluated hierarchically on three coding levels that replicated the process used by physicians.</p>
+      <p>We show that GPT-5.2 captured clinically relevant causes of death at a high level of consistency and agreement with physicians, particularly at broad and intermediate coding levels. The agreement was better for common than for rare conditions. Our experiments show that the VA narrative contains complementary rather than repeating information from the structured questionnaire and their combined use is essential to CoD determination. Our findings support the use of frontier LLMs as effective tools for verbal autopsy workflows.</p>
+      <p>This repository serves as a compendium to the main research paper (under publication) and contain only code and selected analysis.</p>
+      <p>We run four LLM-CoD determination experiments on the four datasets,:</p>
+      <ul>
+        <li>EXP1	LLM - determinations of CoDs using the full account dataset.</li>
+        <li>EXP2 	LLM - determinations of CoDs using questionnaire-as-text dataset.</li>
+        <li>EXP3	LLM - determinations of CoDs using original-narrative dataset.</li>
+        <li>EXP4 	LLM - determinations of CoDs using reconstructed-narrative dataset.</li>
+      </ul>
+
+    </section>
+
+    <section id="llm-pipeline">
+      <h2>LLM Pipeline Code</h2>
+      <p class="note">Selected code used before the agreement analysis: preparing questionnaire variables as text narratives and calling the OpenAI API for verbal autopsy cause-of-death coding. These links point to sibling folders in the main <code>verbalautopsies</code> repository, assuming this compendium is placed in the repo as <code>analysis/</code>.</p>
+      <div class="grid">
+        <div class="card">
+          <h3>Questionnaire-to-text preparation</h3>
+          <ul>
+            <li><a class="link" href="data_preparation/CreateNarrativesFromQuestionnaireVars.ipynb">CreateNarrativesFromQuestionnaireVars.ipynb</a></li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>OpenAI API calls</h3>
+          <ul>
+            <li><a class="link" href="OpenAPI_calls/verbal_autopsy_OpenAIcalls.js">verbal_autopsy_OpenAIcalls.js</a></li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Notes</h3>
+          <ul>
+            <li>The linked files are in the root preparation/API folders.</li>
+            <li>No raw VA records or API keys are included in this analysis compendium.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="agreement">
+      <h2>Agreement Analysis</h2>
+      <p class="note">Case-level strict and flexible agreement outputs, including hierarchical agreement metrics, bootstrap intervals, paired tests, confusion summaries, and flexible any-code overlap charts.</p>
+      <p class="preview-help">Tip: table, code, and chart links open in a preview popup. Chart previews include Previous and Next controls.</p>
+      <div class="grid">
+        <div class="card">
+          <h3>Code</h3>
+          <ul>
+            <li><a class="link" href="analysis/agreement/code/analysis_llm_phy_agreement.py">Main agreement pipeline</a></li>
+            <li><a class="link" href="analysis/agreement/code/calculate_ci_and_tests.py">Bootstrap CI and paired tests</a></li>
+            <li><a class="link" href="analysis/agreement/code/create_comparison_visualizations.py">Comparison visualizations</a></li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Tables</h3>
+          <ul>
+            <li><a class="link" href="analysis/agreement/excel/metrics_kappa_precision_recall_f1_by_level.csv">Kappa, precision, recall, F1</a></li>
+            <li><a class="link" href="analysis/agreement/excel/flexible_any_type_overlap_metrics_by_level.csv">Flexible any-code overlap</a></li>
+            <li><a class="link" href="analysis/agreement/excel/ci_bootstrap_key_metrics_1000resamples.csv">Bootstrap confidence intervals</a></li>
+            <li><a class="link" href="analysis/agreement/excel/statistical_tests_paired_comparisons_1000resamples.csv">Paired statistical tests</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="chart-grid">
+        <figure>
+          <a href="analysis/agreement/charts/figure_agreement_metrics_heatmap_level2.svg"><img src="analysis/agreement/charts/figure_agreement_metrics_heatmap_level2.svg" alt="Level 2 agreement metrics heatmap"></a>
+          <figcaption>Level 2 agreement metrics heatmap.</figcaption>
+        </figure>
+        <figure>
+          <a href="analysis/agreement/charts/figure_flexible_any_code_agreement_by_level_overall.svg"><img src="analysis/agreement/charts/figure_flexible_any_code_agreement_by_level_overall.svg" alt="Flexible any-code agreement by coding level"></a>
+          <figcaption>Flexible any-code agreement by coding level.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="csmf">
+      <h2>CSMF, PCCC, and Sensitivity Checks</h2>
+      <p class="note">Population-level cause-specific mortality fraction accuracy, PCCC-style single-prediction summaries, bootstrap sensitivity analysis, and Monte Carlo physician-prior baselines.</p>
+      <div class="grid">
+        <div class="card">
+          <h3>Code</h3>
+          <ul>
+            <li><a class="link" href="analysis/csmf/code/calculate_csmf_accuracy.py">CSMF accuracy</a></li>
+            <li><a class="link" href="analysis/csmf/code/calculate_monte_carlo_csmf_baselines.py">Monte Carlo baselines</a></li>
+            <li><a class="link" href="analysis/csmf/code/create_monte_carlo_csmf_charts.py">Monte Carlo charts</a></li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Tables</h3>
+          <ul>
+            <li><a class="link" href="analysis/csmf/excel/csmf_accuracy_summary_underlying.csv">Overall CSMF accuracy</a></li>
+            <li><a class="link" href="analysis/csmf/excel/csmf_accuracy_summary_underlying_by_va_type.csv">CSMF by VA type</a></li>
+            <li><a class="link" href="analysis/csmf/excel/monte_carlo_csmf_all_levels_discussion_table_1000sim.csv">Monte Carlo discussion table</a></li>
+            <li><a class="link" href="analysis/csmf/excel/pccc_underlying_full_numeric_table_overall_vatype.csv">PCCC numeric table</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="chart-grid">
+        <figure>
+          <a href="analysis/csmf/charts/figure_csmf_accuracy_dot_plot.svg"><img src="analysis/csmf/charts/figure_csmf_accuracy_dot_plot.svg" alt="CSMF accuracy dot plot"></a>
+          <figcaption>CSMF accuracy dot plot across experiments and levels.</figcaption>
+        </figure>
+        <figure>
+          <a href="analysis/csmf/charts/figure_level2_csmf_observed_vs_mc_physician_prior.svg"><img src="analysis/csmf/charts/figure_level2_csmf_observed_vs_mc_physician_prior.svg" alt="Observed CSMF accuracy versus Monte Carlo baseline"></a>
+          <figcaption>Observed Level 2 CSMF accuracy versus physician-prior Monte Carlo baseline.</figcaption>
+        </figure>
+        <figure>
+          <a href="analysis/csmf/charts/figure_pccc_underlying_panel_by_vatype_level.svg"><img src="analysis/csmf/charts/figure_pccc_underlying_panel_by_vatype_level.svg" alt="PCCC panel by VA type and coding level"></a>
+          <figcaption>PCCC-style underlying agreement by VA type and coding level.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="jaccard">
+      <h2>Jaccard Similarity</h2>
+      <p class="note">Set-based similarity summaries for flexible pooled any-type agreement and contributory-code comparisons at Level 1, Level 2, and Level 3.</p>
+      <div class="grid">
+        <div class="card">
+          <h3>Code</h3>
+          <ul>
+            <li><a class="link" href="analysis/jaccard/code/calculate_jaccard_similarity.py">Jaccard calculations</a></li>
+            <li><a class="link" href="analysis/jaccard/code/create_jaccard_charts.py">Jaccard charts</a></li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Tables</h3>
+          <ul>
+            <li><a class="link" href="analysis/jaccard/excel/jaccard_similarity_summary.csv">Jaccard summary</a></li>
+            <li><a class="link" href="analysis/jaccard/excel/flexible_level2_jaccard_by_vatype_single_table.csv">Level 2 Jaccard by VA type</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="chart-grid">
+        <figure>
+          <a href="analysis/jaccard/charts/figure_jaccard_flexible_pooled_any_type_heatmap.svg"><img src="analysis/jaccard/charts/figure_jaccard_flexible_pooled_any_type_heatmap.svg" alt="Flexible pooled any-type Jaccard heatmap"></a>
+          <figcaption>Flexible pooled any-type Jaccard heatmap.</figcaption>
+        </figure>
+        <figure>
+          <a href="analysis/jaccard/charts/figure_jaccard_level2_pooled_distribution_infant.svg"><img src="analysis/jaccard/charts/figure_jaccard_level2_pooled_distribution_infant.svg" alt="Infant Level 2 pooled Jaccard distribution"></a>
+          <figcaption>Level 2 pooled Jaccard distribution for infant records.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="experiments">
+      <h2>Experiment-Specific Outputs</h2>
+      <p class="note">Distribution and comparison outputs are grouped by experiment. EXP1 also includes selected true-positive overlap and narrative-present sensitivity outputs.</p>
+      <div class="grid">
+        <div class="card">
+          <h3>EXP1</h3>
+          <ul>
+            <li><a class="link" href="analysis/EXP1/excel/exp1_underlying_distribution_level1_level2_by_vatype_phy_underlying_records.csv">Underlying Level 1 and Level 2 distribution</a></li>
+            <li><a class="link" href="analysis/EXP1/excel/exp1_true_positive_overlap_level2_top20_by_vatype_age_percent_table.csv">Top 20 Level 2 true-positive overlap by VA type and age</a></li>
+            <li><a class="link" href="analysis/EXP1/charts/figure_exp1_true_positive_overlap_heatmap_level2_top20.svg">Top 20 Level 2 true-positive heatmap</a></li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>EXP2</h3>
+          <ul>
+            <li><a class="link" href="analysis/EXP2/excel/exp2_underlying_level2_age_group_percent_within_age_overall.csv">Level 2 age distribution</a></li>
+            <li><a class="link" href="analysis/EXP2/charts/exp2_underlying_level2_age_group_heatmap_overall.svg">Level 2 age heatmap</a></li>
+            <li><a class="link" href="analysis/EXP2/charts/figure_exp2_vs_phy_confusion_bubble_underlying_level2.svg">Level 2 confusion bubble chart</a></li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>EXP3</h3>
+          <ul>
+            <li><a class="link" href="analysis/EXP3/excel/exp3_underlying_level2_age_group_percent_within_age_overall.csv">Level 2 age distribution</a></li>
+            <li><a class="link" href="analysis/EXP3/charts/exp3_underlying_level2_age_group_heatmap_overall.svg">Level 2 age heatmap</a></li>
+            <li><a class="link" href="analysis/EXP3/charts/figure_exp3_vs_phy_confusion_bubble_underlying_level2.svg">Level 2 confusion bubble chart</a></li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>EXP4</h3>
+          <ul>
+            <li><a class="link" href="analysis/EXP4/excel/exp4_underlying_level2_age_group_percent_within_age_overall.csv">Level 2 age distribution</a></li>
+            <li><a class="link" href="analysis/EXP4/charts/exp4_underlying_level2_age_group_heatmap_overall.svg">Level 2 age heatmap</a></li>
+            <li><a class="link" href="analysis/EXP4/charts/figure_exp4_vs_phy_confusion_bubble_underlying_level2.svg">Level 2 confusion bubble chart</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="chart-grid">
+        <figure>
+          <a href="analysis/EXP1/charts/figure_exp1_vs_physician_underlying_level2_distribution_difference_top10_by_vatype.svg"><img src="analysis/EXP1/charts/figure_exp1_vs_physician_underlying_level2_distribution_difference_top10_by_vatype.svg" alt="EXP1 versus physician Level 2 distribution difference"></a>
+          <figcaption>EXP1 versus physician Level 2 underlying distribution difference by VA type.</figcaption>
+        </figure>
+        <figure>
+          <a href="analysis/EXP1/charts/figure_exp1_true_positive_overlap_level2_top20_by_vatype_age_percent.svg"><img src="analysis/EXP1/charts/figure_exp1_true_positive_overlap_level2_top20_by_vatype_age_percent.svg" alt="EXP1 Level 2 true-positive overlap by VA type and age"></a>
+          <figcaption>EXP1 Level 2 true-positive overlap by VA type and age.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="inputs">
+      <h2>Inputs and Reproducibility</h2>
+      <p class="note">Raw VA workbooks are not included in this share folder. The input manifest lists the required files and the expected location used by the scripts.</p>
+      <div class="warning">
+        Record-level files such as <code>master_normalized_codes.csv</code>, confused-case extracts, and raw workbooks are intentionally excluded from this public-facing folder unless the repository is private and covered by the appropriate data agreement.
+      </div>
+      <h3>Key Repository Files</h3>
+      <ul class="file-list">
+        <li><a class="link" href="README.md">README.md</a></li>
+        <li><a class="link" href="analysis/inputs/INPUT_FILES.md">inputs/INPUT_FILES.md</a></li>
+        <li><a class="link" href="analysis/agreement/excel/agreement_report.md">agreement report</a></li>
+        <li><a class="link" href="analysis/FILE_MANIFEST.csv">FILE_MANIFEST.csv</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <p>This work is part of INSPIRE 2.0 CC540 grant for HDSS Capacity building for the application of AI in enhancing the utility of MEIRU HDSS data. Team: Albert Dube, Amelia Taylor and Paul Kambiya. Contact ataylor@mubas.ac.mw</p>
+      <div class="citation">
+        <strong>Recommended citation</strong>
+        Taylor A, Dube A, Kambiya P. MEIRU VA LLM cause-of-death analysis: selected code, aggregate outputs, and figures. INSPIRE 2.0 CC540 project compendium. Malawi University of Business and Applied Sciences and Malawi Epidemiological and Intervention Research Unit; 2026.
+      </div>
+    </div>
+  </footer>
+
+  <dialog id="previewDialog" aria-labelledby="previewTitle">
+    <div class="preview-head">
+      <p class="preview-title" id="previewTitle">Preview</p>
+      <div class="preview-actions">
+        <button class="button" id="previousPreview" type="button" hidden>Previous</button>
+        <span class="carousel-count" id="previewCount" hidden></span>
+        <button class="button" id="nextPreview" type="button" hidden>Next</button>
+        <a class="button" id="openPreview" href="#" target="_blank" rel="noopener">Open file</a>
+        <button class="button" id="closePreview" type="button">Close</button>
+      </div>
+    </div>
+    <iframe class="preview-frame" id="previewFrame" title="File preview"></iframe>
+  </dialog>
+
+  <script>
+    const previewDialog = document.getElementById("previewDialog");
+    const previewTitle = document.getElementById("previewTitle");
+    const previewFrame = document.getElementById("previewFrame");
+    const openPreview = document.getElementById("openPreview");
+    const closePreview = document.getElementById("closePreview");
+    const previousPreview = document.getElementById("previousPreview");
+    const nextPreview = document.getElementById("nextPreview");
+    const previewCount = document.getElementById("previewCount");
+    const documentTypes = [".csv", ".md", ".py", ".js", ".ipynb", ".txt"];
+    const chartTypes = [".svg", ".png", ".jpg", ".jpeg", ".webp"];
+    const previewTypes = [...documentTypes, ...chartTypes];
+    const chartLinks = Array.from(document.querySelectorAll("a[href]"))
+      .filter((link) => hasType(link.getAttribute("href"), chartTypes))
+      .map((link) => ({
+        href: link.getAttribute("href"),
+        title: link.closest("figure")?.querySelector("figcaption")?.textContent.trim() ||
+          link.textContent.trim() ||
+          link.getAttribute("href")
+      }))
+      .filter((item, index, items) => items.findIndex((other) => other.href === item.href) === index);
+    let currentChartIndex = -1;
+
+    function hasType(href, types) {
+      if (!href) return false;
+      const clean = href.split("#")[0].split("?")[0].toLowerCase();
+      return types.some((ext) => clean.endsWith(ext));
+    }
+
+    function isPreviewable(href) {
+      return hasType(href, previewTypes);
+    }
+
+    function setCarouselState() {
+      const useCarousel = currentChartIndex >= 0 && chartLinks.length > 1;
+      previousPreview.hidden = !useCarousel;
+      nextPreview.hidden = !useCarousel;
+      previewCount.hidden = !useCarousel;
+      if (useCarousel) previewCount.textContent = `${currentChartIndex + 1} / ${chartLinks.length}`;
+    }
+
+    function closeDialog() {
+      previewDialog.close();
+      previewFrame.src = "about:blank";
+      currentChartIndex = -1;
+      setCarouselState();
+    }
+
+    function showPreview(href, title, chartIndex = -1) {
+      currentChartIndex = chartIndex;
+      previewTitle.textContent = title || href;
+      previewFrame.src = href;
+      openPreview.href = href;
+      setCarouselState();
+      if (!previewDialog.open) previewDialog.showModal();
+    }
+
+    function moveChart(direction) {
+      if (currentChartIndex < 0 || chartLinks.length < 2) return;
+      const nextIndex = (currentChartIndex + direction + chartLinks.length) % chartLinks.length;
+      const item = chartLinks[nextIndex];
+      showPreview(item.href, item.title, nextIndex);
+    }
+
+    document.addEventListener("click", (event) => {
+      const link = event.target.closest("a[href]");
+      if (!link || !isPreviewable(link.getAttribute("href"))) return;
+      event.preventDefault();
+      const href = link.getAttribute("href");
+      const chartIndex = chartLinks.findIndex((item) => item.href === href);
+      const title = link.closest("figure")?.querySelector("figcaption")?.textContent.trim() ||
+        link.textContent.trim() ||
+        href;
+      showPreview(href, title, chartIndex);
+    });
+
+    closePreview.addEventListener("click", closeDialog);
+    previousPreview.addEventListener("click", () => moveChart(-1));
+    nextPreview.addEventListener("click", () => moveChart(1));
+
+    previewDialog.addEventListener("click", (event) => {
+      const rect = previewDialog.getBoundingClientRect();
+      const clickedBackdrop =
+        event.clientX < rect.left ||
+        event.clientX > rect.right ||
+        event.clientY < rect.top ||
+        event.clientY > rect.bottom;
+      if (clickedBackdrop) closeDialog();
+    });
+  </script>
+</body>
+</html>
+
