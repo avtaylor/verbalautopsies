@@ -1,0 +1,40 @@
+cause_code,level2_name,total,15-24,25-44,45-64,65+
+01-04,TB/AIDS,780,17.8,42.56,33.12,5.57
+03-01,Cardiovascular disorder,657,3.81,2.8,13.89,34.41
+01-01,Acute febrile illness,590,16.95,16.7,14.65,18.78
+03-03,Gastro intestinal disorder,262,5.93,8.62,7.64,7.24
+03-06,Neoplasm,219,5.08,3.12,8.03,7.71
+03-05,Endocrine disorders,112,2.12,1.83,3.18,4.36
+00-02,Specific information missing on VAQ,111,1.27,2.59,2.04,4.56
+03-04,Central nervous system disorder,87,8.05,3.12,1.78,1.68
+03-02,Respiratory disorder,76,2.12,0.65,2.17,3.22
+03-07,Genito urinary disorders,65,1.27,0.54,1.91,2.82
+01-05,Diarrhoeal disease without fever,57,0.0,0.97,2.29,2.01
+04-01,Transport,55,5.51,2.48,1.66,0.4
+04-99,Other specific unlisted,53,2.54,2.37,1.53,0.87
+04-06,Use of weapon,40,1.27,1.51,1.66,0.67
+03-08,Anaemia,33,2.12,0.32,1.02,1.14
+04-05,Poisoning/exposure to noxious substance,32,2.54,1.62,1.15,0.13
+04-08,Hanging,32,5.51,1.4,0.38,0.2
+00-03,No significant pathology that would explain the death,29,0.0,0.11,0.0,1.88
+04-03,Drowning/submersion,18,2.97,0.75,0.38,0.07
+02-99,Other specific unlisted,17,2.97,1.08,0.0,0.0
+04-00,Unspecifiable,17,1.27,0.86,0.38,0.2
+04-02,Fall,16,0.0,0.43,0.0,0.8
+03-99,Other specific unlisted,15,1.27,0.32,0.64,0.27
+03-09,Nutritional disorder,12,0.85,0.11,0.0,0.6
+02-00,Unspecifiable,12,1.69,0.75,0.13,0.0
+02-03,Ante postpartum haemorrhage,10,0.42,0.97,0.0,0.0
+02-05,Puerperal sepsis,9,1.69,0.43,0.0,0.07
+01-03,Hepatitis,5,1.69,0.11,0.0,0.0
+04-07,Contact with venomous animals and plants,3,0.42,0.0,0.25,0.0
+00-01,No information (VAQ not available),3,0.0,0.22,0.0,0.07
+00-04,"Multiple significant pathology, single COD can't be isolated",2,0.0,0.0,0.0,0.13
+02-06,Anaemia in pregnancy,2,0.0,0.22,0.0,0.0
+02-02,Eclampsia,2,0.42,0.11,0.0,0.0
+01-99,Other specific unlisted,2,0.0,0.0,0.0,0.13
+01-00,Unspecifiable,1,0.0,0.11,0.0,0.0
+03-00,Unspecifiable,1,0.0,0.0,0.13,0.0
+02-04,Obstructed labour,1,0.0,0.11,0.0,0.0
+01-06,Tetanus (exc. neonatal tetanus),1,0.0,0.11,0.0,0.0
+02-01,Abortion,1,0.42,0.0,0.0,0.0

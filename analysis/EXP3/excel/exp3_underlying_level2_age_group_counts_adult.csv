@@ -1,0 +1,43 @@
+cause_code,level2_name,total,15-24,25-44,45-64,65+
+03-01,Cardiovascular disorder,642,11,44,114,473
+01-04,TB/AIDS,573,28,298,193,54
+01-01,Acute febrile illness,409,36,130,87,156
+03-03,Gastro intestinal disorder,277,16,85,66,110
+03-06,Neoplasm,260,10,44,76,130
+03-04,Central nervous system disorder,88,16,31,13,28
+03-05,Endocrine disorders,82,2,13,19,48
+03-02,Respiratory disorder,71,5,14,16,36
+00-02,Specific information missing on VAQ,69,4,10,9,46
+03-07,Genito urinary disorders,69,2,5,14,48
+04-01,Transport,65,13,24,18,10
+01-05,Diarrhoeal disease without fever,52,4,13,12,23
+03-99,Other specific unlisted,40,4,13,7,16
+04-05,Poisoning/exposure to noxious substance,38,6,16,10,6
+03-08,Anaemia,35,4,8,6,17
+04-08,Hanging,33,10,15,5,3
+04-02,Fall,30,1,2,3,24
+04-03,Drowning/submersion,28,7,14,4,3
+04-99,Other specific unlisted,23,2,9,7,5
+04-06,Use of weapon,22,2,8,7,5
+00-03,No significant pathology that would explain the death,21,0,1,1,19
+02-04,Obstructed labour,17,4,13,0,0
+02-03,Ante postpartum haemorrhage,14,5,7,2,0
+03-09,Nutritional disorder,14,0,1,1,12
+01-99,Other specific unlisted,13,1,10,1,1
+01-03,Hepatitis,10,2,3,4,1
+02-99,Other specific unlisted,10,2,7,1,0
+02-05,Puerperal sepsis,7,2,5,0,0
+02-01,Abortion,7,2,4,1,0
+02-02,Eclampsia,6,3,3,0,0
+03-00,Unspecifiable,5,0,1,3,1
+04-07,Contact with venomous animals and plants,3,0,1,2,0
+02-06,Anaemia in pregnancy,3,1,2,0,0
+01-07,Rabies,2,0,0,0,2
+04-09,Choking,2,0,0,1,1
+00-01,No information (VAQ not available),1,0,0,0,1
+00-04,"Multiple significant pathology, single COD can't be isolated",1,0,0,0,1
+02-00,Unspecifiable,1,1,0,0,0
+04-04,Exposure to smoke/fire/flames,1,0,0,0,1
+05-02,Stillbirth,1,0,1,0,0
+05-05,Birth injury/asphyxia,1,0,1,0,0
+05-08,Sudden infant death syndrome,1,0,0,0,1

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="430" viewBox="0 0 980 430">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="120" y="32" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">Level 2 Pooled Jaccard Distribution by Experiment: Child</text>
+<text x="120" y="54" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#52616b">Flexible pooled any-type comparison against physician codes.</text>
+<text x="104" y="132" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP1</text>
+<rect x="120" y="104" width="88.19277108433735" height="44" fill="#e5e7eb"/>
+<text x="164.09638554216866" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">14%</text>
+<rect x="208.19277108433735" y="104" width="70.82146768893757" height="44" fill="#c7d2fe"/>
+<text x="243.60350492880613" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">12%</text>
+<rect x="279.01423877327494" y="104" width="285.95837897042713" height="44" fill="#a5b4fc"/>
+<text x="421.9934282584885" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">47%</text>
+<rect x="564.9726177437021" y="104" width="11.35815991237678" height="44" fill="#818cf8"/>
+<rect x="576.3307776560789" y="104" width="0.0" height="44" fill="#6366f1"/>
+<rect x="576.3307776560789" y="104" width="153.66922234392115" height="44" fill="#3730a3"/>
+<text x="653.1653888280395" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">25%</text>
+<text x="104" y="202" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP2</text>
+<rect x="120" y="174" width="132.95728368017527" height="44" fill="#e5e7eb"/>
+<text x="186.47864184008762" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">22%</text>
+<rect x="252.95728368017527" y="174" width="58.12705366922234" height="44" fill="#c7d2fe"/>
+<text x="282.02081051478643" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">10%</text>
+<rect x="311.08433734939763" y="174" width="237.18510405257393" height="44" fill="#a5b4fc"/>
+<text x="429.6768893756846" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">39%</text>
+<rect x="548.2694414019716" y="174" width="6.681270536692224" height="44" fill="#818cf8"/>
+<rect x="554.9507119386637" y="174" width="0.0" height="44" fill="#6366f1"/>
+<rect x="554.9507119386637" y="174" width="175.04928806133623" height="44" fill="#3730a3"/>
+<text x="642.4753559693319" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">29%</text>
+<text x="104" y="272" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP3</text>
+<rect x="120" y="244" width="148.32420591456736" height="44" fill="#e5e7eb"/>
+<text x="194.16210295728368" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">24%</text>
+<rect x="268.32420591456736" y="244" width="26.05695509309967" height="44" fill="#c7d2fe"/>
+<rect x="294.381161007667" y="244" width="250.54764512595838" height="44" fill="#a5b4fc"/>
+<text x="419.6549835706462" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">41%</text>
+<rect x="544.9288061336254" y="244" width="6.681270536692224" height="44" fill="#818cf8"/>
+<rect x="551.6100766703175" y="244" width="0.0" height="44" fill="#6366f1"/>
+<rect x="551.6100766703175" y="244" width="178.38992332968235" height="44" fill="#3730a3"/>
+<text x="640.8050383351588" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">29%</text>
+<text x="104" y="342" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP4</text>
+<rect x="120" y="314" width="126.27601314348303" height="44" fill="#e5e7eb"/>
+<text x="183.13800657174153" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">21%</text>
+<rect x="246.27601314348303" y="314" width="60.13143483023001" height="44" fill="#c7d2fe"/>
+<text x="276.34173055859804" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">10%</text>
+<rect x="306.40744797371303" y="314" width="260.5695509309967" height="44" fill="#a5b4fc"/>
+<text x="436.6922234392114" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">43%</text>
+<rect x="566.9769989047097" y="314" width="7.349397590361447" height="44" fill="#818cf8"/>
+<rect x="574.3263964950712" y="314" width="0.0" height="44" fill="#6366f1"/>
+<rect x="574.3263964950712" y="314" width="155.6736035049288" height="44" fill="#3730a3"/>
+<text x="652.1631982475355" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">26%</text>
+<text x="780" y="84" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Jaccard bin</text>
+<rect x="780" y="90" width="22" height="22" fill="#e5e7eb"/>
+<text x="812" y="106" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">0</text>
+<rect x="780" y="118" width="22" height="22" fill="#c7d2fe"/>
+<text x="812" y="134" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">&gt;0-0.25</text>
+<rect x="780" y="146" width="22" height="22" fill="#a5b4fc"/>
+<text x="812" y="162" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">&gt;0.25-0.5</text>
+<rect x="780" y="174" width="22" height="22" fill="#818cf8"/>
+<text x="812" y="190" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">&gt;0.5-0.75</text>
+<rect x="780" y="202" width="22" height="22" fill="#6366f1"/>
+<text x="812" y="218" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">&gt;0.75-&lt;1</text>
+<rect x="780" y="230" width="22" height="22" fill="#3730a3"/>
+<text x="812" y="246" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">1</text>
+</svg>

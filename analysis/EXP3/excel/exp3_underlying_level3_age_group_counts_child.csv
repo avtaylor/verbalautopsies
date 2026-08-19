@@ -1,0 +1,60 @@
+cause_code,level3_name,total,0,1-4,5-9,10-14
+01-01-01,Communicable disease: Acute febrile illness: Malaria,247,20,171,47,9
+01-01-04,Communicable disease: Acute febrile illness: Pneumonia,118,56,52,8,2
+01-05-00,Communicable disease: Diarrhoeal disease without fever,85,15,68,2,0
+03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,59,6,42,9,2
+01-01-05,Communicable disease: Acute febrile illness: Diarrhoea with fever,45,4,37,3,1
+01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,42,5,32,5,0
+01-04-02,Communicable disease: TB/AIDS: AIDS,37,3,25,6,3
+01-01-02,Communicable disease: Acute febrile illness: Menigitis,29,4,17,5,3
+04-03-00,External cause: Drowning/submersion,26,0,13,10,3
+03-08-00,Non communicable disease: Anaemia: Unspecifiable,21,2,16,2,1
+01-04-01,Communicable disease: TB/AIDS: Pulmonary TB,20,1,14,4,1
+05-04-00,Causes specific to infancy: Congenital abnormality,16,6,9,1,0
+01-01-99,Communicable disease: Acute febrile illness: Other specific unlisted,12,1,9,2,0
+00-02-00,Unspecifiable: Specific information missing on VAQ,11,4,5,1,1
+03-04-99,Non communicable disease: Central nervous system disorder: Other specific unlisted,10,0,8,1,1
+04-01-00,External cause: Transport,10,0,3,6,1
+01-01-06,Communicable disease: Acute febrile illness: Sepsis,10,4,4,1,1
+03-03-03,Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction,9,1,7,1,0
+03-06-99,Non communicable disease: Neoplasm: Other specific unlisted,9,0,6,2,1
+03-02-02,Non communicable disease: Respiratory disorder: Asthma,8,0,7,1,0
+05-03-00,Causes specific to infancy: Prematurity/low birth weight,8,8,0,0,0
+03-04-02,Non communicable disease: Central nervous system disorder: Epilepsy,7,1,5,1,0
+05-08-00,Causes specific to infancy: Sudden infant death syndrome,7,7,0,0,0
+03-99-00,Non communicable disease: Other specific unlisted,7,1,6,0,0
+04-05-00,External cause: Poisoning/exposure to noxious substance,6,0,3,2,1
+01-01-03,Communicable disease: Acute febrile illness: Measles,5,0,3,2,0
+03-01-99,Non communicable disease: Cardiovascular disorder: Other specific unlisted,5,0,4,1,0
+03-07-01,Non communicable disease: Genito urinary disorders: Kidney disorder,5,1,3,0,1
+04-02-00,External cause: Fall,5,0,1,3,1
+04-09-00,External cause: Choking,5,2,3,0,0
+03-03-02,Non communicable disease: Gastro intestinal disorder: Liver cirrhosis,4,0,1,2,1
+03-01-04,Non communicable disease: Cardiovascular disorder: Cerebro vascular disease,4,0,2,2,0
+04-99-00,External cause: Other specific unlisted,4,1,2,1,0
+04-07-00,External cause: Contact with venomous animals and plants,4,0,1,2,1
+05-06-00,Causes specific to infancy: Neonatal sepsis,4,4,0,0,0
+01-03-00,Communicable disease: Hepatitis,4,2,2,0,0
+01-99-00,Communicable disease: Other specific unlisted,4,2,0,2,0
+05-05-00,Causes specific to infancy: Birth injury/asphyxia,3,0,1,2,0
+04-04-00,External cause: Exposure to smoke/fire/flames,3,0,2,1,0
+03-01-02,Non communicable disease: Cardiovascular disorder: Congestive heart disease,2,1,1,0,0
+03-02-99,Non communicable disease: Respiratory disorder: Other specific unlisted,2,1,1,0,0
+03-02-00,Non communicable disease: Respiratory disorder: Unspecifiable,2,0,1,1,0
+01-04-03,Communicable disease: TB/AIDS: Extrapulmonary TB,2,0,1,1,0
+05-99-00,Causes specific to infancy: Other specific unlisted,2,2,0,0,0
+03-03-00,Non communicable disease: Gastro intestinal disorder: Unspecifiable,1,1,0,0,0
+03-03-01,Non communicable disease: Gastro intestinal disorder: Peptic ulcer disease,1,0,0,1,0
+01-07-00,Communicable disease: Rabies,1,0,1,0,0
+00-04-00,"Unspecifiable: Multiple significant pathology, single COD can't be isolated",1,1,0,0,0
+00-03-00,Unspecifiable: No significant pathology that would explain the death,1,1,0,0,0
+03-02-01,Non communicable disease: Respiratory disorder: Chronic obstructive pulmonary disease,1,0,0,1,0
+03-06-06,Non communicable disease: Neoplasm: Oral,1,0,0,0,1
+03-09-00,Non communicable disease: Nutritional disorder: Unspecifiable,1,0,1,0,0
+03-08-99,Non communicable disease: Anaemia: Other specific unlisted,1,0,1,0,0
+03-08-01,Non communicable disease: Anaemia: Caused by chronic communicable disease,1,0,1,0,0
+03-07-99,Non communicable disease: Genito urinary disorders: Other specific unlisted,1,0,0,0,1
+03-05-99,Non communicable disease: Endocrine disorders: Other specific unlisted,1,0,1,0,0
+03-06-00,Non communicable disease: Neoplasm: Unspecifiable,1,0,1,0,0
+03-06-04,Non communicable disease: Neoplasm: Gastro intestinal tract including abdominal but excluding liver,1,0,0,0,1
+04-08-00,External cause: Hanging,1,0,0,0,1

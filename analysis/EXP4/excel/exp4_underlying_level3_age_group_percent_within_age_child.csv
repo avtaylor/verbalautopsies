@@ -1,0 +1,50 @@
+cause_code,level3_name,total,0,1-4,5-9,10-14
+01-01-04,Communicable disease: Acute febrile illness: Pneumonia,204,40.64,17.23,7.98,6.67
+01-01-01,Communicable disease: Acute febrile illness: Malaria,193,9.09,19.23,25.77,20.0
+01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,89,6.42,9.54,6.75,8.89
+01-05-00,Communicable disease: Diarrhoeal disease without fever,79,4.81,10.77,0.0,0.0
+01-04-02,Communicable disease: TB/AIDS: AIDS,78,8.56,7.38,6.13,8.89
+03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,53,3.21,5.38,6.75,2.22
+01-01-05,Communicable disease: Acute febrile illness: Diarrhoea with fever,47,4.81,5.69,0.0,2.22
+03-08-00,Non communicable disease: Anaemia: Unspecifiable,34,1.6,3.85,3.07,2.22
+00-02-00,Unspecifiable: Specific information missing on VAQ,31,6.42,1.85,3.07,4.44
+01-01-02,Communicable disease: Acute febrile illness: Menigitis,27,1.6,2.77,2.45,4.44
+01-04-01,Communicable disease: TB/AIDS: Pulmonary TB,18,1.07,1.54,3.07,2.22
+01-01-06,Communicable disease: Acute febrile illness: Sepsis,18,2.67,1.69,0.61,2.22
+04-03-00,External cause: Drowning/submersion,16,0.0,0.92,5.52,2.22
+04-99-00,External cause: Other specific unlisted,15,0.53,1.23,2.45,4.44
+04-01-00,External cause: Transport,13,0.0,0.77,4.29,2.22
+03-04-02,Non communicable disease: Central nervous system disorder: Epilepsy,11,0.0,0.77,2.45,4.44
+03-03-03,Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction,10,1.07,0.77,1.84,0.0
+03-06-99,Non communicable disease: Neoplasm: Other specific unlisted,9,0.0,0.46,3.07,2.22
+03-07-01,Non communicable disease: Genito urinary disorders: Kidney disorder,9,0.0,0.46,3.07,2.22
+04-00-00,External cause: Unspecifiable,8,0.0,0.77,1.84,0.0
+03-99-00,Non communicable disease: Other specific unlisted,6,0.0,0.77,0.61,0.0
+03-02-02,Non communicable disease: Respiratory disorder: Asthma,6,0.53,0.46,1.23,0.0
+04-07-00,External cause: Contact with venomous animals and plants,6,0.53,0.31,1.23,2.22
+01-01-03,Communicable disease: Acute febrile illness: Measles,6,0.0,0.62,1.23,0.0
+05-04-00,Causes specific to infancy: Congenital abnormality,5,1.07,0.31,0.61,0.0
+05-00-00,Causes specific to infancy: Unspecifiable,4,1.07,0.31,0.0,0.0
+00-01-00,Unspecifiable: No information (VAQ not available),4,0.53,0.31,0.61,0.0
+05-06-00,Causes specific to infancy: Neonatal sepsis,4,1.07,0.31,0.0,0.0
+03-04-99,Non communicable disease: Central nervous system disorder: Other specific unlisted,4,0.0,0.62,0.0,0.0
+01-01-99,Communicable disease: Acute febrile illness: Other specific unlisted,4,0.53,0.0,1.84,0.0
+04-02-00,External cause: Fall,3,0.0,0.0,1.23,2.22
+04-04-00,External cause: Exposure to smoke/fire/flames,3,0.0,0.46,0.0,0.0
+03-08-99,Non communicable disease: Anaemia: Other specific unlisted,3,0.0,0.46,0.0,0.0
+03-01-99,Non communicable disease: Cardiovascular disorder: Other specific unlisted,3,0.0,0.31,0.0,2.22
+03-03-02,Non communicable disease: Gastro intestinal disorder: Liver cirrhosis,3,0.0,0.15,0.61,2.22
+03-01-02,Non communicable disease: Cardiovascular disorder: Congestive heart disease,2,0.53,0.0,0.0,2.22
+00-03-00,Unspecifiable: No significant pathology that would explain the death,2,0.53,0.15,0.0,0.0
+05-08-00,Causes specific to infancy: Sudden infant death syndrome,2,0.0,0.31,0.0,0.0
+04-05-00,External cause: Poisoning/exposure to noxious substance,2,0.0,0.15,0.61,0.0
+03-06-00,Non communicable disease: Neoplasm: Unspecifiable,2,0.0,0.31,0.0,0.0
+01-07-00,Communicable disease: Rabies,1,0.0,0.15,0.0,0.0
+03-00-00,Non communicable disease: Unspecifiable,1,0.0,0.15,0.0,0.0
+03-06-06,Non communicable disease: Neoplasm: Oral,1,0.0,0.0,0.0,2.22
+03-02-01,Non communicable disease: Respiratory disorder: Chronic obstructive pulmonary disease,1,0.0,0.15,0.0,0.0
+03-03-99,Non communicable disease: Gastro intestinal disorder: Other specific unlisted,1,0.0,0.15,0.0,0.0
+03-05-01,Non communicable disease: Endocrine disorders: Diabetes,1,0.0,0.0,0.0,2.22
+04-09-00,External cause: Choking,1,0.53,0.0,0.0,0.0
+04-08-00,External cause: Hanging,1,0.0,0.0,0.0,2.22
+05-05-00,Causes specific to infancy: Birth injury/asphyxia,1,0.53,0.0,0.0,0.0

@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="760" viewBox="0 0 1320 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="92" y="34" text-anchor="start" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Underlying COD PCCC by Age Group, Coding Level, and Experiment</text>
+<text x="92" y="58" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#52616b">Single-prediction PCCC-style measure for strict LLM underlying code vs physician underlying code.</text>
+<text x="253.0" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">Level 1</text>
+<line x1="92.0" y1="632.0" x2="414.0" y2="632.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="80" y="636.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.00</text>
+<line x1="92.0" y1="501.5" x2="414.0" y2="501.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="80" y="505.5" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.25</text>
+<line x1="92.0" y1="371.0" x2="414.0" y2="371.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="80" y="375.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.50</text>
+<line x1="92.0" y1="240.5" x2="414.0" y2="240.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="80" y="244.5" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.75</text>
+<line x1="92.0" y1="110.0" x2="414.0" y2="110.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="80" y="114.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">1.00</text>
+<line x1="92.0" y1="110" x2="92.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="92.0" y="654" transform="rotate(45 92.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">15-24</text>
+<line x1="132.25" y1="110" x2="132.25" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="132.25" y="654" transform="rotate(45 132.25 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">25-44</text>
+<line x1="172.5" y1="110" x2="172.5" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="172.5" y="654" transform="rotate(45 172.5 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">45-64</text>
+<line x1="212.75" y1="110" x2="212.75" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="212.75" y="654" transform="rotate(45 212.75 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">65+</text>
+<line x1="253.0" y1="110" x2="253.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="253.0" y="654" transform="rotate(45 253.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">0</text>
+<line x1="293.25" y1="110" x2="293.25" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="293.25" y="654" transform="rotate(45 293.25 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">1-4</text>
+<line x1="333.5" y1="110" x2="333.5" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="333.5" y="654" transform="rotate(45 333.5 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">5-9</text>
+<line x1="373.75" y1="110" x2="373.75" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="373.75" y="654" transform="rotate(45 373.75 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">10-14</text>
+<line x1="414.0" y1="110" x2="414.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="414.0" y="654" transform="rotate(45 414.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">infant 0</text>
+<line x1="232.875" y1="106" x2="232.875" y2="636" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+<line x1="393.875" y1="106" x2="393.875" y2="636" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+<path d="M 80.0 195.9764705882354 L 120.25 175.73081924577377 L 160.5 184.29381443298973 L 200.75 188.96923076923076 L 241.0 164.30573248407643 L 281.25 196.39792387543247 L 321.5 175.25000000000006 L 361.75 217.47058823529414 L 402.0 233.98802395209583" fill="none" stroke="#2563eb" stroke-width="2.2" opacity="0.88"/>
+<circle cx="80.0" cy="195.9764705882354" r="4.8" fill="#2563eb"/>
+<circle cx="120.25" cy="175.73081924577377" r="4.8" fill="#2563eb"/>
+<circle cx="160.5" cy="184.29381443298973" r="4.8" fill="#2563eb"/>
+<circle cx="200.75" cy="188.96923076923076" r="4.8" fill="#2563eb"/>
+<circle cx="241.0" cy="164.30573248407643" r="4.8" fill="#2563eb"/>
+<circle cx="281.25" cy="196.39792387543247" r="4.8" fill="#2563eb"/>
+<circle cx="321.5" cy="175.25000000000006" r="4.8" fill="#2563eb"/>
+<circle cx="361.75" cy="217.47058823529414" r="4.8" fill="#2563eb"/>
+<circle cx="402.0" cy="233.98802395209583" r="4.8" fill="#2563eb"/>
+<path d="M 88.0 203.1411764705883 L 128.25 190.77763328998697 L 168.5 204.17525773195882 L 208.75 239.16153846153853 L 249.0 210.85350318471336 L 289.25 215.36332179930798 L 329.5 214.40000000000003 L 369.75 199.55882352941185 L 410.0 282.6107784431139" fill="none" stroke="#d97706" stroke-width="2.2" opacity="0.88"/>
+<circle cx="88.0" cy="203.1411764705883" r="4.8" fill="#d97706"/>
+<circle cx="128.25" cy="190.77763328998697" r="4.8" fill="#d97706"/>
+<circle cx="168.5" cy="204.17525773195882" r="4.8" fill="#d97706"/>
+<circle cx="208.75" cy="239.16153846153853" r="4.8" fill="#d97706"/>
+<circle cx="249.0" cy="210.85350318471336" r="4.8" fill="#d97706"/>
+<circle cx="289.25" cy="215.36332179930798" r="4.8" fill="#d97706"/>
+<circle cx="329.5" cy="214.40000000000003" r="4.8" fill="#d97706"/>
+<circle cx="369.75" cy="199.55882352941185" r="4.8" fill="#d97706"/>
+<circle cx="410.0" cy="282.6107784431139" r="4.8" fill="#d97706"/>
+<path d="M 96.0 249.7117647058824 L 136.25 239.87776332899878 L 176.5 242.89175257731964 L 216.75 227.11538461538458 L 257.0 249.6433121019108 L 297.25 216.41695501730112 L 337.5 257.9 L 377.75 271.2058823529411 L 418.0 277.7485029940119" fill="none" stroke="#059669" stroke-width="2.2" opacity="0.88"/>
+<circle cx="96.0" cy="249.7117647058824" r="4.8" fill="#059669"/>
+<circle cx="136.25" cy="239.87776332899878" r="4.8" fill="#059669"/>
+<circle cx="176.5" cy="242.89175257731964" r="4.8" fill="#059669"/>
+<circle cx="216.75" cy="227.11538461538458" r="4.8" fill="#059669"/>
+<circle cx="257.0" cy="249.6433121019108" r="4.8" fill="#059669"/>
+<circle cx="297.25" cy="216.41695501730112" r="4.8" fill="#059669"/>
+<circle cx="337.5" cy="257.9" r="4.8" fill="#059669"/>
+<circle cx="377.75" cy="271.2058823529411" r="4.8" fill="#059669"/>
+<circle cx="418.0" cy="277.7485029940119" r="4.8" fill="#059669"/>
+<path d="M 104.0 199.55882352941185 L 144.25 196.3211963589078 L 184.5 214.639175257732 L 224.75 248.53076923076927 L 265.0 230.24840764331208 L 305.25 212.2024221453287 L 345.5 218.75 L 385.75 199.55882352941185 L 426.0 265.59281437125753" fill="none" stroke="#dc2626" stroke-width="2.2" opacity="0.88"/>
+<circle cx="104.0" cy="199.55882352941185" r="4.8" fill="#dc2626"/>
+<circle cx="144.25" cy="196.3211963589078" r="4.8" fill="#dc2626"/>
+<circle cx="184.5" cy="214.639175257732" r="4.8" fill="#dc2626"/>
+<circle cx="224.75" cy="248.53076923076927" r="4.8" fill="#dc2626"/>
+<circle cx="265.0" cy="230.24840764331208" r="4.8" fill="#dc2626"/>
+<circle cx="305.25" cy="212.2024221453287" r="4.8" fill="#dc2626"/>
+<circle cx="345.5" cy="218.75" r="4.8" fill="#dc2626"/>
+<circle cx="385.75" cy="199.55882352941185" r="4.8" fill="#dc2626"/>
+<circle cx="426.0" cy="265.59281437125753" r="4.8" fill="#dc2626"/>
+<text x="152.375" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Adult</text>
+<text x="313.375" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Child</text>
+<text x="414.0" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Infant</text>
+<text x="631.0" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">Level 2</text>
+<line x1="470.0" y1="632.0" x2="792.0" y2="632.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="470.0" y1="501.5" x2="792.0" y2="501.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="470.0" y1="371.0" x2="792.0" y2="371.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="470.0" y1="240.5" x2="792.0" y2="240.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="470.0" y1="110.0" x2="792.0" y2="110.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="470.0" y1="110" x2="470.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="470.0" y="654" transform="rotate(45 470.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">15-24</text>
+<line x1="510.25" y1="110" x2="510.25" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="510.25" y="654" transform="rotate(45 510.25 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">25-44</text>
+<line x1="550.5" y1="110" x2="550.5" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="550.5" y="654" transform="rotate(45 550.5 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">45-64</text>
+<line x1="590.75" y1="110" x2="590.75" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="590.75" y="654" transform="rotate(45 590.75 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">65+</text>
+<line x1="631.0" y1="110" x2="631.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="631.0" y="654" transform="rotate(45 631.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">0</text>
+<line x1="671.25" y1="110" x2="671.25" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="671.25" y="654" transform="rotate(45 671.25 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">1-4</text>
+<line x1="711.5" y1="110" x2="711.5" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="711.5" y="654" transform="rotate(45 711.5 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">5-9</text>
+<line x1="751.75" y1="110" x2="751.75" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="751.75" y="654" transform="rotate(45 751.75 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">10-14</text>
+<line x1="792.0" y1="110" x2="792.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="792.0" y="654" transform="rotate(45 792.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">infant 0</text>
+<line x1="610.875" y1="106" x2="610.875" y2="636" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+<line x1="771.875" y1="106" x2="771.875" y2="636" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+<path d="M 458.0 266.4819004524886 L 498.25 225.5402120636191 L 538.5 244.38084853291036 L 578.75 262.59564666103125 L 619.0 265.8838804507595 L 659.25 262.7999733830183 L 699.5 235.40906593406595 L 739.75 282.1300904977375 L 780.0 293.71787194841085" fill="none" stroke="#2563eb" stroke-width="2.2" opacity="0.88"/>
+<circle cx="458.0" cy="266.4819004524886" r="4.8" fill="#2563eb"/>
+<circle cx="498.25" cy="225.5402120636191" r="4.8" fill="#2563eb"/>
+<circle cx="538.5" cy="244.38084853291036" r="4.8" fill="#2563eb"/>
+<circle cx="578.75" cy="262.59564666103125" r="4.8" fill="#2563eb"/>
+<circle cx="619.0" cy="265.8838804507595" r="4.8" fill="#2563eb"/>
+<circle cx="659.25" cy="262.7999733830183" r="4.8" fill="#2563eb"/>
+<circle cx="699.5" cy="235.40906593406595" r="4.8" fill="#2563eb"/>
+<circle cx="739.75" cy="282.1300904977375" r="4.8" fill="#2563eb"/>
+<circle cx="780.0" cy="293.71787194841085" r="4.8" fill="#2563eb"/>
+<path d="M 466.0 310.2968325791855 L 506.25 278.12138641592475 L 546.5 298.31601903251385 L 586.75 331.58524936601856 L 627.0 292.9941205291524 L 667.25 297.7782805429864 L 707.5 281.01236263736257 L 747.75 313.42647058823525 L 788.0 463.63035467526487" fill="none" stroke="#d97706" stroke-width="2.2" opacity="0.88"/>
+<circle cx="466.0" cy="310.2968325791855" r="4.8" fill="#d97706"/>
+<circle cx="506.25" cy="278.12138641592475" r="4.8" fill="#d97706"/>
+<circle cx="546.5" cy="298.31601903251385" r="4.8" fill="#d97706"/>
+<circle cx="586.75" cy="331.58524936601856" r="4.8" fill="#d97706"/>
+<circle cx="627.0" cy="292.9941205291524" r="4.8" fill="#d97706"/>
+<circle cx="667.25" cy="297.7782805429864" r="4.8" fill="#d97706"/>
+<circle cx="707.5" cy="281.01236263736257" r="4.8" fill="#d97706"/>
+<circle cx="747.75" cy="313.42647058823525" r="4.8" fill="#d97706"/>
+<circle cx="788.0" cy="463.63035467526487" r="4.8" fill="#d97706"/>
+<path d="M 474.0 319.6857466063349 L 514.25 306.48754626387915 L 554.5 301.97264076130057 L 594.75 290.0745562130178 L 635.0 340.43704066634 L 675.25 287.65298110194306 L 715.5 303.81401098901097 L 755.75 329.07466063348414 L 796.0 316.0188853063105" fill="none" stroke="#059669" stroke-width="2.2" opacity="0.88"/>
+<circle cx="474.0" cy="319.6857466063349" r="4.8" fill="#059669"/>
+<circle cx="514.25" cy="306.48754626387915" r="4.8" fill="#059669"/>
+<circle cx="554.5" cy="301.97264076130057" r="4.8" fill="#059669"/>
+<circle cx="594.75" cy="290.0745562130178" r="4.8" fill="#059669"/>
+<circle cx="635.0" cy="340.43704066634" r="4.8" fill="#059669"/>
+<circle cx="675.25" cy="287.65298110194306" r="4.8" fill="#059669"/>
+<circle cx="715.5" cy="303.81401098901097" r="4.8" fill="#059669"/>
+<circle cx="755.75" cy="329.07466063348414" r="4.8" fill="#059669"/>
+<circle cx="796.0" cy="316.0188853063105" r="4.8" fill="#059669"/>
+<path d="M 482.0 322.8153846153846 L 522.25 272.5865259577874 L 562.5 296.48770816812055 L 602.75 339.7704564666103 L 643.0 303.16046055854974 L 683.25 284.8915357998403 L 723.5 284.81263736263736 L 763.75 313.42647058823525 L 804.0 454.07277752187935" fill="none" stroke="#dc2626" stroke-width="2.2" opacity="0.88"/>
+<circle cx="482.0" cy="322.8153846153846" r="4.8" fill="#dc2626"/>
+<circle cx="522.25" cy="272.5865259577874" r="4.8" fill="#dc2626"/>
+<circle cx="562.5" cy="296.48770816812055" r="4.8" fill="#dc2626"/>
+<circle cx="602.75" cy="339.7704564666103" r="4.8" fill="#dc2626"/>
+<circle cx="643.0" cy="303.16046055854974" r="4.8" fill="#dc2626"/>
+<circle cx="683.25" cy="284.8915357998403" r="4.8" fill="#dc2626"/>
+<circle cx="723.5" cy="284.81263736263736" r="4.8" fill="#dc2626"/>
+<circle cx="763.75" cy="313.42647058823525" r="4.8" fill="#dc2626"/>
+<circle cx="804.0" cy="454.07277752187935" r="4.8" fill="#dc2626"/>
+<text x="530.375" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Adult</text>
+<text x="691.375" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Child</text>
+<text x="792.0" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Infant</text>
+<text x="1009.0" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">Level 3</text>
+<line x1="848.0" y1="632.0" x2="1170.0" y2="632.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="848.0" y1="501.5" x2="1170.0" y2="501.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="848.0" y1="371.0" x2="1170.0" y2="371.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="848.0" y1="240.5" x2="1170.0" y2="240.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="848.0" y1="110.0" x2="1170.0" y2="110.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="848.0" y1="110" x2="848.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="848.0" y="654" transform="rotate(45 848.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">15-24</text>
+<line x1="888.25" y1="110" x2="888.25" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="888.25" y="654" transform="rotate(45 888.25 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">25-44</text>
+<line x1="928.5" y1="110" x2="928.5" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="928.5" y="654" transform="rotate(45 928.5 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">45-64</text>
+<line x1="968.75" y1="110" x2="968.75" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="968.75" y="654" transform="rotate(45 968.75 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">65+</text>
+<line x1="1009.0" y1="110" x2="1009.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="1009.0" y="654" transform="rotate(45 1009.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">0</text>
+<line x1="1049.25" y1="110" x2="1049.25" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="1049.25" y="654" transform="rotate(45 1049.25 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">1-4</text>
+<line x1="1089.5" y1="110" x2="1089.5" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="1089.5" y="654" transform="rotate(45 1089.5 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">5-9</text>
+<line x1="1129.75" y1="110" x2="1129.75" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="1129.75" y="654" transform="rotate(45 1129.75 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">10-14</text>
+<line x1="1170.0" y1="110" x2="1170.0" y2="632" stroke="#f1f5f9" stroke-width="1"/>
+<text x="1170.0" y="654" transform="rotate(45 1170.0 654)" text-anchor="start" font-family="Arial, sans-serif" font-size="10" fill="#374151">infant 0</text>
+<line x1="988.875" y1="106" x2="988.875" y2="636" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+<line x1="1149.875" y1="106" x2="1149.875" y2="636" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+<path d="M 836.0 339.6408010012516 L 876.25 289.73853858285145 L 916.5 330.26705417854794 L 956.75 403.9224924012158 L 997.0 385.5373356823418 L 1037.25 389.29286608260327 L 1077.5 339.862462006079 L 1117.75 373.77659574468083 L 1158.0 294.27506688750157" fill="none" stroke="#2563eb" stroke-width="2.2" opacity="0.88"/>
+<circle cx="836.0" cy="339.6408010012516" r="4.8" fill="#2563eb"/>
+<circle cx="876.25" cy="289.73853858285145" r="4.8" fill="#2563eb"/>
+<circle cx="916.5" cy="330.26705417854794" r="4.8" fill="#2563eb"/>
+<circle cx="956.75" cy="403.9224924012158" r="4.8" fill="#2563eb"/>
+<circle cx="997.0" cy="385.5373356823418" r="4.8" fill="#2563eb"/>
+<circle cx="1037.25" cy="389.29286608260327" r="4.8" fill="#2563eb"/>
+<circle cx="1077.5" cy="339.862462006079" r="4.8" fill="#2563eb"/>
+<circle cx="1117.75" cy="373.77659574468083" r="4.8" fill="#2563eb"/>
+<circle cx="1158.0" cy="294.27506688750157" r="4.8" fill="#2563eb"/>
+<path d="M 844.0 364.4668335419274 L 884.25 332.95811083750664 L 924.5 369.244351831542 L 964.75 434.0683890577508 L 1005.0 392.2577585038623 L 1045.25 434.0162335272031 L 1085.5 388.84954407294833 L 1125.75 404.80913642052565 L 1166.0 463.8081284240031" fill="none" stroke="#d97706" stroke-width="2.2" opacity="0.88"/>
+<circle cx="844.0" cy="364.4668335419274" r="4.8" fill="#d97706"/>
+<circle cx="884.25" cy="332.95811083750664" r="4.8" fill="#d97706"/>
+<circle cx="924.5" cy="369.244351831542" r="4.8" fill="#d97706"/>
+<circle cx="964.75" cy="434.0683890577508" r="4.8" fill="#d97706"/>
+<circle cx="1005.0" cy="392.2577585038623" r="4.8" fill="#d97706"/>
+<circle cx="1045.25" cy="434.0162335272031" r="4.8" fill="#d97706"/>
+<circle cx="1085.5" cy="388.84954407294833" r="4.8" fill="#d97706"/>
+<circle cx="1125.75" cy="404.80913642052565" r="4.8" fill="#d97706"/>
+<circle cx="1166.0" cy="463.8081284240031" r="4.8" fill="#d97706"/>
+<path d="M 852.0 389.29286608260327 L 892.25 373.43358326646927 L 932.5 391.9055713972362 L 972.75 420.1548982931962 L 1013.0 422.4996612007047 L 1053.25 401.158249282191 L 1093.5 396.38601823708206 L 1133.75 435.84167709637046 L 1174.0 314.2820741495732" fill="none" stroke="#059669" stroke-width="2.2" opacity="0.88"/>
+<circle cx="852.0" cy="389.29286608260327" r="4.8" fill="#059669"/>
+<circle cx="892.25" cy="373.43358326646927" r="4.8" fill="#059669"/>
+<circle cx="932.5" cy="391.9055713972362" r="4.8" fill="#059669"/>
+<circle cx="972.75" cy="420.1548982931962" r="4.8" fill="#059669"/>
+<circle cx="1013.0" cy="422.4996612007047" r="4.8" fill="#059669"/>
+<circle cx="1053.25" cy="401.158249282191" r="4.8" fill="#059669"/>
+<circle cx="1093.5" cy="396.38601823708206" r="4.8" fill="#059669"/>
+<circle cx="1133.75" cy="435.84167709637046" r="4.8" fill="#059669"/>
+<circle cx="1174.0" cy="314.2820741495732" r="4.8" fill="#059669"/>
+<path d="M 860.0 386.1896120150187 L 900.25 328.841961098968 L 940.5 372.87014696205307 L 980.75 446.8224222585925 L 1021.0 392.2577585038623 L 1061.25 420.3254067584481 L 1101.5 392.61778115501517 L 1141.75 404.80913642052565 L 1182.0 453.2781246018601" fill="none" stroke="#dc2626" stroke-width="2.2" opacity="0.88"/>
+<circle cx="860.0" cy="386.1896120150187" r="4.8" fill="#dc2626"/>
+<circle cx="900.25" cy="328.841961098968" r="4.8" fill="#dc2626"/>
+<circle cx="940.5" cy="372.87014696205307" r="4.8" fill="#dc2626"/>
+<circle cx="980.75" cy="446.8224222585925" r="4.8" fill="#dc2626"/>
+<circle cx="1021.0" cy="392.2577585038623" r="4.8" fill="#dc2626"/>
+<circle cx="1061.25" cy="420.3254067584481" r="4.8" fill="#dc2626"/>
+<circle cx="1101.5" cy="392.61778115501517" r="4.8" fill="#dc2626"/>
+<circle cx="1141.75" cy="404.80913642052565" r="4.8" fill="#dc2626"/>
+<circle cx="1182.0" cy="453.2781246018601" r="4.8" fill="#dc2626"/>
+<text x="908.375" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Adult</text>
+<text x="1069.375" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Child</text>
+<text x="1170.0" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">Infant</text>
+<text x="28" y="371.0" transform="rotate(-90 28 371.0)" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">PCCC</text>
+<text x="1188" y="108" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Experiment</text>
+<line x1="1188" y1="118" x2="1216" y2="118" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="1202" cy="118" r="4.8" fill="#2563eb"/>
+<text x="1226" y="122" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">EXP1</text>
+<line x1="1188" y1="146" x2="1216" y2="146" stroke="#d97706" stroke-width="2.5"/>
+<circle cx="1202" cy="146" r="4.8" fill="#d97706"/>
+<text x="1226" y="150" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">EXP2</text>
+<line x1="1188" y1="174" x2="1216" y2="174" stroke="#059669" stroke-width="2.5"/>
+<circle cx="1202" cy="174" r="4.8" fill="#059669"/>
+<text x="1226" y="178" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">EXP3</text>
+<line x1="1188" y1="202" x2="1216" y2="202" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="1202" cy="202" r="4.8" fill="#dc2626"/>
+<text x="1226" y="206" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">EXP4</text>
+</svg>

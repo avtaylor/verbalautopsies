@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="95" y="32" font-family="Arial, sans-serif" font-size="24" fill="#111827">Distribution of EXP4 Level 1 Causes by Age Group: Children</text>
+<line x1="95" y1="470" x2="700" y2="470" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="474" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">0%</text>
+<line x1="95" y1="376.5" x2="700" y2="376.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="380.5" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">25%</text>
+<line x1="95" y1="283.0" x2="700" y2="283.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="287.0" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">50%</text>
+<line x1="95" y1="189.5" x2="700" y2="189.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="193.5" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">75%</text>
+<line x1="95" y1="96.0" x2="700" y2="96.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="100.0" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">100%</text>
+<line x1="95" y1="423.25" x2="700" y2="423.25" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="95" y1="329.75" x2="700" y2="329.75" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="95" y1="236.25" x2="700" y2="236.25" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="95" y1="142.75" x2="700" y2="142.75" stroke="#f1f5f9" stroke-width="1"/>
+<rect x="95.0" y="442.0" width="106.6" height="27.999999999999996" fill="#9aa5b1"/>
+<text x="148.3" y="460.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">7%</text>
+<rect x="95.0" y="142.0" width="106.6" height="300.0" fill="#f97068"/>
+<text x="148.3" y="296.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">80%</text>
+<rect x="95.0" y="116.0" width="106.6" height="26.0" fill="#b76ef0"/>
+<text x="148.3" y="133.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">7%</text>
+<rect x="95.0" y="110.0" width="106.6" height="6.000000000000001" fill="#08b8b8"/>
+<rect x="95.0" y="96.0" width="106.6" height="13.999999999999998" fill="#f4b942"/>
+<text x="148.3" y="498" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1f2937">0</text>
+<rect x="219.6" y="461.36923076923074" width="106.6" height="8.630769230769232" fill="#9aa5b1"/>
+<rect x="219.6" y="174.82769230769225" width="106.6" height="286.5415384615385" fill="#f97068"/>
+<text x="272.9" y="322.0984615384615" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">77%</text>
+<rect x="219.6" y="117.86461538461532" width="106.6" height="56.963076923076926" fill="#b76ef0"/>
+<text x="272.9" y="150.34615384615378" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">15%</text>
+<rect x="219.6" y="100.60307692307686" width="106.6" height="17.261538461538464" fill="#08b8b8"/>
+<rect x="219.6" y="95.99999999999993" width="106.6" height="4.603076923076923" fill="#f4b942"/>
+<text x="272.9" y="498" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1f2937">1-4</text>
+<rect x="344.2" y="456.23312883435585" width="106.6" height="13.766871165644172" fill="#9aa5b1"/>
+<rect x="344.2" y="247.4355828220859" width="106.6" height="208.79754601226995" fill="#f97068"/>
+<text x="397.5" y="355.83435582822085" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">56%</text>
+<rect x="344.2" y="162.5398773006135" width="106.6" height="84.8957055214724" fill="#b76ef0"/>
+<text x="397.5" y="208.9877300613497" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">23%</text>
+<rect x="344.2" y="98.29447852760737" width="106.6" height="64.24539877300614" fill="#08b8b8"/>
+<text x="397.5" y="134.41717791411043" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">17%</text>
+<rect x="344.2" y="96.0" width="106.6" height="2.294478527607362" fill="#f4b942"/>
+<text x="397.5" y="498" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1f2937">5-9</text>
+<rect x="468.79999999999995" y="453.3777777777778" width="106.6" height="16.622222222222224" fill="#9aa5b1"/>
+<rect x="468.79999999999995" y="245.6" width="106.6" height="207.7777777777778" fill="#f97068"/>
+<text x="522.0999999999999" y="353.4888888888889" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">56%</text>
+<rect x="468.79999999999995" y="154.17777777777778" width="106.6" height="91.42222222222222" fill="#b76ef0"/>
+<text x="522.0999999999999" y="203.88888888888889" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">24%</text>
+<rect x="468.79999999999995" y="96.0" width="106.6" height="58.17777777777778" fill="#08b8b8"/>
+<text x="522.0999999999999" y="129.0888888888889" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">16%</text>
+<text x="522.0999999999999" y="498" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1f2937">10-14</text>
+<rect x="593.4" y="96.0" width="106.6" height="374.0" fill="#f97068"/>
+<text x="646.6999999999999" y="287.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">100%</text>
+<text x="646.6999999999999" y="498" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1f2937">15</text>
+<text x="397.5" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#111827">Age group</text>
+<text x="24" y="283.0" transform="rotate(-90 24,283.0)" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#111827">Proportion</text>
+<text x="735" y="144" font-family="Arial, sans-serif" font-size="18" fill="#111827">Level 1 cause</text>
+<rect x="735" y="152" width="22" height="22" fill="#9aa5b1"/>
+<text x="769" y="168" font-family="Arial, sans-serif" font-size="14" fill="#111827">Unspecifiable</text>
+<rect x="735" y="180" width="22" height="22" fill="#f97068"/>
+<text x="769" y="196" font-family="Arial, sans-serif" font-size="14" fill="#111827">Communicable disease</text>
+<rect x="735" y="208" width="22" height="22" fill="#b76ef0"/>
+<text x="769" y="224" font-family="Arial, sans-serif" font-size="14" fill="#111827">Non communicable disease</text>
+<rect x="735" y="236" width="22" height="22" fill="#08b8b8"/>
+<text x="769" y="252" font-family="Arial, sans-serif" font-size="14" fill="#111827">External cause</text>
+<rect x="735" y="264" width="22" height="22" fill="#f4b942"/>
+<text x="769" y="280" font-family="Arial, sans-serif" font-size="14" fill="#111827">Causes specific to infancy</text>
+</svg>

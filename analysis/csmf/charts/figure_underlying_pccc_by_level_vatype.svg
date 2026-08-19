@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="560" viewBox="0 0 1060 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="86" y="34" text-anchor="start" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Underlying COD PCCC by Coding Level and VA Type</text>
+<text x="86" y="58" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#52616b">Single-prediction PCCC-style measure for strict LLM underlying code vs physician underlying code.</text>
+<text x="203.66666666666669" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">Adult</text>
+<line x1="86.0" y1="478.0" x2="321.33333333333337" y2="478.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="482.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.00</text>
+<line x1="86.0" y1="384.5" x2="321.33333333333337" y2="384.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="388.5" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.25</text>
+<line x1="86.0" y1="291.0" x2="321.33333333333337" y2="291.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="295.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.50</text>
+<line x1="86.0" y1="197.5" x2="321.33333333333337" y2="197.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="201.5" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.75</text>
+<line x1="86.0" y1="104.0" x2="321.33333333333337" y2="104.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="108.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">1.00</text>
+<line x1="86.0" y1="104" x2="86.0" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="86.0" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 1</text>
+<line x1="203.66666666666669" y1="104" x2="203.66666666666669" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="203.66666666666669" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 2</text>
+<line x1="321.33333333333337" y1="104" x2="321.33333333333337" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="321.33333333333337" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 3</text>
+<path d="M 76.0 157.12820512820514 L 193.66666666666669 202.0029585798817 L 311.33333333333337 272.8543371522095" fill="none" stroke="#2563eb" stroke-width="2.4"/>
+<circle cx="76.0" cy="157.12820512820514" r="5.2" fill="#2563eb"/>
+<text x="76.0" y="147.12820512820514" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.86</text>
+<circle cx="193.66666666666669" cy="202.0029585798817" r="5.2" fill="#2563eb"/>
+<text x="193.66666666666669" y="192.0029585798817" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.74</text>
+<circle cx="311.33333333333337" cy="272.8543371522095" r="5.2" fill="#2563eb"/>
+<text x="311.33333333333337" y="262.8543371522095" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.55</text>
+<path d="M 82.7 177.76923076923083 L 200.36666666666667 243.86982248520712 L 318.03333333333336 298.6644844517185" fill="none" stroke="#d97706" stroke-width="2.4"/>
+<circle cx="82.7" cy="177.76923076923083" r="5.2" fill="#d97706"/>
+<text x="82.7" y="167.76923076923083" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.80</text>
+<circle cx="200.36666666666667" cy="243.86982248520712" r="5.2" fill="#d97706"/>
+<text x="200.36666666666667" y="233.86982248520712" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.63</text>
+<circle cx="318.03333333333336" cy="298.6644844517185" r="5.2" fill="#d97706"/>
+<text x="318.03333333333336" y="288.6644844517185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.48</text>
+<path d="M 89.3 194.6410256410257 L 206.9666666666667 240.26331360946745 L 324.6333333333334 309.2373158756137" fill="none" stroke="#059669" stroke-width="2.4"/>
+<circle cx="89.3" cy="194.6410256410257" r="5.2" fill="#059669"/>
+<text x="89.3" y="184.6410256410257" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.76</text>
+<circle cx="206.9666666666667" cy="240.26331360946745" r="5.2" fill="#059669"/>
+<text x="206.9666666666667" y="230.26331360946745" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.64</text>
+<circle cx="324.6333333333334" cy="309.2373158756137" r="5.2" fill="#059669"/>
+<text x="324.6333333333334" y="299.2373158756137" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.45</text>
+<path d="M 96.0 183.1538461538462 L 213.66666666666669 245.12426035502958 L 331.33333333333337 302.8625204582651" fill="none" stroke="#dc2626" stroke-width="2.4"/>
+<circle cx="96.0" cy="183.1538461538462" r="5.2" fill="#dc2626"/>
+<text x="96.0" y="173.1538461538462" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.79</text>
+<circle cx="213.66666666666669" cy="245.12426035502958" r="5.2" fill="#dc2626"/>
+<text x="213.66666666666669" y="235.12426035502958" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.62</text>
+<circle cx="331.33333333333337" cy="302.8625204582651" r="5.2" fill="#dc2626"/>
+<text x="331.33333333333337" y="292.8625204582651" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.47</text>
+<text x="493.00000000000006" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">Child</text>
+<line x1="375.33333333333337" y1="478.0" x2="610.6666666666667" y2="478.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="375.33333333333337" y1="384.5" x2="610.6666666666667" y2="384.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="375.33333333333337" y1="291.0" x2="610.6666666666667" y2="291.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="375.33333333333337" y1="197.5" x2="610.6666666666667" y2="197.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="375.33333333333337" y1="104.0" x2="610.6666666666667" y2="104.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="375.33333333333337" y1="104" x2="375.33333333333337" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="375.33333333333337" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 1</text>
+<line x1="493.00000000000006" y1="104" x2="493.00000000000006" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="493.00000000000006" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 2</text>
+<line x1="610.6666666666667" y1="104" x2="610.6666666666667" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="610.6666666666667" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 3</text>
+<path d="M 365.33333333333337 160.1617161716172 L 483.00000000000006 211.3544892950834 L 600.6666666666667 297.77127074409566" fill="none" stroke="#2563eb" stroke-width="2.4"/>
+<circle cx="365.33333333333337" cy="160.1617161716172" r="5.2" fill="#2563eb"/>
+<text x="365.33333333333337" y="150.1617161716172" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.85</text>
+<circle cx="483.00000000000006" cy="211.3544892950834" r="5.2" fill="#2563eb"/>
+<text x="483.00000000000006" y="201.3544892950834" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.71</text>
+<circle cx="600.6666666666667" cy="297.77127074409566" r="5.2" fill="#2563eb"/>
+<text x="600.6666666666667" y="287.77127074409566" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.48</text>
+<path d="M 372.03333333333336 178.40227356068942 L 489.70000000000005 236.5156977236185 L 607.3666666666668 325.21527046321654" fill="none" stroke="#d97706" stroke-width="2.4"/>
+<circle cx="372.03333333333336" cy="178.40227356068942" r="5.2" fill="#d97706"/>
+<text x="372.03333333333336" y="168.40227356068942" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.80</text>
+<circle cx="489.70000000000005" cy="236.5156977236185" r="5.2" fill="#d97706"/>
+<text x="489.70000000000005" y="226.5156977236185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.65</text>
+<circle cx="607.3666666666668" cy="325.21527046321654" r="5.2" fill="#d97706"/>
+<text x="607.3666666666668" y="315.21527046321654" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.41</text>
+<path d="M 378.6333333333334 190.4026402640264 L 496.30000000000007 240.70923246170773 L 613.9666666666667 315.65145237928044" fill="none" stroke="#059669" stroke-width="2.4"/>
+<circle cx="378.6333333333334" cy="190.4026402640264" r="5.2" fill="#059669"/>
+<text x="378.6333333333334" y="180.4026402640264" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.77</text>
+<circle cx="496.30000000000007" cy="240.70923246170773" r="5.2" fill="#059669"/>
+<text x="496.30000000000007" y="230.70923246170773" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.63</text>
+<circle cx="613.9666666666667" cy="315.65145237928044" r="5.2" fill="#059669"/>
+<text x="613.9666666666667" y="305.65145237928044" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.43</text>
+<path d="M 385.33333333333337 179.84231756508984 L 503.00000000000006 232.32216298552933 L 620.6666666666667 319.3938159773424" fill="none" stroke="#dc2626" stroke-width="2.4"/>
+<circle cx="385.33333333333337" cy="179.84231756508984" r="5.2" fill="#dc2626"/>
+<text x="385.33333333333337" y="169.84231756508984" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.80</text>
+<circle cx="503.00000000000006" cy="232.32216298552933" r="5.2" fill="#dc2626"/>
+<text x="503.00000000000006" y="222.32216298552933" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.66</text>
+<circle cx="620.6666666666667" cy="319.3938159773424" r="5.2" fill="#dc2626"/>
+<text x="620.6666666666667" y="309.3938159773424" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.42</text>
+<text x="782.3333333333334" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">Infant</text>
+<line x1="664.6666666666667" y1="478.0" x2="900.0000000000001" y2="478.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="664.6666666666667" y1="384.5" x2="900.0000000000001" y2="384.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="664.6666666666667" y1="291.0" x2="900.0000000000001" y2="291.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="664.6666666666667" y1="197.5" x2="900.0000000000001" y2="197.5" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="664.6666666666667" y1="104.0" x2="900.0000000000001" y2="104.0" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="664.6666666666667" y1="104" x2="664.6666666666667" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="664.6666666666667" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 1</text>
+<line x1="782.3333333333334" y1="104" x2="782.3333333333334" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="782.3333333333334" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 2</text>
+<line x1="900.0000000000001" y1="104" x2="900.0000000000001" y2="478" stroke="#f1f5f9" stroke-width="1"/>
+<text x="900.0000000000001" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">Level 3</text>
+<path d="M 654.6666666666667 192.83433133732535 L 772.3333333333334 235.62927990173498 L 890.0000000000001 236.0284961990912" fill="none" stroke="#2563eb" stroke-width="2.4"/>
+<circle cx="654.6666666666667" cy="192.83433133732535" r="5.2" fill="#2563eb"/>
+<text x="654.6666666666667" y="182.83433133732535" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.76</text>
+<circle cx="772.3333333333334" cy="235.62927990173498" r="5.2" fill="#2563eb"/>
+<text x="772.3333333333334" y="225.62927990173498" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.65</text>
+<circle cx="890.0000000000001" cy="236.0284961990912" r="5.2" fill="#2563eb"/>
+<text x="890.0000000000001" y="226.0284961990912" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.65</text>
+<path d="M 661.3666666666668 227.6713240186295 L 779.0333333333334 357.36734223859975 L 896.7000000000002 357.4947127022551" fill="none" stroke="#d97706" stroke-width="2.4"/>
+<circle cx="661.3666666666668" cy="227.6713240186295" r="5.2" fill="#d97706"/>
+<text x="661.3666666666668" y="217.6713240186295" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.67</text>
+<circle cx="779.0333333333334" cy="357.36734223859975" r="5.2" fill="#d97706"/>
+<text x="779.0333333333334" y="347.36734223859975" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.32</text>
+<circle cx="896.7000000000002" cy="357.4947127022551" r="5.2" fill="#d97706"/>
+<text x="896.7000000000002" y="347.4947127022551" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.32</text>
+<path d="M 667.9666666666667 224.18762475049897 L 785.6333333333333 251.6074005834485 L 903.3000000000001 250.36301864356395" fill="none" stroke="#059669" stroke-width="2.4"/>
+<circle cx="667.9666666666667" cy="224.18762475049897" r="5.2" fill="#059669"/>
+<text x="667.9666666666667" y="214.18762475049897" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.68</text>
+<circle cx="785.6333333333333" cy="251.6074005834485" r="5.2" fill="#059669"/>
+<text x="785.6333333333333" y="241.6074005834485" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.61</text>
+<circle cx="903.3000000000001" cy="250.36301864356395" r="5.2" fill="#059669"/>
+<text x="903.3000000000001" y="240.36301864356395" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.61</text>
+<path d="M 674.6666666666667 215.478376580173 L 792.3333333333334 350.51957623215105 L 910.0000000000001 349.9502272051641" fill="none" stroke="#dc2626" stroke-width="2.4"/>
+<circle cx="674.6666666666667" cy="215.478376580173" r="5.2" fill="#dc2626"/>
+<text x="674.6666666666667" y="205.478376580173" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.70</text>
+<circle cx="792.3333333333334" cy="350.51957623215105" r="5.2" fill="#dc2626"/>
+<text x="792.3333333333334" y="340.51957623215105" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.34</text>
+<circle cx="910.0000000000001" cy="349.9502272051641" r="5.2" fill="#dc2626"/>
+<text x="910.0000000000001" y="339.9502272051641" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111827">0.34</text>
+<text x="28" y="291.0" transform="rotate(-90 28 291.0)" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">PCCC</text>
+<text x="493.0" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Coding level</text>
+<text x="922" y="102" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Experiment</text>
+<line x1="922" y1="112" x2="950" y2="112" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="936" cy="112" r="5.2" fill="#2563eb"/>
+<text x="960" y="116" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">EXP1</text>
+<line x1="922" y1="140" x2="950" y2="140" stroke="#d97706" stroke-width="2.5"/>
+<circle cx="936" cy="140" r="5.2" fill="#d97706"/>
+<text x="960" y="144" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">EXP2</text>
+<line x1="922" y1="168" x2="950" y2="168" stroke="#059669" stroke-width="2.5"/>
+<circle cx="936" cy="168" r="5.2" fill="#059669"/>
+<text x="960" y="172" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">EXP3</text>
+<line x1="922" y1="196" x2="950" y2="196" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="936" cy="196" r="5.2" fill="#dc2626"/>
+<text x="960" y="200" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">EXP4</text>
+</svg>

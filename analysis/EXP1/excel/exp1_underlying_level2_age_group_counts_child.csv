@@ -1,0 +1,35 @@
+cause_code,level2_name,total,0,1-4,5-9,10-14
+01-01,Acute febrile illness,566,113,352,82,19
+01-05,Diarrhoeal disease without fever,87,12,72,3,0
+01-04,TB/AIDS,86,15,53,13,5
+03-09,Nutritional disorder,64,6,45,11,2
+04-03,Drowning/submersion,30,0,15,12,3
+03-04,Central nervous system disorder,22,1,14,4,3
+03-08,Anaemia,21,3,17,0,1
+03-06,Neoplasm,14,0,7,4,3
+04-01,Transport,14,0,5,8,1
+03-03,Gastro intestinal disorder,13,1,8,4,0
+03-02,Respiratory disorder,12,1,10,1,0
+03-01,Cardiovascular disorder,12,2,6,2,2
+05-04,Congenital abnormality,11,3,7,1,0
+03-99,Other specific unlisted,10,0,8,1,1
+05-08,Sudden infant death syndrome,9,8,1,0,0
+05-06,Neonatal sepsis,7,6,1,0,0
+03-07,Genito urinary disorders,6,0,2,3,1
+05-03,Prematurity/low birth weight,6,6,0,0,0
+04-09,Choking,6,3,3,0,0
+04-05,Poisoning/exposure to noxious substance,6,0,4,2,0
+04-99,Other specific unlisted,5,1,2,2,0
+04-07,Contact with venomous animals and plants,5,0,2,2,1
+04-02,Fall,5,0,1,3,1
+00-02,Specific information missing on VAQ,4,0,4,0,0
+00-03,No significant pathology that would explain the death,4,1,1,1,1
+01-99,Other specific unlisted,4,0,3,1,0
+04-04,Exposure to smoke/fire/flames,4,0,3,1,0
+05-99,Other specific unlisted,3,2,1,0,0
+05-05,Birth injury/asphyxia,3,1,0,2,0
+01-03,Hepatitis,2,1,1,0,0
+01-07,Rabies,2,0,1,1,0
+03-05,Endocrine disorders,1,0,1,0,0
+04-08,Hanging,1,0,0,0,1
+05-00,Unspecifiable,1,1,0,0,0

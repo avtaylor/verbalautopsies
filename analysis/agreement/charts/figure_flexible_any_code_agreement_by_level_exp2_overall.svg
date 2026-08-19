@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="500" viewBox="0 0 980 500">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="82" y="30" text-anchor="start" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Flexible Any-Code Agreement by Coding Level: EXP2 Overall</text>
+<line x1="82" y1="387.45454545454544" x2="910" y2="387.45454545454544" stroke="#e5e7eb" stroke-width="1"/>
+<text x="70" y="391.45454545454544" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#374151">0.5</text>
+<line x1="82" y1="330.3636363636364" x2="910" y2="330.3636363636364" stroke="#e5e7eb" stroke-width="1"/>
+<text x="70" y="334.3636363636364" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#374151">0.6</text>
+<line x1="82" y1="273.2727272727273" x2="910" y2="273.2727272727273" stroke="#e5e7eb" stroke-width="1"/>
+<text x="70" y="277.2727272727273" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#374151">0.7</text>
+<line x1="82" y1="216.18181818181813" x2="910" y2="216.18181818181813" stroke="#e5e7eb" stroke-width="1"/>
+<text x="70" y="220.18181818181813" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#374151">0.8</text>
+<line x1="82" y1="159.09090909090907" x2="910" y2="159.09090909090907" stroke="#e5e7eb" stroke-width="1"/>
+<text x="70" y="163.09090909090907" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#374151">0.9</text>
+<line x1="82" y1="102.0" x2="910" y2="102.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="70" y="106.0" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#374151">1.0</text>
+<line x1="82.0" y1="102" x2="82.0" y2="416" stroke="#e5e7eb" stroke-width="1"/>
+<text x="82.0" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Level 1</text>
+<line x1="496.0" y1="102" x2="496.0" y2="416" stroke="#e5e7eb" stroke-width="1"/>
+<text x="496.0" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Level 2</text>
+<line x1="910.0" y1="102" x2="910.0" y2="416" stroke="#e5e7eb" stroke-width="1"/>
+<text x="910.0" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Level 3</text>
+<path d="M 82.0 146.85504191841136 L 496.0 256.2719310570933 L 910.0 336.56980937661" fill="none" stroke="#d97706" stroke-width="2.8"/>
+<circle cx="82.0" cy="146.85504191841136" r="7" fill="#d97706"/>
+<text x="82.0" y="132.85504191841136" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.921</text>
+<circle cx="496.0" cy="256.2719310570933" r="7" fill="#d97706"/>
+<text x="496.0" y="242.2719310570933" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.730</text>
+<circle cx="910.0" cy="336.56980937661" r="7" fill="#d97706"/>
+<text x="910.0" y="322.56980937661" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.589</text>
+<text x="496.0" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#111827">Coding Level</text>
+<text x="24" y="259.0" transform="rotate(-90 24 259.0)" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#111827">Flexible agreement</text>
+</svg>

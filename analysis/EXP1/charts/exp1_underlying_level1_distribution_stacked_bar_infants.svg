@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="95" y="32" font-family="Arial, sans-serif" font-size="24" fill="#111827">Distribution of EXP1 Level 1 Causes by Age Group: Infants</text>
+<line x1="95" y1="470" x2="700" y2="470" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="474" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">0%</text>
+<line x1="95" y1="376.5" x2="700" y2="376.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="380.5" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">25%</text>
+<line x1="95" y1="283.0" x2="700" y2="283.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="287.0" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">50%</text>
+<line x1="95" y1="189.5" x2="700" y2="189.5" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="193.5" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">75%</text>
+<line x1="95" y1="96.0" x2="700" y2="96.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="83" y="100.0" text-anchor="end" font-family="Arial, sans-serif" font-size="14" fill="#374151">100%</text>
+<line x1="95" y1="423.25" x2="700" y2="423.25" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="95" y1="329.75" x2="700" y2="329.75" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="95" y1="236.25" x2="700" y2="236.25" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="95" y1="142.75" x2="700" y2="142.75" stroke="#f1f5f9" stroke-width="1"/>
+<rect x="95.0" y="464.51791530944627" width="605.0" height="5.482084690553746" fill="#9aa5b1"/>
+<rect x="95.0" y="438.3257328990228" width="605.0" height="26.192182410423452" fill="#f97068"/>
+<text x="397.5" y="455.42182410423453" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">7%</text>
+<rect x="95.0" y="393.8599348534202" width="605.0" height="44.465798045602604" fill="#7fb800"/>
+<text x="397.5" y="420.0928338762215" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">12%</text>
+<rect x="95.0" y="391.42345276872965" width="605.0" height="2.436482084690554" fill="#b76ef0"/>
+<rect x="95.0" y="386.5504885993485" width="605.0" height="4.872964169381108" fill="#08b8b8"/>
+<rect x="95.0" y="96.0" width="605.0" height="290.5504885993485" fill="#f4b942"/>
+<text x="397.5" y="245.27524429967426" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">78%</text>
+<text x="397.5" y="498" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1f2937">0</text>
+<text x="397.5" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#111827">Age group</text>
+<text x="24" y="283.0" transform="rotate(-90 24,283.0)" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#111827">Proportion</text>
+<text x="735" y="144" font-family="Arial, sans-serif" font-size="18" fill="#111827">Level 1 cause</text>
+<rect x="735" y="152" width="22" height="22" fill="#9aa5b1"/>
+<text x="769" y="168" font-family="Arial, sans-serif" font-size="14" fill="#111827">Unspecifiable</text>
+<rect x="735" y="180" width="22" height="22" fill="#f97068"/>
+<text x="769" y="196" font-family="Arial, sans-serif" font-size="14" fill="#111827">Communicable disease</text>
+<rect x="735" y="208" width="22" height="22" fill="#7fb800"/>
+<text x="769" y="224" font-family="Arial, sans-serif" font-size="14" fill="#111827">Direct maternal cause</text>
+<rect x="735" y="236" width="22" height="22" fill="#b76ef0"/>
+<text x="769" y="252" font-family="Arial, sans-serif" font-size="14" fill="#111827">Non communicable disease</text>
+<rect x="735" y="264" width="22" height="22" fill="#08b8b8"/>
+<text x="769" y="280" font-family="Arial, sans-serif" font-size="14" fill="#111827">External cause</text>
+<rect x="735" y="292" width="22" height="22" fill="#f4b942"/>
+<text x="769" y="308" font-family="Arial, sans-serif" font-size="14" fill="#111827">Causes specific to infancy</text>
+</svg>

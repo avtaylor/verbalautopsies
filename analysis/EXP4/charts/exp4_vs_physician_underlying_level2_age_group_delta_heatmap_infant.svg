@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="646" height="1064" viewBox="0 0 646 1064">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="32" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#172026">EXP4 vs Physician Underlying Cause Distribution Difference (LEVEL2, Infant)</text>
+<text x="24" y="56" font-family="Arial, sans-serif" font-size="12" fill="#52616b">Cells show percentage-point difference: LLM minus physician. Blue = LLM higher; red = physician higher.</text>
+<text x="24" y="88" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#172026">Cause code / name</text>
+<text x="566.0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#172026">0</text>
+<rect x="18" y="140" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="162" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-05 - Birth injury/asphyxia</text>
+<rect x="520" y="143" width="88" height="28" rx="2" fill="rgb(184,73,63)"/>
+<text x="564.0" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-26.7</text>
+<rect x="18" y="174" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="196" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-03 - Prematurity/low birth weight</text>
+<rect x="520" y="177" width="88" height="28" rx="2" fill="rgb(204,125,118)"/>
+<text x="564.0" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-18.8</text>
+<rect x="18" y="208" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="230" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-00 - Unspecifiable</text>
+<rect x="520" y="211" width="88" height="28" rx="2" fill="rgb(148,186,211)"/>
+<text x="564.0" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+12.8</text>
+<rect x="18" y="242" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="264" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-01 - Acute febrile illness</text>
+<rect x="520" y="245" width="88" height="28" rx="2" fill="rgb(173,201,221)"/>
+<text x="564.0" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+9.7</text>
+<rect x="18" y="276" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="298" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-08 - Sudden infant death syndrome</text>
+<rect x="520" y="279" width="88" height="28" rx="2" fill="rgb(200,218,231)"/>
+<text x="564.0" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+6.3</text>
+<rect x="18" y="310" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="332" font-family="Arial, sans-serif" font-size="11" fill="#172026">02-04 - Obstructed labour</text>
+<rect x="520" y="313" width="88" height="28" rx="2" fill="rgb(203,221,232)"/>
+<text x="564.0" y="332" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+5.9</text>
+<rect x="18" y="344" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="366" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-09 - Choking</text>
+<rect x="520" y="347" width="88" height="28" rx="2" fill="rgb(215,228,237)"/>
+<text x="564.0" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+4.4</text>
+<rect x="18" y="378" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="400" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-99 - Other specific unlisted</text>
+<rect x="520" y="381" width="88" height="28" rx="2" fill="rgb(233,239,244)"/>
+<text x="564.0" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+2.1</text>
+<rect x="18" y="412" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="434" font-family="Arial, sans-serif" font-size="11" fill="#172026">00-02 - Specific information missing on VAQ</text>
+<rect x="520" y="415" width="88" height="28" rx="2" fill="rgb(234,240,244)"/>
+<text x="564.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+2.0</text>
+<rect x="18" y="446" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="468" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-04 - Congenital abnormality</text>
+<rect x="520" y="449" width="88" height="28" rx="2" fill="rgb(247,241,240)"/>
+<text x="564.0" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-1.4</text>
+<rect x="18" y="480" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="502" font-family="Arial, sans-serif" font-size="11" fill="#172026">00-03 - No significant pathology that would explain the death</text>
+<rect x="520" y="483" width="88" height="28" rx="2" fill="rgb(241,244,247)"/>
+<text x="564.0" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+1.1</text>
+<rect x="18" y="514" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="536" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-04 - TB/AIDS</text>
+<rect x="520" y="517" width="88" height="28" rx="2" fill="rgb(246,248,249)"/>
+<text x="564.0" y="536" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.5</text>
+<rect x="18" y="548" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="570" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-99 - Other specific unlisted</text>
+<rect x="520" y="551" width="88" height="28" rx="2" fill="rgb(246,248,249)"/>
+<text x="564.0" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.5</text>
+<rect x="18" y="582" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="604" font-family="Arial, sans-serif" font-size="11" fill="#172026">03-09 - Nutritional disorder</text>
+<rect x="520" y="585" width="88" height="28" rx="2" fill="rgb(247,248,249)"/>
+<text x="564.0" y="604" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.4</text>
+<rect x="18" y="616" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="638" font-family="Arial, sans-serif" font-size="11" fill="#172026">03-02 - Respiratory disorder</text>
+<rect x="520" y="619" width="88" height="28" rx="2" fill="rgb(247,248,249)"/>
+<text x="564.0" y="638" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.3</text>
+<rect x="18" y="650" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="672" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-02 - Stillbirth</text>
+<rect x="520" y="653" width="88" height="28" rx="2" fill="rgb(247,248,249)"/>
+<text x="564.0" y="672" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.3</text>
+<rect x="18" y="684" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="706" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-00 - Unspecifiable</text>
+<rect x="520" y="687" width="88" height="28" rx="2" fill="rgb(250,249,249)"/>
+<text x="564.0" y="706" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-0.2</text>
+<rect x="18" y="718" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="740" font-family="Arial, sans-serif" font-size="11" fill="#172026">02-03 - Ante postpartum haemorrhage</text>
+<rect x="520" y="721" width="88" height="28" rx="2" fill="rgb(250,249,249)"/>
+<text x="564.0" y="740" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-0.2</text>
+<rect x="18" y="752" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="774" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-09 - Neonatal tetanus</text>
+<rect x="520" y="755" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="774" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="786" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="808" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-05 - Diarrhoeal disease without fever</text>
+<rect x="520" y="789" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="808" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="820" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="842" font-family="Arial, sans-serif" font-size="11" fill="#172026">00-01 - No information (VAQ not available)</text>
+<rect x="520" y="823" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="842" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="854" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="876" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-05 - Poisoning/exposure to noxious substance</text>
+<rect x="520" y="857" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="876" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="888" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="910" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-08 - Hanging</text>
+<rect x="520" y="891" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="910" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="922" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="944" font-family="Arial, sans-serif" font-size="11" fill="#172026">02-02 - Eclampsia</text>
+<rect x="520" y="925" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="944" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.1</text>
+<rect x="18" y="956" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="978" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-06 - Neonatal sepsis</text>
+<rect x="520" y="959" width="88" height="28" rx="2" fill="rgb(249,250,250)"/>
+<text x="564.0" y="978" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.1</text>
+<rect x="18" y="990" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="1012" font-family="Arial, sans-serif" font-size="11" fill="#172026">03-03 - Gastro intestinal disorder</text>
+<rect x="520" y="993" width="88" height="28" rx="2" fill="rgb(250,250,250)"/>
+<text x="564.0" y="1012" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-0.0</text>
+</svg>

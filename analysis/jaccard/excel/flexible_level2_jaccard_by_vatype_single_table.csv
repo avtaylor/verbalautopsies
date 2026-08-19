@@ -1,0 +1,4 @@
+va_type,n,EXP1_mean_jaccard,EXP1_median_jaccard,EXP1_exact_set_match_pct,EXP1_zero_overlap_pct,EXP2_mean_jaccard,EXP2_median_jaccard,EXP2_exact_set_match_pct,EXP2_zero_overlap_pct,EXP3_mean_jaccard,EXP3_median_jaccard,EXP3_exact_set_match_pct,EXP3_zero_overlap_pct,EXP4_mean_jaccard,EXP4_median_jaccard,EXP4_exact_set_match_pct,EXP4_zero_overlap_pct
+adult,2468,0.393,0.333,11.6,12.0,0.369,0.333,13.5,23.7,0.428,0.333,20.3,25.2,0.356,0.333,11.3,22.2
+child,913,0.496,0.5,25.2,14.5,0.492,0.5,28.7,21.8,0.497,0.5,29.2,24.3,0.476,0.5,25.5,20.7
+infant,501,0.469,0.5,19.2,16.6,0.287,0.0,13.4,52.7,0.424,0.5,18.0,26.5,0.292,0.25,12.2,49.7

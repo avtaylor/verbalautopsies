@@ -1,0 +1,9 @@
+age_group,Unspecifiable,Communicable disease,Direct maternal cause,Non communicable disease,External cause,Causes specific to infancy
+0,9,143,37,20,7,449
+1-4,5,436,0,115,28,10
+5-9,1,88,0,25,25,3
+10-14,3,29,0,24,15,0
+15-24,4,74,20,70,41,0
+25-44,11,454,41,259,89,2
+45-64,10,297,4,335,57,0
+65+,67,237,0,919,58,1

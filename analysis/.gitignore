@@ -1,0 +1,12 @@
+# Restricted or record-level data
+master_normalized_codes.csv
+*case_level*.csv
+*_cases_by_level.csv
+*.xlsx
+*.xls
+
+# Local/runtime artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

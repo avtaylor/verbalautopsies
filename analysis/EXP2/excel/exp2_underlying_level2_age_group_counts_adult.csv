@@ -1,0 +1,40 @@
+cause_code,level2_name,total,15-24,25-44,45-64,65+
+01-04,TB/AIDS,780,42,395,260,83
+03-01,Cardiovascular disorder,657,9,26,109,513
+01-01,Acute febrile illness,590,40,155,115,280
+03-03,Gastro intestinal disorder,262,14,80,60,108
+03-06,Neoplasm,219,12,29,63,115
+03-05,Endocrine disorders,112,5,17,25,65
+00-02,Specific information missing on VAQ,111,3,24,16,68
+03-04,Central nervous system disorder,87,19,29,14,25
+03-02,Respiratory disorder,76,5,6,17,48
+03-07,Genito urinary disorders,65,3,5,15,42
+01-05,Diarrhoeal disease without fever,57,0,9,18,30
+04-01,Transport,55,13,23,13,6
+04-99,Other specific unlisted,53,6,22,12,13
+04-06,Use of weapon,40,3,14,13,10
+03-08,Anaemia,33,5,3,8,17
+04-05,Poisoning/exposure to noxious substance,32,6,15,9,2
+04-08,Hanging,32,13,13,3,3
+00-03,No significant pathology that would explain the death,29,0,1,0,28
+04-03,Drowning/submersion,18,7,7,3,1
+02-99,Other specific unlisted,17,7,10,0,0
+04-00,Unspecifiable,17,3,8,3,3
+04-02,Fall,16,0,4,0,12
+03-99,Other specific unlisted,15,3,3,5,4
+03-09,Nutritional disorder,12,2,1,0,9
+02-00,Unspecifiable,12,4,7,1,0
+02-03,Ante postpartum haemorrhage,10,1,9,0,0
+02-05,Puerperal sepsis,9,4,4,0,1
+01-03,Hepatitis,5,4,1,0,0
+04-07,Contact with venomous animals and plants,3,1,0,2,0
+00-01,No information (VAQ not available),3,0,2,0,1
+00-04,"Multiple significant pathology, single COD can't be isolated",2,0,0,0,2
+02-06,Anaemia in pregnancy,2,0,2,0,0
+02-02,Eclampsia,2,1,1,0,0
+01-99,Other specific unlisted,2,0,0,0,2
+01-00,Unspecifiable,1,0,1,0,0
+03-00,Unspecifiable,1,0,0,1,0
+02-04,Obstructed labour,1,0,1,0,0
+01-06,Tetanus (exc. neonatal tetanus),1,0,1,0,0
+02-01,Abortion,1,1,0,0,0

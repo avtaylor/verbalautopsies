@@ -1,0 +1,286 @@
+level,cause_code,cause_name,stratum,n_true_positive_cases,denominator_comparable_cases,percent_of_comparable_cases
+level1,04,External cause,adult / female,161,1245,0.12931726907630522
+level1,01,Communicable disease,adult / male,555,1223,0.4538021259198692
+level1,03,Non communicable disease,adult / male,606,1223,0.49550286181520853
+level1,03,Non communicable disease,adult / female,582,1245,0.4674698795180723
+level1,01,Communicable disease,adult / female,542,1245,0.4353413654618474
+level1,04,External cause,adult / male,40,1223,0.032706459525756335
+level1,02,Direct maternal cause,adult / male,51,1223,0.041700735895339326
+level1,04,External cause,child / female,37,491,0.07535641547861507
+level1,01,Communicable disease,child / male,331,422,0.7843601895734598
+level1,01,Communicable disease,child / female,369,491,0.7515274949083504
+level1,03,Non communicable disease,child / male,57,422,0.13507109004739337
+level1,03,Non communicable disease,child / female,84,491,0.1710794297352342
+level1,04,External cause,child / male,27,422,0.06398104265402843
+level1,05,Causes specific to infancy,adult / male,1,1223,0.0008176614881439084
+level1,05,Causes specific to infancy,infant / female,259,278,0.9316546762589928
+level1,05,Causes specific to infancy,infant / male,203,223,0.9103139013452914
+level1,01,Communicable disease,infant / female,9,278,0.03237410071942446
+level1,01,Communicable disease,infant / male,6,223,0.026905829596412557
+level1,05,Causes specific to infancy,child / male,12,422,0.02843601895734597
+level1,03,Non communicable disease,infant / female,1,278,0.0035971223021582736
+level1,05,Causes specific to infancy,child / female,9,491,0.018329938900203666
+level1,02,Direct maternal cause,infant / male,2,223,0.008968609865470852
+level1,02,Direct maternal cause,infant / female,1,278,0.0035971223021582736
+level2,04-03,Drowning/submersion,adult / female,26,1245,0.020883534136546186
+level2,01-04,TB/AIDS,adult / male,357,1223,0.2919051512673753
+level2,03-06,Neoplasm,adult / male,108,1223,0.08830744071954211
+level2,03-01,Cardiovascular disorder,adult / female,188,1245,0.15100401606425704
+level2,03-01,Cardiovascular disorder,adult / male,289,1223,0.23630417007358953
+level2,03-06,Neoplasm,adult / female,60,1245,0.04819277108433735
+level2,01-04,TB/AIDS,adult / female,357,1245,0.28674698795180725
+level2,01-01,Acute febrile illness,adult / male,161,1223,0.13164349959116925
+level2,03-07,Genito urinary disorders,adult / female,26,1245,0.020883534136546186
+level2,03-03,Gastro intestinal disorder,adult / male,52,1223,0.04251839738348324
+level2,03-05,Endocrine disorders,adult / male,55,1223,0.044971381847914965
+level2,03-03,Gastro intestinal disorder,adult / female,131,1245,0.10522088353413654
+level2,03-08,Anaemia,adult / female,16,1245,0.01285140562248996
+level2,03-05,Endocrine disorders,adult / female,54,1245,0.043373493975903614
+level2,04-01,Transport,adult / female,50,1245,0.040160642570281124
+level2,04-05,Poisoning/exposure to noxious substance,adult / female,26,1245,0.020883534136546186
+level2,03-08,Anaemia,adult / male,24,1223,0.019623875715453803
+level2,01-01,Acute febrile illness,adult / female,137,1245,0.11004016064257029
+level2,03-04,Central nervous system disorder,adult / male,28,1223,0.022894521668029435
+level2,03-02,Respiratory disorder,adult / female,25,1245,0.020080321285140562
+level2,02-04,Obstructed labour,adult / male,10,1223,0.008176614881439084
+level2,04-08,Hanging,adult / male,2,1223,0.001635322976287817
+level2,04-08,Hanging,adult / female,22,1245,0.017670682730923693
+level2,03-02,Respiratory disorder,adult / male,19,1223,0.01553556827473426
+level2,03-04,Central nervous system disorder,adult / female,41,1245,0.03293172690763052
+level2,04-06,Use of weapon,adult / female,14,1245,0.011244979919678716
+level2,04-05,Poisoning/exposure to noxious substance,adult / male,5,1223,0.004088307440719542
+level2,03-09,Nutritional disorder,adult / male,4,1223,0.003270645952575634
+level2,01-05,Diarrhoeal disease without fever,adult / female,5,1245,0.004016064257028112
+level2,04-01,Transport,adult / male,11,1223,0.008994276369582993
+level2,02-01,Abortion,adult / male,4,1223,0.003270645952575634
+level2,04-02,Fall,adult / male,7,1223,0.005723630417007359
+level2,02-03,Ante postpartum haemorrhage,adult / male,17,1223,0.013900245298446443
+level2,04-02,Fall,adult / female,6,1245,0.004819277108433735
+level2,01-05,Diarrhoeal disease without fever,adult / male,9,1223,0.007358953393295176
+level2,03-09,Nutritional disorder,adult / female,5,1245,0.004016064257028112
+level2,02-05,Puerperal sepsis,adult / male,7,1223,0.005723630417007359
+level2,04-03,Drowning/submersion,adult / male,5,1223,0.004088307440719542
+level2,01-07,Rabies,adult / male,1,1223,0.0008176614881439084
+level2,03-07,Genito urinary disorders,adult / male,2,1223,0.001635322976287817
+level2,01-03,Hepatitis,adult / female,4,1245,0.00321285140562249
+level2,01-04,TB/AIDS,child / female,42,491,0.0855397148676171
+level2,04-03,Drowning/submersion,child / female,17,491,0.034623217922606926
+level2,03-08,Anaemia,child / male,16,422,0.037914691943127965
+level2,03-08,Anaemia,child / female,21,491,0.04276985743380855
+level2,01-01,Acute febrile illness,child / male,237,422,0.5616113744075829
+level2,01-01,Acute febrile illness,child / female,268,491,0.5458248472505092
+level2,03-09,Nutritional disorder,child / female,35,491,0.07128309572301425
+level2,03-06,Neoplasm,child / male,3,422,0.0071090047393364926
+level2,04-07,Contact with venomous animals and plants,child / female,2,491,0.004073319755600814
+level2,01-05,Diarrhoeal disease without fever,child / female,23,491,0.04684317718940937
+level2,03-09,Nutritional disorder,child / male,17,422,0.04028436018957346
+level2,01-04,TB/AIDS,child / male,49,422,0.11611374407582939
+level2,01-07,Rabies,child / female,2,491,0.004073319755600814
+level2,04-05,Poisoning/exposure to noxious substance,child / female,3,491,0.006109979633401222
+level2,02-02,Eclampsia,adult / male,3,1223,0.0024529844644317253
+level2,04-01,Transport,child / male,6,422,0.014218009478672985
+level2,01-05,Diarrhoeal disease without fever,child / male,8,422,0.018957345971563982
+level2,04-02,Fall,child / female,3,491,0.006109979633401222
+level2,04-07,Contact with venomous animals and plants,child / male,2,422,0.004739336492890996
+level2,03-03,Gastro intestinal disorder,child / female,5,491,0.010183299389002037
+level2,05-04,Congenital abnormality,adult / male,1,1223,0.0008176614881439084
+level2,03-06,Neoplasm,child / female,7,491,0.014256619144602852
+level2,05-05,Birth injury/asphyxia,infant / female,115,278,0.4136690647482014
+level2,03-04,Central nervous system disorder,child / female,2,491,0.004073319755600814
+level2,03-07,Genito urinary disorders,child / female,2,491,0.004073319755600814
+level2,05-03,Prematurity/low birth weight,infant / female,66,278,0.23741007194244604
+level2,05-06,Neonatal sepsis,infant / male,50,223,0.2242152466367713
+level2,01-01,Acute febrile illness,infant / female,8,278,0.02877697841726619
+level2,03-04,Central nervous system disorder,child / male,4,422,0.009478672985781991
+level2,04-04,Exposure to smoke/fire/flames,adult / male,1,1223,0.0008176614881439084
+level2,01-01,Acute febrile illness,infant / male,6,223,0.026905829596412557
+level2,05-05,Birth injury/asphyxia,infant / male,66,223,0.29596412556053814
+level2,03-01,Cardiovascular disorder,child / male,2,422,0.004739336492890996
+level2,05-03,Prematurity/low birth weight,infant / male,64,223,0.28699551569506726
+level2,05-08,Sudden infant death syndrome,infant / female,2,278,0.007194244604316547
+level2,05-06,Neonatal sepsis,infant / female,45,278,0.1618705035971223
+level2,04-03,Drowning/submersion,child / male,8,422,0.018957345971563982
+level2,03-02,Respiratory disorder,child / male,4,422,0.009478672985781991
+level2,04-05,Poisoning/exposure to noxious substance,child / male,2,422,0.004739336492890996
+level2,05-04,Congenital abnormality,child / male,2,422,0.004739336492890996
+level2,05-04,Congenital abnormality,infant / male,3,223,0.013452914798206279
+level2,03-09,Nutritional disorder,infant / female,1,278,0.0035971223021582736
+level2,04-02,Fall,child / male,2,422,0.004739336492890996
+level2,05-04,Congenital abnormality,infant / female,6,278,0.02158273381294964
+level2,05-04,Congenital abnormality,child / female,4,491,0.008146639511201629
+level2,03-03,Gastro intestinal disorder,child / male,4,422,0.009478672985781991
+level2,05-08,Sudden infant death syndrome,child / male,2,422,0.004739336492890996
+level2,04-04,Exposure to smoke/fire/flames,child / male,1,422,0.002369668246445498
+level2,05-00,Unspecifiable,infant / male,2,223,0.008968609865470852
+level2,05-06,Neonatal sepsis,child / male,3,422,0.0071090047393364926
+level2,05-08,Sudden infant death syndrome,child / female,1,491,0.002036659877800407
+level2,04-04,Exposure to smoke/fire/flames,child / female,2,491,0.004073319755600814
+level2,01-03,Hepatitis,child / male,1,422,0.002369668246445498
+level2,03-02,Respiratory disorder,child / female,3,491,0.006109979633401222
+level2,04-01,Transport,child / female,3,491,0.006109979633401222
+level2,05-03,Prematurity/low birth weight,child / male,1,422,0.002369668246445498
+level2,05-05,Birth injury/asphyxia,child / male,1,422,0.002369668246445498
+level2,05-06,Neonatal sepsis,child / female,1,491,0.002036659877800407
+level2,04-09,Choking,child / female,1,491,0.002036659877800407
+level2,02-02,Eclampsia,infant / male,1,223,0.004484304932735426
+level2,01-04,TB/AIDS,infant / female,1,278,0.0035971223021582736
+level3,04-03-00,External cause: Drowning/submersion,adult / female,26,1245,0.020883534136546186
+level3,01-04-02,Communicable disease: TB/AIDS: AIDS,adult / male,301,1223,0.24611610793131644
+level3,03-06-02,Non communicable disease: Neoplasm: Cervix/uterus,adult / male,59,1223,0.0482420278004906
+level3,03-01-01,Non communicable disease: Cardiovascular disorder: Hypertension,adult / female,66,1245,0.05301204819277108
+level3,03-01-02,Non communicable disease: Cardiovascular disorder: Congestive heart disease,adult / male,80,1223,0.06541291905151267
+level3,03-01-04,Non communicable disease: Cardiovascular disorder: Cerebro vascular disease,adult / female,78,1245,0.06265060240963856
+level3,03-01-02,Non communicable disease: Cardiovascular disorder: Congestive heart disease,adult / female,60,1245,0.04819277108433735
+level3,03-06-04,Non communicable disease: Neoplasm: Gastro intestinal tract including abdominal but excluding liver,adult / female,9,1245,0.007228915662650603
+level3,01-04-02,Communicable disease: TB/AIDS: AIDS,adult / female,303,1245,0.2433734939759036
+level3,01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,adult / male,19,1223,0.01553556827473426
+level3,03-07-01,Non communicable disease: Genito urinary disorders: Kidney disorder,adult / female,13,1245,0.010441767068273093
+level3,03-03-02,Non communicable disease: Gastro intestinal disorder: Liver cirrhosis,adult / male,13,1223,0.01062959934587081
+level3,01-01-04,Communicable disease: Acute febrile illness: Pneumonia,adult / male,31,1223,0.025347506132461162
+level3,03-01-04,Non communicable disease: Cardiovascular disorder: Cerebro vascular disease,adult / male,106,1223,0.0866721177432543
+level3,01-01-06,Communicable disease: Acute febrile illness: Sepsis,adult / male,7,1223,0.005723630417007359
+level3,03-01-01,Non communicable disease: Cardiovascular disorder: Hypertension,adult / male,136,1223,0.11120196238757155
+level3,03-05-01,Non communicable disease: Endocrine disorders: Diabetes,adult / male,55,1223,0.044971381847914965
+level3,01-04-01,Communicable disease: TB/AIDS: Pulmonary TB,adult / female,32,1245,0.02570281124497992
+level3,03-08-00,Non communicable disease: Anaemia: Unspecifiable,adult / female,9,1245,0.007228915662650603
+level3,01-01-02,Communicable disease: Acute febrile illness: Menigitis,adult / male,17,1223,0.013900245298446443
+level3,03-05-01,Non communicable disease: Endocrine disorders: Diabetes,adult / female,53,1245,0.04257028112449799
+level3,03-06-01,Non communicable disease: Neoplasm: Breast,adult / male,10,1223,0.008176614881439084
+level3,03-03-03,Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction,adult / female,30,1245,0.024096385542168676
+level3,04-01-00,External cause: Transport,adult / female,50,1245,0.040160642570281124
+level3,03-01-00,Non communicable disease: Cardiovascular disorder: Unspecifiable,adult / male,2,1223,0.001635322976287817
+level3,04-05-00,External cause: Poisoning/exposure to noxious substance,adult / female,26,1245,0.020883534136546186
+level3,03-08-00,Non communicable disease: Anaemia: Unspecifiable,adult / male,16,1223,0.013082583810302535
+level3,03-04-02,Non communicable disease: Central nervous system disorder: Epilepsy,adult / male,15,1223,0.012264922322158627
+level3,03-02-02,Non communicable disease: Respiratory disorder: Asthma,adult / female,17,1245,0.013654618473895583
+level3,01-04-03,Communicable disease: TB/AIDS: Extrapulmonary TB,adult / male,5,1223,0.004088307440719542
+level3,02-04-00,Direct maternal cause: Obstructed labour,adult / male,10,1223,0.008176614881439084
+level3,01-01-01,Communicable disease: Acute febrile illness: Malaria,adult / male,28,1223,0.022894521668029435
+level3,01-01-04,Communicable disease: Acute febrile illness: Pneumonia,adult / female,38,1245,0.030522088353413655
+level3,04-08-00,External cause: Hanging,adult / male,2,1223,0.001635322976287817
+level3,01-04-01,Communicable disease: TB/AIDS: Pulmonary TB,adult / male,20,1223,0.016353229762878167
+level3,04-08-00,External cause: Hanging,adult / female,22,1245,0.017670682730923693
+level3,03-02-02,Non communicable disease: Respiratory disorder: Asthma,adult / male,14,1223,0.011447260834014717
+level3,03-04-01,Non communicable disease: Central nervous system disorder: Mental/behavioural disorder,adult / female,2,1245,0.001606425702811245
+level3,01-01-06,Communicable disease: Acute febrile illness: Sepsis,adult / female,5,1245,0.004016064257028112
+level3,04-06-00,External cause: Use of weapon,adult / female,14,1245,0.011244979919678716
+level3,03-03-02,Non communicable disease: Gastro intestinal disorder: Liver cirrhosis,adult / female,34,1245,0.027309236947791166
+level3,04-05-00,External cause: Poisoning/exposure to noxious substance,adult / male,5,1223,0.004088307440719542
+level3,03-06-05,Non communicable disease: Neoplasm: Lung,adult / female,6,1245,0.004819277108433735
+level3,03-01-03,Non communicable disease: Cardiovascular disorder: Ischaemic heart disease,adult / female,4,1245,0.00321285140562249
+level3,03-04-02,Non communicable disease: Central nervous system disorder: Epilepsy,adult / female,27,1245,0.021686746987951807
+level3,01-01-02,Communicable disease: Acute febrile illness: Menigitis,adult / female,22,1245,0.017670682730923693
+level3,03-01-03,Non communicable disease: Cardiovascular disorder: Ischaemic heart disease,adult / male,8,1223,0.006541291905151268
+level3,01-05-00,Communicable disease: Diarrhoeal disease without fever,adult / female,5,1245,0.004016064257028112
+level3,04-01-00,External cause: Transport,adult / male,11,1223,0.008994276369582993
+level3,02-01-00,Direct maternal cause: Abortion,adult / male,4,1223,0.003270645952575634
+level3,04-02-00,External cause: Fall,adult / male,7,1223,0.005723630417007359
+level3,02-03-00,Direct maternal cause: Ante postpartum haemorrhage,adult / male,17,1223,0.013900245298446443
+level3,04-02-00,External cause: Fall,adult / female,6,1245,0.004819277108433735
+level3,01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,adult / female,15,1245,0.012048192771084338
+level3,03-02-00,Non communicable disease: Respiratory disorder: Unspecifiable,adult / male,2,1223,0.001635322976287817
+level3,01-05-00,Communicable disease: Diarrhoeal disease without fever,adult / male,9,1223,0.007358953393295176
+level3,03-03-00,Non communicable disease: Gastro intestinal disorder: Unspecifiable,adult / male,2,1223,0.001635322976287817
+level3,03-03-03,Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction,adult / male,8,1223,0.006541291905151268
+level3,03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,adult / male,3,1223,0.0024529844644317253
+level3,03-03-00,Non communicable disease: Gastro intestinal disorder: Unspecifiable,adult / female,3,1245,0.0024096385542168677
+level3,03-04-01,Non communicable disease: Central nervous system disorder: Mental/behavioural disorder,adult / male,5,1223,0.004088307440719542
+level3,03-06-03,Non communicable disease: Neoplasm: Liver,adult / female,6,1245,0.004819277108433735
+level3,03-02-00,Non communicable disease: Respiratory disorder: Unspecifiable,adult / female,5,1245,0.004016064257028112
+level3,03-06-04,Non communicable disease: Neoplasm: Gastro intestinal tract including abdominal but excluding liver,adult / male,4,1223,0.003270645952575634
+level3,01-01-01,Communicable disease: Acute febrile illness: Malaria,adult / female,15,1245,0.012048192771084338
+level3,01-04-00,Communicable disease: TB/AIDS: Unspecifiable,adult / female,1,1245,0.0008032128514056225
+level3,02-05-00,Direct maternal cause: Puerperal sepsis,adult / male,7,1223,0.005723630417007359
+level3,01-01-05,Communicable disease: Acute febrile illness: Diarrhoea with fever,adult / male,6,1223,0.004905968928863451
+level3,03-03-01,Non communicable disease: Gastro intestinal disorder: Peptic ulcer disease,adult / male,1,1223,0.0008176614881439084
+level3,03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,adult / female,3,1245,0.0024096385542168677
+level3,01-04-03,Communicable disease: TB/AIDS: Extrapulmonary TB,adult / female,8,1245,0.00642570281124498
+level3,03-06-05,Non communicable disease: Neoplasm: Lung,adult / male,1,1223,0.0008176614881439084
+level3,03-03-01,Non communicable disease: Gastro intestinal disorder: Peptic ulcer disease,adult / female,3,1245,0.0024096385542168677
+level3,03-06-00,Non communicable disease: Neoplasm: Unspecifiable,adult / male,2,1223,0.001635322976287817
+level3,03-06-03,Non communicable disease: Neoplasm: Liver,adult / male,3,1223,0.0024529844644317253
+level3,04-03-00,External cause: Drowning/submersion,adult / male,5,1223,0.004088307440719542
+level3,01-01-05,Communicable disease: Acute febrile illness: Diarrhoea with fever,adult / female,2,1245,0.001606425702811245
+level3,01-07-00,Communicable disease: Rabies,adult / male,1,1223,0.0008176614881439084
+level3,03-07-01,Non communicable disease: Genito urinary disorders: Kidney disorder,adult / male,1,1223,0.0008176614881439084
+level3,01-03-00,Communicable disease: Hepatitis,adult / female,4,1245,0.00321285140562249
+level3,03-06-01,Non communicable disease: Neoplasm: Breast,adult / female,1,1245,0.0008032128514056225
+level3,04-03-00,External cause: Drowning/submersion,child / female,17,491,0.034623217922606926
+level3,03-08-00,Non communicable disease: Anaemia: Unspecifiable,child / male,7,422,0.016587677725118485
+level3,01-04-02,Communicable disease: TB/AIDS: AIDS,child / female,32,491,0.06517311608961303
+level3,01-01-04,Communicable disease: Acute febrile illness: Pneumonia,child / male,63,422,0.14928909952606634
+level3,01-01-05,Communicable disease: Acute febrile illness: Diarrhoea with fever,child / male,10,422,0.023696682464454975
+level3,01-01-05,Communicable disease: Acute febrile illness: Diarrhoea with fever,child / female,20,491,0.04073319755600815
+level3,03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,child / female,34,491,0.06924643584521385
+level3,01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,child / male,16,422,0.037914691943127965
+level3,01-01-01,Communicable disease: Acute febrile illness: Malaria,child / female,75,491,0.15274949083503056
+level3,01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,child / female,22,491,0.04480651731160896
+level3,04-07-00,External cause: Contact with venomous animals and plants,child / female,2,491,0.004073319755600814
+level3,01-05-00,Communicable disease: Diarrhoeal disease without fever,child / female,23,491,0.04684317718940937
+level3,03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,child / male,17,422,0.04028436018957346
+level3,01-01-04,Communicable disease: Acute febrile illness: Pneumonia,child / female,61,491,0.12423625254582485
+level3,01-01-01,Communicable disease: Acute febrile illness: Malaria,child / male,58,422,0.13744075829383887
+level3,01-04-02,Communicable disease: TB/AIDS: AIDS,child / male,40,422,0.0947867298578199
+level3,01-07-00,Communicable disease: Rabies,child / female,2,491,0.004073319755600814
+level3,04-05-00,External cause: Poisoning/exposure to noxious substance,child / female,3,491,0.006109979633401222
+level3,02-02-00,Direct maternal cause: Eclampsia,adult / male,3,1223,0.0024529844644317253
+level3,01-01-02,Communicable disease: Acute febrile illness: Menigitis,child / female,7,491,0.014256619144602852
+level3,04-01-00,External cause: Transport,child / male,6,422,0.014218009478672985
+level3,01-05-00,Communicable disease: Diarrhoeal disease without fever,child / male,8,422,0.018957345971563982
+level3,04-02-00,External cause: Fall,child / female,3,491,0.006109979633401222
+level3,04-07-00,External cause: Contact with venomous animals and plants,child / male,2,422,0.004739336492890996
+level3,05-04-00,Causes specific to infancy: Congenital abnormality,adult / male,1,1223,0.0008176614881439084
+level3,05-05-00,Causes specific to infancy: Birth injury/asphyxia,infant / female,115,278,0.4136690647482014
+level3,05-03-00,Causes specific to infancy: Prematurity/low birth weight,infant / female,66,278,0.23741007194244604
+level3,05-06-00,Causes specific to infancy: Neonatal sepsis,infant / male,50,223,0.2242152466367713
+level3,01-01-04,Communicable disease: Acute febrile illness: Pneumonia,infant / female,5,278,0.017985611510791366
+level3,01-01-02,Communicable disease: Acute febrile illness: Menigitis,child / male,8,422,0.018957345971563982
+level3,01-04-01,Communicable disease: TB/AIDS: Pulmonary TB,child / male,2,422,0.004739336492890996
+level3,04-04-00,External cause: Exposure to smoke/fire/flames,adult / male,1,1223,0.0008176614881439084
+level3,01-01-04,Communicable disease: Acute febrile illness: Pneumonia,infant / male,4,223,0.017937219730941704
+level3,05-05-00,Causes specific to infancy: Birth injury/asphyxia,infant / male,66,223,0.29596412556053814
+level3,05-03-00,Causes specific to infancy: Prematurity/low birth weight,infant / male,64,223,0.28699551569506726
+level3,05-08-00,Causes specific to infancy: Sudden infant death syndrome,infant / female,2,278,0.007194244604316547
+level3,05-06-00,Causes specific to infancy: Neonatal sepsis,infant / female,45,278,0.1618705035971223
+level3,04-03-00,External cause: Drowning/submersion,child / male,8,422,0.018957345971563982
+level3,03-02-02,Non communicable disease: Respiratory disorder: Asthma,child / male,4,422,0.009478672985781991
+level3,04-05-00,External cause: Poisoning/exposure to noxious substance,child / male,2,422,0.004739336492890996
+level3,05-04-00,Causes specific to infancy: Congenital abnormality,child / male,2,422,0.004739336492890996
+level3,03-06-00,Non communicable disease: Neoplasm: Unspecifiable,child / female,3,491,0.006109979633401222
+level3,03-01-00,Non communicable disease: Cardiovascular disorder: Unspecifiable,adult / female,1,1245,0.0008032128514056225
+level3,05-04-00,Causes specific to infancy: Congenital abnormality,infant / male,3,223,0.013452914798206279
+level3,03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,infant / female,1,278,0.0035971223021582736
+level3,03-08-00,Non communicable disease: Anaemia: Unspecifiable,child / female,4,491,0.008146639511201629
+level3,04-02-00,External cause: Fall,child / male,2,422,0.004739336492890996
+level3,01-04-03,Communicable disease: TB/AIDS: Extrapulmonary TB,child / male,1,422,0.002369668246445498
+level3,03-06-06,Non communicable disease: Neoplasm: Oral,child / female,1,491,0.002036659877800407
+level3,01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,infant / female,1,278,0.0035971223021582736
+level3,05-04-00,Causes specific to infancy: Congenital abnormality,infant / female,6,278,0.02158273381294964
+level3,05-04-00,Causes specific to infancy: Congenital abnormality,child / female,4,491,0.008146639511201629
+level3,01-01-01,Communicable disease: Acute febrile illness: Malaria,infant / male,1,223,0.004484304932735426
+level3,01-01-02,Communicable disease: Acute febrile illness: Menigitis,infant / female,1,278,0.0035971223021582736
+level3,03-03-03,Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction,child / male,3,422,0.0071090047393364926
+level3,05-08-00,Causes specific to infancy: Sudden infant death syndrome,child / male,2,422,0.004739336492890996
+level3,03-02-01,Non communicable disease: Respiratory disorder: Chronic obstructive pulmonary disease,adult / female,1,1245,0.0008032128514056225
+level3,04-04-00,External cause: Exposure to smoke/fire/flames,child / male,1,422,0.002369668246445498
+level3,05-00-00,Causes specific to infancy: Unspecifiable,infant / male,2,223,0.008968609865470852
+level3,05-06-00,Causes specific to infancy: Neonatal sepsis,child / male,3,422,0.0071090047393364926
+level3,01-04-01,Communicable disease: TB/AIDS: Pulmonary TB,child / female,1,491,0.002036659877800407
+level3,03-03-00,Non communicable disease: Gastro intestinal disorder: Unspecifiable,child / female,1,491,0.002036659877800407
+level3,05-08-00,Causes specific to infancy: Sudden infant death syndrome,child / female,1,491,0.002036659877800407
+level3,04-04-00,External cause: Exposure to smoke/fire/flames,child / female,2,491,0.004073319755600814
+level3,03-03-03,Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction,child / female,2,491,0.004073319755600814
+level3,03-08-01,Non communicable disease: Anaemia: Caused by chronic communicable disease,child / male,1,422,0.002369668246445498
+level3,01-03-00,Communicable disease: Hepatitis,child / male,1,422,0.002369668246445498
+level3,01-01-06,Communicable disease: Acute febrile illness: Sepsis,child / female,2,491,0.004073319755600814
+level3,03-02-02,Non communicable disease: Respiratory disorder: Asthma,child / female,3,491,0.006109979633401222
+level3,03-08-01,Non communicable disease: Anaemia: Caused by chronic communicable disease,child / female,1,491,0.002036659877800407
+level3,03-06-00,Non communicable disease: Neoplasm: Unspecifiable,child / male,1,422,0.002369668246445498
+level3,04-01-00,External cause: Transport,child / female,3,491,0.006109979633401222
+level3,05-03-00,Causes specific to infancy: Prematurity/low birth weight,child / male,1,422,0.002369668246445498
+level3,03-07-01,Non communicable disease: Genito urinary disorders: Kidney disorder,child / female,1,491,0.002036659877800407
+level3,05-05-00,Causes specific to infancy: Birth injury/asphyxia,child / male,1,422,0.002369668246445498
+level3,05-06-00,Causes specific to infancy: Neonatal sepsis,child / female,1,491,0.002036659877800407
+level3,04-09-00,External cause: Choking,child / female,1,491,0.002036659877800407
+level3,02-02-00,Direct maternal cause: Eclampsia,infant / male,1,223,0.004484304932735426
+level3,01-04-02,Communicable disease: TB/AIDS: AIDS,infant / female,1,278,0.0035971223021582736

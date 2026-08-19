@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="646" height="1302" viewBox="0 0 646 1302">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="32" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#172026">EXP2 vs Physician Underlying Cause Distribution Difference (LEVEL3, Infant)</text>
+<text x="24" y="56" font-family="Arial, sans-serif" font-size="12" fill="#52616b">Cells show percentage-point difference: LLM minus physician. Blue = LLM higher; red = physician higher.</text>
+<text x="24" y="88" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#172026">Cause code / name</text>
+<text x="566.0" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#172026">0</text>
+<rect x="18" y="140" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="162" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-05-00 - Causes specific to infancy: Birth injury/asphyxia</text>
+<rect x="520" y="143" width="88" height="28" rx="2" fill="rgb(184,73,63)"/>
+<text x="564.0" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-28.0</text>
+<rect x="18" y="174" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="196" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-03-00 - Causes specific to infancy: Prematurity/low birth weight</text>
+<rect x="520" y="177" width="88" height="28" rx="2" fill="rgb(208,137,131)"/>
+<text x="564.0" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-17.8</text>
+<rect x="18" y="208" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="230" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-00-00 - Causes specific to infancy: Unspecifiable</text>
+<rect x="520" y="211" width="88" height="28" rx="2" fill="rgb(143,182,209)"/>
+<text x="564.0" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+14.2</text>
+<rect x="18" y="242" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="264" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-08-00 - Causes specific to infancy: Sudden infant death syndrome</text>
+<rect x="520" y="245" width="88" height="28" rx="2" fill="rgb(184,208,225)"/>
+<text x="564.0" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+8.8</text>
+<rect x="18" y="276" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="298" font-family="Arial, sans-serif" font-size="11" fill="#172026">02-04-00 - Direct maternal cause: Obstructed labour</text>
+<rect x="520" y="279" width="88" height="28" rx="2" fill="rgb(201,219,231)"/>
+<text x="564.0" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+6.5</text>
+<rect x="18" y="310" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="332" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-09-00 - External cause: Choking</text>
+<rect x="520" y="313" width="88" height="28" rx="2" fill="rgb(204,221,233)"/>
+<text x="564.0" y="332" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+6.0</text>
+<rect x="18" y="344" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="366" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-01-04 - Communicable disease: Acute febrile illness: Pneumonia</text>
+<rect x="520" y="347" width="88" height="28" rx="2" fill="rgb(213,226,236)"/>
+<text x="564.0" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+4.9</text>
+<rect x="18" y="378" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="400" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-06-00 - Causes specific to infancy: Neonatal sepsis</text>
+<rect x="520" y="381" width="88" height="28" rx="2" fill="rgb(245,235,234)"/>
+<text x="564.0" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-2.3</text>
+<rect x="18" y="412" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="434" font-family="Arial, sans-serif" font-size="11" fill="#172026">00-02-00 - Unspecifiable: Specific information missing on VAQ</text>
+<rect x="520" y="415" width="88" height="28" rx="2" fill="rgb(234,240,244)"/>
+<text x="564.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+2.1</text>
+<rect x="18" y="446" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="468" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-01-01 - Communicable disease: Acute febrile illness: Malaria</text>
+<rect x="520" y="449" width="88" height="28" rx="2" fill="rgb(235,241,244)"/>
+<text x="564.0" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+1.9</text>
+<rect x="18" y="480" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="502" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-99-00 - Causes specific to infancy: Other specific unlisted</text>
+<rect x="520" y="483" width="88" height="28" rx="2" fill="rgb(239,243,246)"/>
+<text x="564.0" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+1.5</text>
+<rect x="18" y="514" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="536" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-04-00 - Causes specific to infancy: Congenital abnormality</text>
+<rect x="520" y="517" width="88" height="28" rx="2" fill="rgb(247,242,242)"/>
+<text x="564.0" y="536" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-1.2</text>
+<rect x="18" y="548" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="570" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-99-00 - External cause: Other specific unlisted</text>
+<rect x="520" y="551" width="88" height="28" rx="2" fill="rgb(243,245,247)"/>
+<text x="564.0" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+1.0</text>
+<rect x="18" y="582" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="604" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-04-02 - Communicable disease: TB/AIDS: AIDS</text>
+<rect x="520" y="585" width="88" height="28" rx="2" fill="rgb(246,248,249)"/>
+<text x="564.0" y="604" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.5</text>
+<rect x="18" y="616" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="638" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-01-99 - Communicable disease: Acute febrile illness: Other specific unlisted</text>
+<rect x="520" y="619" width="88" height="28" rx="2" fill="rgb(246,248,249)"/>
+<text x="564.0" y="638" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.5</text>
+<rect x="18" y="650" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="672" font-family="Arial, sans-serif" font-size="11" fill="#172026">03-09-01 - Non communicable disease: Nutritional disorder: Malnutrition</text>
+<rect x="520" y="653" width="88" height="28" rx="2" fill="rgb(247,248,249)"/>
+<text x="564.0" y="672" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.4</text>
+<rect x="18" y="684" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="706" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-01-00 - Communicable disease: Acute febrile illness: Unspecifiable</text>
+<rect x="520" y="687" width="88" height="28" rx="2" fill="rgb(249,247,247)"/>
+<text x="564.0" y="706" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-0.4</text>
+<rect x="18" y="718" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="740" font-family="Arial, sans-serif" font-size="11" fill="#172026">03-03-00 - Non communicable disease: Gastro intestinal disorder: Unspecifiable</text>
+<rect x="520" y="721" width="88" height="28" rx="2" fill="rgb(250,249,249)"/>
+<text x="564.0" y="740" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-0.2</text>
+<rect x="18" y="752" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="774" font-family="Arial, sans-serif" font-size="11" fill="#172026">02-03-00 - Direct maternal cause: Ante postpartum haemorrhage</text>
+<rect x="520" y="755" width="88" height="28" rx="2" fill="rgb(250,249,249)"/>
+<text x="564.0" y="774" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-0.2</text>
+<rect x="18" y="786" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="808" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-00-00 - External cause: Unspecifiable</text>
+<rect x="520" y="789" width="88" height="28" rx="2" fill="rgb(250,249,249)"/>
+<text x="564.0" y="808" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">-0.2</text>
+<rect x="18" y="820" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="842" font-family="Arial, sans-serif" font-size="11" fill="#172026">03-08-00 - Non communicable disease: Anaemia: Unspecifiable</text>
+<rect x="520" y="823" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="842" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="854" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="876" font-family="Arial, sans-serif" font-size="11" fill="#172026">02-99-00 - Direct maternal cause: Other specific unlisted</text>
+<rect x="520" y="857" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="876" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="888" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="910" font-family="Arial, sans-serif" font-size="11" fill="#172026">00-04-00 - Unspecifiable: Multiple significant pathology, single COD can&#x27;t be isolated</text>
+<rect x="520" y="891" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="910" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="922" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="944" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-01-05 - Communicable disease: Acute febrile illness: Diarrhoea with fever</text>
+<rect x="520" y="925" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="944" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="956" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="978" font-family="Arial, sans-serif" font-size="11" fill="#172026">03-06-07 - Non communicable disease: Neoplasm: Oesophagus</text>
+<rect x="520" y="959" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="978" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="990" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="1012" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-08-00 - External cause: Hanging</text>
+<rect x="520" y="993" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="1012" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="1024" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="1046" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-05-00 - External cause: Poisoning/exposure to noxious substance</text>
+<rect x="520" y="1027" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="1046" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="1058" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="1080" font-family="Arial, sans-serif" font-size="11" fill="#172026">03-05-00 - Non communicable disease: Endocrine disorders: Unspecifiable</text>
+<rect x="520" y="1061" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="1080" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="1092" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="1114" font-family="Arial, sans-serif" font-size="11" fill="#172026">04-02-00 - External cause: Fall</text>
+<rect x="520" y="1095" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="1114" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="1126" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="1148" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-02-00 - Causes specific to infancy: Stillbirth</text>
+<rect x="520" y="1129" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="1148" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="1160" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="1182" font-family="Arial, sans-serif" font-size="11" fill="#172026">05-09-00 - Causes specific to infancy: Neonatal tetanus</text>
+<rect x="520" y="1163" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="1182" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.2</text>
+<rect x="18" y="1194" width="610" height="34" fill="#ffffff"/>
+<text x="24" y="1216" font-family="Arial, sans-serif" font-size="11" fill="#172026">02-02-00 - Direct maternal cause: Eclampsia</text>
+<rect x="520" y="1197" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="1216" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.1</text>
+<rect x="18" y="1228" width="610" height="34" fill="#f8fafb"/>
+<text x="24" y="1250" font-family="Arial, sans-serif" font-size="11" fill="#172026">01-01-02 - Communicable disease: Acute febrile illness: Menigitis</text>
+<rect x="520" y="1231" width="88" height="28" rx="2" fill="rgb(249,249,250)"/>
+<text x="564.0" y="1250" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#1f2933">+0.1</text>
+</svg>

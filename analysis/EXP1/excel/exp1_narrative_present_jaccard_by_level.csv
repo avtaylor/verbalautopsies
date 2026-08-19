@@ -1,0 +1,4 @@
+comparison_type,comparison,level,n_compared,mean_jaccard,median_jaccard,q25_jaccard,q75_jaccard,n_exact_set_match,exact_set_match,n_any_overlap,any_overlap
+flexible_pooled_any_type,EXP1_pooled_any_type vs PHY_pooled_any_type,level3,3420,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+flexible_pooled_any_type,EXP1_pooled_any_type vs PHY_pooled_any_type,level2,3420,0.0,0.0,0.0,0.0,0,0.0,0,0.0
+flexible_pooled_any_type,EXP1_pooled_any_type vs PHY_pooled_any_type,level1,3420,0.0,0.0,0.0,0.0,0,0.0,0,0.0

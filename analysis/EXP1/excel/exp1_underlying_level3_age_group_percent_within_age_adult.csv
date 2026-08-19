@@ -1,0 +1,78 @@
+cause_code,level3_name,total,15-24,25-44,45-64,65+
+01-04-02,Communicable disease: TB/AIDS: AIDS,609,12.71,35.88,27.35,2.01
+03-01-01,Non communicable disease: Cardiovascular disorder: Hypertension,293,1.27,0.43,7.12,15.39
+03-01-04,Non communicable disease: Cardiovascular disorder: Cerebro vascular disease,200,0.42,0.75,3.56,10.98
+03-03-02,Non communicable disease: Gastro intestinal disorder: Liver cirrhosis,155,3.81,5.48,5.22,3.61
+01-01-01,Communicable disease: Acute febrile illness: Malaria,155,9.75,4.3,4.07,4.02
+01-04-01,Communicable disease: TB/AIDS: Pulmonary TB,120,3.81,4.62,4.2,2.34
+01-01-04,Communicable disease: Acute febrile illness: Pneumonia,115,0.85,1.5,3.05,5.02
+03-01-02,Non communicable disease: Cardiovascular disorder: Congestive heart disease,103,1.27,1.07,1.53,5.22
+03-05-01,Non communicable disease: Endocrine disorders: Diabetes,93,1.69,1.29,2.42,3.88
+04-01-00,External cause: Transport,84,7.2,3.97,2.42,0.74
+03-06-02,Non communicable disease: Neoplasm: Cervix/uterus,80,0.85,1.5,3.82,2.28
+03-01-03,Non communicable disease: Cardiovascular disorder: Ischaemic heart disease,75,0.0,0.32,1.65,3.95
+03-06-99,Non communicable disease: Neoplasm: Other specific unlisted,72,2.12,0.86,2.93,2.41
+03-03-03,Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction,68,2.12,1.83,1.53,2.28
+01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,61,1.69,1.93,1.53,1.81
+01-01-02,Communicable disease: Acute febrile illness: Menigitis,56,4.66,3.11,1.15,0.47
+00-03-00,Unspecifiable: No significant pathology that would explain the death,56,0.42,0.54,0.38,3.15
+01-05-00,Communicable disease: Diarrhoeal disease without fever,54,0.42,1.07,1.65,2.01
+03-04-02,Non communicable disease: Central nervous system disorder: Epilepsy,53,6.78,2.79,0.76,0.33
+03-06-04,Non communicable disease: Neoplasm: Gastro intestinal tract including abdominal but excluding liver,51,1.27,0.54,1.78,1.94
+03-02-02,Non communicable disease: Respiratory disorder: Asthma,50,2.12,0.75,1.65,1.67
+04-05-00,External cause: Poisoning/exposure to noxious substance,49,3.81,2.26,1.78,0.33
+03-03-01,Non communicable disease: Gastro intestinal disorder: Peptic ulcer disease,48,0.42,1.72,1.27,1.41
+03-07-01,Non communicable disease: Genito urinary disorders: Kidney disorder,45,0.42,0.32,1.4,2.01
+04-08-00,External cause: Hanging,39,3.39,2.26,0.89,0.2
+00-02-00,Unspecifiable: Specific information missing on VAQ,39,0.0,0.75,0.51,1.87
+03-01-99,Non communicable disease: Cardiovascular disorder: Other specific unlisted,38,1.27,0.97,0.89,1.27
+01-01-05,Communicable disease: Acute febrile illness: Diarrhoea with fever,35,0.42,0.97,0.38,1.47
+03-06-07,Non communicable disease: Neoplasm: Oesophagus,35,0.0,0.21,1.15,1.61
+04-06-00,External cause: Use of weapon,34,2.12,0.75,1.78,0.54
+01-01-99,Communicable disease: Acute febrile illness: Other specific unlisted,34,3.39,0.97,0.64,0.8
+01-99-00,Communicable disease: Other specific unlisted,28,0.0,0.75,0.76,1.0
+04-03-00,External cause: Drowning/submersion,27,2.54,1.4,0.64,0.2
+04-02-00,External cause: Fall,27,0.85,0.21,0.25,1.41
+01-04-03,Communicable disease: TB/AIDS: Extrapulmonary TB,27,0.42,0.97,1.27,0.47
+03-07-99,Non communicable disease: Genito urinary disorders: Other specific unlisted,25,0.0,0.32,0.25,1.34
+03-99-00,Non communicable disease: Other specific unlisted,25,1.69,0.43,0.64,0.8
+03-08-00,Non communicable disease: Anaemia: Unspecifiable,20,0.85,0.21,0.51,0.8
+03-04-99,Non communicable disease: Central nervous system disorder: Other specific unlisted,19,0.0,0.11,0.25,1.07
+03-06-01,Non communicable disease: Neoplasm: Breast,17,0.0,0.43,0.51,0.6
+03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,16,0.0,0.21,0.13,0.87
+02-03-00,Direct maternal cause: Ante postpartum haemorrhage,16,1.69,1.18,0.13,0.0
+01-01-06,Communicable disease: Acute febrile illness: Sepsis,15,0.0,0.32,0.64,0.47
+02-04-00,Direct maternal cause: Obstructed labour,15,1.27,1.29,0.0,0.0
+03-06-03,Non communicable disease: Neoplasm: Liver,15,0.0,0.54,0.64,0.33
+03-03-99,Non communicable disease: Gastro intestinal disorder: Other specific unlisted,13,0.85,0.75,0.13,0.2
+03-04-01,Non communicable disease: Central nervous system disorder: Mental/behavioural disorder,13,0.85,0.21,0.38,0.4
+03-06-05,Non communicable disease: Neoplasm: Lung,11,0.0,0.21,0.25,0.47
+04-99-00,External cause: Other specific unlisted,11,0.85,0.54,0.13,0.2
+03-02-01,Non communicable disease: Respiratory disorder: Chronic obstructive pulmonary disease,11,0.0,0.0,0.38,0.54
+01-03-00,Communicable disease: Hepatitis,10,0.42,0.75,0.13,0.07
+02-02-00,Direct maternal cause: Eclampsia,8,2.12,0.32,0.0,0.0
+02-05-00,Direct maternal cause: Puerperal sepsis,7,1.69,0.32,0.0,0.0
+03-01-00,Non communicable disease: Cardiovascular disorder: Unspecifiable,7,0.42,0.11,0.0,0.33
+02-99-00,Direct maternal cause: Other specific unlisted,7,0.42,0.64,0.0,0.0
+03-03-00,Non communicable disease: Gastro intestinal disorder: Unspecifiable,7,0.0,0.21,0.0,0.33
+03-06-00,Non communicable disease: Neoplasm: Unspecifiable,6,0.0,0.11,0.38,0.13
+03-02-00,Non communicable disease: Respiratory disorder: Unspecifiable,5,0.0,0.32,0.0,0.13
+03-06-06,Non communicable disease: Neoplasm: Oral,5,0.42,0.0,0.0,0.27
+02-01-00,Direct maternal cause: Abortion,5,0.85,0.21,0.13,0.0
+03-08-99,Non communicable disease: Anaemia: Other specific unlisted,4,0.0,0.11,0.25,0.07
+02-06-00,Direct maternal cause: Anaemia in pregnancy,3,0.42,0.21,0.0,0.0
+04-07-00,External cause: Contact with venomous animals and plants,3,0.42,0.11,0.13,0.0
+01-04-00,Communicable disease: TB/AIDS: Unspecifiable,3,0.0,0.32,0.0,0.0
+00-04-00,"Unspecifiable: Multiple significant pathology, single COD can't be isolated",2,0.0,0.11,0.0,0.07
+03-05-99,Non communicable disease: Endocrine disorders: Other specific unlisted,2,0.0,0.0,0.13,0.07
+03-02-99,Non communicable disease: Respiratory disorder: Other specific unlisted,2,0.0,0.0,0.13,0.07
+03-04-00,Non communicable disease: Central nervous system disorder: Unspecifiable,2,0.0,0.0,0.13,0.07
+00-01-00,Unspecifiable: No information (VAQ not available),1,0.0,0.0,0.13,0.0
+01-06-00,Communicable disease: Tetanus (exc. neonatal tetanus),1,0.0,0.11,0.0,0.0
+02-00-00,Direct maternal cause: Unspecifiable,1,0.0,0.11,0.0,0.0
+01-07-00,Communicable disease: Rabies,1,0.0,0.0,0.0,0.07
+03-05-00,Non communicable disease: Endocrine disorders: Unspecifiable,1,0.0,0.0,0.13,0.0
+04-00-00,External cause: Unspecifiable,1,0.0,0.11,0.0,0.0
+04-04-00,External cause: Exposure to smoke/fire/flames,1,0.0,0.0,0.0,0.07
+04-09-00,External cause: Choking,1,0.0,0.0,0.0,0.07
+05-04-00,Causes specific to infancy: Congenital abnormality,1,0.42,0.0,0.0,0.0

@@ -1,0 +1,23 @@
+cause_code,level3_name,total,0
+05-03-00,Causes specific to infancy: Prematurity/low birth weight,165,26.87
+05-05-00,Causes specific to infancy: Birth injury/asphyxia,151,24.59
+05-06-00,Causes specific to infancy: Neonatal sepsis,110,17.92
+02-04-00,Direct maternal cause: Obstructed labour,71,11.56
+01-01-04,Communicable disease: Acute febrile illness: Pneumonia,28,4.56
+05-08-00,Causes specific to infancy: Sudden infant death syndrome,19,3.09
+05-04-00,Causes specific to infancy: Congenital abnormality,15,2.44
+05-00-00,Causes specific to infancy: Unspecifiable,10,1.63
+01-01-01,Communicable disease: Acute febrile illness: Malaria,9,1.47
+04-09-00,External cause: Choking,8,1.3
+05-99-00,Causes specific to infancy: Other specific unlisted,6,0.98
+00-03-00,Unspecifiable: No significant pathology that would explain the death,5,0.81
+00-02-00,Unspecifiable: Specific information missing on VAQ,4,0.65
+01-01-00,Communicable disease: Acute febrile illness: Unspecifiable,2,0.33
+01-01-06,Communicable disease: Acute febrile illness: Sepsis,2,0.33
+02-02-00,Direct maternal cause: Eclampsia,2,0.33
+03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,2,0.33
+01-01-02,Communicable disease: Acute febrile illness: Menigitis,1,0.16
+03-03-03,Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction,1,0.16
+03-07-01,Non communicable disease: Genito urinary disorders: Kidney disorder,1,0.16
+01-01-99,Communicable disease: Acute febrile illness: Other specific unlisted,1,0.16
+05-09-00,Causes specific to infancy: Neonatal tetanus,1,0.16

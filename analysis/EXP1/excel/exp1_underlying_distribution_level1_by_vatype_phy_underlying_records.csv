@@ -1,0 +1,7 @@
+level,cause_code,cause_name,Adult,Child,Infant,Total
+Level 1,01,Communicable disease,1073 (43.7%),677 (74.2%),30 (6.0%),1780 (46.0%)
+Level 1,03,Non communicable disease,1114 (45.4%),145 (15.9%),3 (0.6%),1262 (32.6%)
+Level 1,05,Causes specific to infancy,0 (0.0%),27 (3.0%),400 (79.8%),427 (11.0%)
+Level 1,04,External cause,193 (7.9%),62 (6.8%),6 (1.2%),261 (6.8%)
+Level 1,02,Direct maternal cause,53 (2.2%),0 (0.0%),56 (11.2%),109 (2.8%)
+Level 1,00,Unspecifiable,20 (0.8%),1 (0.1%),6 (1.2%),27 (0.7%)

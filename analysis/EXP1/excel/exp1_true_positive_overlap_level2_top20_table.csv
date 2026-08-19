@@ -1,0 +1,21 @@
+cause_code,cause_name,total_true_positive_cases,adult / female n,adult / female %,adult / male n,adult / male %,child / female n,child / female %,child / male n,child / male %,infant / female n,infant / female %,infant / male n,infant / male %
+01-01,Acute febrile illness,817,137,11.0%,161,13.2%,268,54.6%,237,56.2%,8,2.9%,6,2.7%
+01-04,TB/AIDS,806,357,28.7%,357,29.2%,42,8.6%,49,11.6%,1,0.4%,0,0.0%
+03-01,Cardiovascular disorder,479,188,15.1%,289,23.6%,0,0.0%,2,0.5%,0,0.0%,0,0.0%
+03-03,Gastro intestinal disorder,192,131,10.5%,52,4.3%,5,1.0%,4,0.9%,0,0.0%,0,0.0%
+05-05,Birth injury/asphyxia,182,0,0.0%,0,0.0%,0,0.0%,1,0.2%,115,41.4%,66,29.6%
+03-06,Neoplasm,178,60,4.8%,108,8.8%,7,1.4%,3,0.7%,0,0.0%,0,0.0%
+05-03,Prematurity/low birth weight,131,0,0.0%,0,0.0%,0,0.0%,1,0.2%,66,23.7%,64,28.7%
+03-05,Endocrine disorders,109,54,4.3%,55,4.5%,0,0.0%,0,0.0%,0,0.0%,0,0.0%
+05-06,Neonatal sepsis,99,0,0.0%,0,0.0%,1,0.2%,3,0.7%,45,16.2%,50,22.4%
+03-08,Anaemia,77,16,1.3%,24,2.0%,21,4.3%,16,3.8%,0,0.0%,0,0.0%
+03-04,Central nervous system disorder,75,41,3.3%,28,2.3%,2,0.4%,4,0.9%,0,0.0%,0,0.0%
+04-01,Transport,70,50,4.0%,11,0.9%,3,0.6%,6,1.4%,0,0.0%,0,0.0%
+03-09,Nutritional disorder,62,5,0.4%,4,0.3%,35,7.1%,17,4.0%,1,0.4%,0,0.0%
+04-03,Drowning/submersion,56,26,2.1%,5,0.4%,17,3.5%,8,1.9%,0,0.0%,0,0.0%
+03-02,Respiratory disorder,51,25,2.0%,19,1.6%,3,0.6%,4,0.9%,0,0.0%,0,0.0%
+01-05,Diarrhoeal disease without fever,45,5,0.4%,9,0.7%,23,4.7%,8,1.9%,0,0.0%,0,0.0%
+04-05,Poisoning/exposure to noxious substance,36,26,2.1%,5,0.4%,3,0.6%,2,0.5%,0,0.0%,0,0.0%
+03-07,Genito urinary disorders,30,26,2.1%,2,0.2%,2,0.4%,0,0.0%,0,0.0%,0,0.0%
+04-08,Hanging,24,22,1.8%,2,0.2%,0,0.0%,0,0.0%,0,0.0%,0,0.0%
+04-02,Fall,18,6,0.5%,7,0.6%,3,0.6%,2,0.5%,0,0.0%,0,0.0%

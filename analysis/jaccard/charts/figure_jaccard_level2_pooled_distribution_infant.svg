@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="430" viewBox="0 0 980 430">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="120" y="32" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">Level 2 Pooled Jaccard Distribution by Experiment: Infant</text>
+<text x="120" y="54" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#52616b">Flexible pooled any-type comparison against physician codes.</text>
+<text x="104" y="132" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP1</text>
+<rect x="120" y="104" width="101.05788423153692" height="44" fill="#e5e7eb"/>
+<text x="170.52894211576847" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">17%</text>
+<rect x="221.05788423153692" y="104" width="28.003992015968063" height="44" fill="#c7d2fe"/>
+<rect x="249.06187624750498" y="104" width="353.0938123752495" height="44" fill="#a5b4fc"/>
+<text x="425.60878243512974" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">58%</text>
+<rect x="602.1556886227545" y="104" width="10.95808383233533" height="44" fill="#818cf8"/>
+<rect x="613.1137724550898" y="104" width="0.0" height="44" fill="#6366f1"/>
+<rect x="613.1137724550898" y="104" width="116.88622754491018" height="44" fill="#3730a3"/>
+<text x="671.556886227545" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">19%</text>
+<text x="104" y="202" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP2</text>
+<rect x="120" y="174" width="321.43712574850304" height="44" fill="#e5e7eb"/>
+<text x="280.7185628742515" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">53%</text>
+<rect x="441.43712574850304" y="174" width="12.17564870259481" height="44" fill="#c7d2fe"/>
+<rect x="453.61277445109783" y="174" width="192.375249500998" height="44" fill="#a5b4fc"/>
+<text x="549.8003992015969" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">32%</text>
+<rect x="645.9880239520958" y="174" width="2.435129740518962" height="44" fill="#818cf8"/>
+<rect x="648.4231536926147" y="174" width="0.0" height="44" fill="#6366f1"/>
+<rect x="648.4231536926147" y="174" width="81.57684630738524" height="44" fill="#3730a3"/>
+<text x="689.2115768463074" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">13%</text>
+<text x="104" y="272" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP3</text>
+<rect x="120" y="244" width="161.936127744511" height="44" fill="#e5e7eb"/>
+<text x="200.9680638722555" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">27%</text>
+<rect x="281.936127744511" y="244" width="14.610778443113773" height="44" fill="#c7d2fe"/>
+<rect x="296.54690618762476" y="244" width="311.69660678642714" height="44" fill="#a5b4fc"/>
+<text x="452.39520958083835" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">51%</text>
+<rect x="608.2435129740519" y="244" width="12.17564870259481" height="44" fill="#818cf8"/>
+<rect x="620.4191616766467" y="244" width="0.0" height="44" fill="#6366f1"/>
+<rect x="620.4191616766467" y="244" width="109.58083832335329" height="44" fill="#3730a3"/>
+<text x="675.2095808383233" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">18%</text>
+<text x="104" y="342" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP4</text>
+<rect x="120" y="314" width="303.1736526946108" height="44" fill="#e5e7eb"/>
+<text x="271.5868263473054" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">50%</text>
+<rect x="423.1736526946108" y="314" width="12.17564870259481" height="44" fill="#c7d2fe"/>
+<rect x="435.3493013972056" y="314" width="216.72654690618762" height="44" fill="#a5b4fc"/>
+<text x="543.7125748502993" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">36%</text>
+<rect x="652.0758483033932" y="314" width="3.6526946107784433" height="44" fill="#818cf8"/>
+<rect x="655.7285429141716" y="314" width="0.0" height="44" fill="#6366f1"/>
+<rect x="655.7285429141716" y="314" width="74.27145708582835" height="44" fill="#3730a3"/>
+<text x="692.8642714570858" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">12%</text>
+<text x="780" y="84" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Jaccard bin</text>
+<rect x="780" y="90" width="22" height="22" fill="#e5e7eb"/>
+<text x="812" y="106" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">0</text>
+<rect x="780" y="118" width="22" height="22" fill="#c7d2fe"/>
+<text x="812" y="134" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">&gt;0-0.25</text>
+<rect x="780" y="146" width="22" height="22" fill="#a5b4fc"/>
+<text x="812" y="162" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">&gt;0.25-0.5</text>
+<rect x="780" y="174" width="22" height="22" fill="#818cf8"/>
+<text x="812" y="190" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">&gt;0.5-0.75</text>
+<rect x="780" y="202" width="22" height="22" fill="#6366f1"/>
+<text x="812" y="218" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">&gt;0.75-&lt;1</text>
+<rect x="780" y="230" width="22" height="22" fill="#3730a3"/>
+<text x="812" y="246" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#111827">1</text>
+</svg>

@@ -1,0 +1,52 @@
+cause_code,level2_name,total,0,1-4,5-9,10-14,15-24,25-44,45-64,65+
+01-01,Acute febrile illness,1233,184,366,73,20,40,155,115,280
+01-04,TB/AIDS,872,18,53,16,5,42,395,260,83
+03-01,Cardiovascular disorder,665,3,3,0,2,9,26,109,513
+03-03,Gastro intestinal disorder,275,2,6,4,1,14,80,60,108
+03-06,Neoplasm,232,1,5,5,2,12,29,63,115
+01-05,Diarrhoeal disease without fever,154,17,79,1,0,0,9,18,30
+00-02,Specific information missing on VAQ,148,20,12,3,2,3,24,16,68
+03-05,Endocrine disorders,114,1,0,0,1,5,17,25,65
+05-00,Unspecifiable,111,111,0,0,0,0,0,0,0
+03-04,Central nervous system disorder,105,1,10,6,1,19,29,14,25
+05-06,Neonatal sepsis,103,103,0,0,0,0,0,0,0
+03-02,Respiratory disorder,89,1,9,3,0,5,6,17,48
+05-05,Birth injury/asphyxia,80,80,0,0,0,0,0,0,0
+04-99,Other specific unlisted,77,8,9,6,1,6,22,12,13
+03-08,Anaemia,75,5,32,5,0,5,3,8,17
+03-07,Genito urinary disorders,73,0,2,4,2,3,5,15,42
+04-01,Transport,68,0,5,7,1,13,23,13,6
+05-03,Prematurity/low birth weight,68,68,0,0,0,0,0,0,0
+03-09,Nutritional disorder,58,9,26,10,1,2,1,0,9
+05-08,Sudden infant death syndrome,57,57,0,0,0,0,0,0,0
+02-04,Obstructed labour,41,40,0,0,0,0,1,0,0
+04-06,Use of weapon,40,0,0,0,0,3,14,13,10
+04-09,Choking,39,39,0,0,0,0,0,0,0
+04-05,Poisoning/exposure to noxious substance,38,2,2,2,0,6,15,9,2
+04-03,Drowning/submersion,38,0,9,9,2,7,7,3,1
+04-08,Hanging,34,1,0,0,1,13,13,3,3
+00-03,No significant pathology that would explain the death,32,1,1,1,0,0,1,0,28
+03-99,Other specific unlisted,24,0,8,1,0,3,3,5,4
+04-02,Fall,21,1,0,2,2,0,4,0,12
+04-00,Unspecifiable,21,0,2,2,0,3,8,3,3
+02-99,Other specific unlisted,18,1,0,0,0,7,10,0,0
+02-00,Unspecifiable,12,0,0,0,0,4,7,1,0
+05-99,Other specific unlisted,10,10,0,0,0,0,0,0,0
+05-04,Congenital abnormality,10,7,2,1,0,0,0,0,0
+02-03,Ante postpartum haemorrhage,10,0,0,0,0,1,9,0,0
+02-05,Puerperal sepsis,9,0,0,0,0,4,4,0,1
+04-07,Contact with venomous animals and plants,8,1,1,2,1,1,0,2,0
+01-03,Hepatitis,6,0,1,0,0,4,1,0,0
+00-04,"Multiple significant pathology, single COD can't be isolated",5,2,1,0,0,0,0,0,2
+04-04,Exposure to smoke/fire/flames,4,0,4,0,0,0,0,0,0
+00-01,No information (VAQ not available),4,0,1,0,0,0,2,0,1
+02-02,Eclampsia,4,2,0,0,0,1,1,0,0
+01-07,Rabies,2,0,1,1,0,0,0,0,0
+01-99,Other specific unlisted,2,0,0,0,0,0,0,0,2
+02-06,Anaemia in pregnancy,2,0,0,0,0,0,2,0,0
+01-00,Unspecifiable,1,0,0,0,0,0,1,0,0
+01-06,Tetanus (exc. neonatal tetanus),1,0,0,0,0,0,1,0,0
+02-01,Abortion,1,0,0,0,0,1,0,0,0
+03-00,Unspecifiable,1,0,0,0,0,0,0,1,0
+05-02,Stillbirth,1,1,0,0,0,0,0,0,0
+05-09,Neonatal tetanus,1,1,0,0,0,0,0,0,0

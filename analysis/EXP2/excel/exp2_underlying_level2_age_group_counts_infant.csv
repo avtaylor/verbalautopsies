@@ -1,0 +1,26 @@
+cause_code,level2_name,total,0
+05-00,Unspecifiable,111,111
+05-06,Neonatal sepsis,103,103
+05-05,Birth injury/asphyxia,79,79
+05-03,Prematurity/low birth weight,68,68
+01-01,Acute febrile illness,64,64
+05-08,Sudden infant death syndrome,56,56
+02-04,Obstructed labour,40,40
+04-09,Choking,37,37
+00-02,Specific information missing on VAQ,13,13
+05-99,Other specific unlisted,9,9
+04-99,Other specific unlisted,6,6
+05-04,Congenital abnormality,6,6
+03-09,Nutritional disorder,5,5
+01-04,TB/AIDS,3,3
+02-02,Eclampsia,2,2
+02-99,Other specific unlisted,1,1
+00-04,"Multiple significant pathology, single COD can't be isolated",1,1
+03-06,Neoplasm,1,1
+03-05,Endocrine disorders,1,1
+04-02,Fall,1,1
+04-05,Poisoning/exposure to noxious substance,1,1
+04-08,Hanging,1,1
+03-08,Anaemia,1,1
+05-02,Stillbirth,1,1
+05-09,Neonatal tetanus,1,1

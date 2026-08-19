@@ -1,0 +1,18 @@
+cause_code,level2_name,total,0
+05-03,Prematurity/low birth weight,165,26.87
+05-05,Birth injury/asphyxia,151,24.59
+05-06,Neonatal sepsis,110,17.92
+02-04,Obstructed labour,71,11.56
+01-01,Acute febrile illness,43,7.0
+05-08,Sudden infant death syndrome,19,3.09
+05-04,Congenital abnormality,15,2.44
+05-00,Unspecifiable,10,1.63
+04-09,Choking,8,1.3
+05-99,Other specific unlisted,6,0.98
+00-03,No significant pathology that would explain the death,5,0.81
+00-02,Specific information missing on VAQ,4,0.65
+02-02,Eclampsia,2,0.33
+03-09,Nutritional disorder,2,0.33
+03-07,Genito urinary disorders,1,0.16
+03-03,Gastro intestinal disorder,1,0.16
+05-09,Neonatal tetanus,1,0.16

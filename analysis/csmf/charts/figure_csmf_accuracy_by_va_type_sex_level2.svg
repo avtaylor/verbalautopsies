@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="636" height="378" viewBox="0 0 636 378">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="210" y="32" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">CSMF Accuracy by VA Type and Sex (LEVEL2)</text>
+<text x="210" y="54" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#52616b">Cells show chance-corrected CSMF accuracy for underlying cause.</text>
+<text x="258.0" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">EXP1</text>
+<text x="354.0" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">EXP2</text>
+<text x="450.0" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">EXP3</text>
+<text x="546.0" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">EXP4</text>
+<rect x="16" y="124" width="604" height="34" fill="#f8fafc"/>
+<text x="198" y="146" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">adult / female</text>
+<rect x="210" y="127" width="92" height="28" rx="2" fill="rgb(65,146,135)"/>
+<text x="256.0" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.897</text>
+<rect x="306" y="127" width="92" height="28" rx="2" fill="rgb(83,166,170)"/>
+<text x="352.0" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.852</text>
+<rect x="402" y="127" width="92" height="28" rx="2" fill="rgb(80,162,164)"/>
+<text x="448.0" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.860</text>
+<rect x="498" y="127" width="92" height="28" rx="2" fill="rgb(89,172,181)"/>
+<text x="544.0" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.838</text>
+<rect x="16" y="158" width="604" height="34" fill="#ffffff"/>
+<text x="198" y="180" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">adult / male</text>
+<rect x="210" y="161" width="92" height="28" rx="2" fill="rgb(68,150,142)"/>
+<text x="256.0" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.888</text>
+<rect x="306" y="161" width="92" height="28" rx="2" fill="rgb(91,174,185)"/>
+<text x="352.0" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.834</text>
+<rect x="402" y="161" width="92" height="28" rx="2" fill="rgb(82,165,169)"/>
+<text x="448.0" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.854</text>
+<rect x="498" y="161" width="92" height="28" rx="2" fill="rgb(94,178,191)"/>
+<text x="544.0" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.826</text>
+<rect x="16" y="192" width="604" height="34" fill="#f8fafc"/>
+<text x="198" y="214" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">child / female</text>
+<rect x="210" y="195" width="92" height="28" rx="2" fill="rgb(70,152,145)"/>
+<text x="256.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.884</text>
+<rect x="306" y="195" width="92" height="28" rx="2" fill="rgb(86,169,176)"/>
+<text x="352.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.846</text>
+<rect x="402" y="195" width="92" height="28" rx="2" fill="rgb(74,157,153)"/>
+<text x="448.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.874</text>
+<rect x="498" y="195" width="92" height="28" rx="2" fill="rgb(75,157,155)"/>
+<text x="544.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.872</text>
+<rect x="16" y="226" width="604" height="34" fill="#ffffff"/>
+<text x="198" y="248" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">child / male</text>
+<rect x="210" y="229" width="92" height="28" rx="2" fill="rgb(79,162,162)"/>
+<text x="256.0" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.862</text>
+<rect x="306" y="229" width="92" height="28" rx="2" fill="rgb(87,170,177)"/>
+<text x="352.0" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.843</text>
+<rect x="402" y="229" width="92" height="28" rx="2" fill="rgb(89,172,181)"/>
+<text x="448.0" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.839</text>
+<rect x="498" y="229" width="92" height="28" rx="2" fill="rgb(89,173,183)"/>
+<text x="544.0" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.837</text>
+<rect x="16" y="260" width="604" height="34" fill="#f8fafc"/>
+<text x="198" y="282" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">infant / female</text>
+<rect x="210" y="263" width="92" height="28" rx="2" fill="rgb(95,179,193)"/>
+<text x="256.0" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.824</text>
+<rect x="306" y="263" width="92" height="28" rx="2" fill="rgb(168,225,252)"/>
+<text x="352.0" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">0.486</text>
+<rect x="402" y="263" width="92" height="28" rx="2" fill="rgb(75,158,155)"/>
+<text x="448.0" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.871</text>
+<rect x="498" y="263" width="92" height="28" rx="2" fill="rgb(164,223,252)"/>
+<text x="544.0" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">0.514</text>
+<rect x="16" y="294" width="604" height="34" fill="#ffffff"/>
+<text x="198" y="316" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">infant / male</text>
+<rect x="210" y="297" width="92" height="28" rx="2" fill="rgb(111,196,224)"/>
+<text x="256.0" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">0.785</text>
+<rect x="306" y="297" width="92" height="28" rx="2" fill="rgb(168,225,252)"/>
+<text x="352.0" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">0.488</text>
+<rect x="402" y="297" width="92" height="28" rx="2" fill="rgb(89,173,182)"/>
+<text x="448.0" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">0.837</text>
+<rect x="498" y="297" width="92" height="28" rx="2" fill="rgb(158,222,252)"/>
+<text x="544.0" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">0.547</text>
+</svg>

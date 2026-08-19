@@ -1,0 +1,35 @@
+cause_code,level2_name,total,0,1-4,5-9,10-14
+01-01,Acute febrile illness,508,55.95,54.71,51.41,41.03
+01-05,Diarrhoeal disease without fever,85,8.93,11.45,1.41,0.0
+03-09,Nutritional disorder,60,3.57,7.24,6.34,5.13
+01-04,TB/AIDS,59,2.38,6.73,7.75,10.26
+04-03,Drowning/submersion,26,0.0,2.19,7.04,7.69
+03-08,Anaemia,23,1.19,3.03,1.41,2.56
+03-04,Central nervous system disorder,17,0.6,2.19,1.41,2.56
+05-04,Congenital abnormality,16,3.57,1.52,0.7,0.0
+03-03,Gastro intestinal disorder,15,1.19,1.35,2.82,2.56
+03-02,Respiratory disorder,13,0.6,1.52,2.11,0.0
+03-06,Neoplasm,12,0.0,1.18,1.41,7.69
+00-02,Specific information missing on VAQ,11,2.38,0.84,0.7,2.56
+03-01,Cardiovascular disorder,11,0.6,1.18,2.11,0.0
+04-01,Transport,10,0.0,0.51,4.23,2.56
+05-03,Prematurity/low birth weight,8,4.76,0.0,0.0,0.0
+05-08,Sudden infant death syndrome,7,4.17,0.0,0.0,0.0
+03-99,Other specific unlisted,7,0.6,1.01,0.0,0.0
+04-05,Poisoning/exposure to noxious substance,6,0.0,0.51,1.41,2.56
+03-07,Genito urinary disorders,6,0.6,0.51,0.0,5.13
+04-09,Choking,5,1.19,0.51,0.0,0.0
+04-02,Fall,5,0.0,0.17,2.11,2.56
+05-06,Neonatal sepsis,4,2.38,0.0,0.0,0.0
+01-99,Other specific unlisted,4,1.19,0.0,1.41,0.0
+04-99,Other specific unlisted,4,0.6,0.34,0.7,0.0
+04-07,Contact with venomous animals and plants,4,0.0,0.17,1.41,2.56
+01-03,Hepatitis,4,1.19,0.34,0.0,0.0
+04-04,Exposure to smoke/fire/flames,3,0.0,0.34,0.7,0.0
+05-05,Birth injury/asphyxia,3,0.0,0.17,1.41,0.0
+05-99,Other specific unlisted,2,1.19,0.0,0.0,0.0
+00-03,No significant pathology that would explain the death,1,0.6,0.0,0.0,0.0
+03-05,Endocrine disorders,1,0.0,0.17,0.0,0.0
+01-07,Rabies,1,0.0,0.17,0.0,0.0
+00-04,"Multiple significant pathology, single COD can't be isolated",1,0.6,0.0,0.0,0.0
+04-08,Hanging,1,0.0,0.0,0.0,2.56

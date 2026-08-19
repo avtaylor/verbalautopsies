@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="555" viewBox="0 0 1120 555">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial, Helvetica, sans-serif; fill:#111;} .panel-title{font-size:18px;font-weight:700;} .axis{font-size:15px;} .tick{font-size:13px;fill:#333;} .legend{font-size:14px;} .value{font-size:12px;font-weight:700;} .small{font-size:12px;fill:#555;}</style>
+<text x="209.3" y="28" text-anchor="middle" class="panel-title">Level 1</text>
+<text x="209.3" y="46" text-anchor="middle" class="small">y-axis 0.65-0.90</text>
+<line x1="82.0" y1="473.0" x2="336.7" y2="473.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="72.0" y="478.0" text-anchor="end" class="tick">0.65</text>
+<line x1="82.0" y1="388.0" x2="336.7" y2="388.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="72.0" y="393.0" text-anchor="end" class="tick">0.70</text>
+<line x1="82.0" y1="303.0" x2="336.7" y2="303.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="72.0" y="308.0" text-anchor="end" class="tick">0.75</text>
+<line x1="82.0" y1="218.0" x2="336.7" y2="218.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="72.0" y="223.0" text-anchor="end" class="tick">0.80</text>
+<line x1="82.0" y1="133.0" x2="336.7" y2="133.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="72.0" y="138.0" text-anchor="end" class="tick">0.85</text>
+<line x1="82.0" y1="48.0" x2="336.7" y2="48.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="72.0" y="53.0" text-anchor="end" class="tick">0.90</text>
+<line x1="82.0" y1="473.0" x2="336.7" y2="473.0" stroke="#222" stroke-width="1.3"/>
+<line x1="82.0" y1="48.0" x2="82.0" y2="473.0" stroke="#222" stroke-width="1.3"/>
+<text x="124.0" y="499.0" text-anchor="middle" class="tick">EXP1</text>
+<text x="180.9" y="499.0" text-anchor="middle" class="tick">EXP2</text>
+<text x="237.8" y="499.0" text-anchor="middle" class="tick">EXP3</text>
+<text x="294.7" y="499.0" text-anchor="middle" class="tick">EXP4</text>
+<text x="506.0" y="28" text-anchor="middle" class="panel-title">Level 2</text>
+<text x="506.0" y="46" text-anchor="middle" class="small">y-axis 0.30-0.75</text>
+<line x1="378.7" y1="473.0" x2="633.3" y2="473.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="368.7" y="478.0" text-anchor="end" class="tick">0.30</text>
+<line x1="378.7" y1="378.6" x2="633.3" y2="378.6" stroke="#e1e1e1" stroke-width="1"/>
+<text x="368.7" y="383.6" text-anchor="end" class="tick">0.40</text>
+<line x1="378.7" y1="284.1" x2="633.3" y2="284.1" stroke="#e1e1e1" stroke-width="1"/>
+<text x="368.7" y="289.1" text-anchor="end" class="tick">0.50</text>
+<line x1="378.7" y1="189.7" x2="633.3" y2="189.7" stroke="#e1e1e1" stroke-width="1"/>
+<text x="368.7" y="194.7" text-anchor="end" class="tick">0.60</text>
+<line x1="378.7" y1="95.2" x2="633.3" y2="95.2" stroke="#e1e1e1" stroke-width="1"/>
+<text x="368.7" y="100.2" text-anchor="end" class="tick">0.70</text>
+<line x1="378.7" y1="473.0" x2="633.3" y2="473.0" stroke="#222" stroke-width="1.3"/>
+<line x1="378.7" y1="48.0" x2="378.7" y2="473.0" stroke="#222" stroke-width="1.3"/>
+<text x="420.7" y="499.0" text-anchor="middle" class="tick">EXP1</text>
+<text x="477.6" y="499.0" text-anchor="middle" class="tick">EXP2</text>
+<text x="534.4" y="499.0" text-anchor="middle" class="tick">EXP3</text>
+<text x="591.3" y="499.0" text-anchor="middle" class="tick">EXP4</text>
+<text x="802.7" y="28" text-anchor="middle" class="panel-title">Level 3</text>
+<text x="802.7" y="46" text-anchor="middle" class="small">y-axis 0.30-0.70</text>
+<line x1="675.3" y1="473.0" x2="930.0" y2="473.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="665.3" y="478.0" text-anchor="end" class="tick">0.30</text>
+<line x1="675.3" y1="366.7" x2="930.0" y2="366.7" stroke="#e1e1e1" stroke-width="1"/>
+<text x="665.3" y="371.7" text-anchor="end" class="tick">0.40</text>
+<line x1="675.3" y1="260.5" x2="930.0" y2="260.5" stroke="#e1e1e1" stroke-width="1"/>
+<text x="665.3" y="265.5" text-anchor="end" class="tick">0.50</text>
+<line x1="675.3" y1="154.2" x2="930.0" y2="154.2" stroke="#e1e1e1" stroke-width="1"/>
+<text x="665.3" y="159.2" text-anchor="end" class="tick">0.60</text>
+<line x1="675.3" y1="48.0" x2="930.0" y2="48.0" stroke="#e1e1e1" stroke-width="1"/>
+<text x="665.3" y="53.0" text-anchor="end" class="tick">0.70</text>
+<line x1="675.3" y1="473.0" x2="930.0" y2="473.0" stroke="#222" stroke-width="1.3"/>
+<line x1="675.3" y1="48.0" x2="675.3" y2="473.0" stroke="#222" stroke-width="1.3"/>
+<text x="717.3" y="499.0" text-anchor="middle" class="tick">EXP1</text>
+<text x="774.2" y="499.0" text-anchor="middle" class="tick">EXP2</text>
+<text x="831.1" y="499.0" text-anchor="middle" class="tick">EXP3</text>
+<text x="888.0" y="499.0" text-anchor="middle" class="tick">EXP4</text>
+<path d="M 124.0 144.8 L 180.9 244.8 L 237.8 303.8 L 294.7 255.1" fill="none" stroke="#000000" stroke-width="2.2" opacity="0.88"/>
+<circle cx="124.0" cy="144.8" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<text x="124.0" y="132.8" text-anchor="middle" class="value">0.84</text>
+<circle cx="180.9" cy="244.8" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<circle cx="237.8" cy="303.8" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<circle cx="294.7" cy="255.1" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<text x="294.7" y="243.1" text-anchor="middle" class="value">0.78</text>
+<path d="M 124.0 119.5 L 180.9 213.3 L 237.8 290.0 L 294.7 237.8" fill="none" stroke="#0072B2" stroke-width="2.2" opacity="0.88"/>
+<rect x="117.0" y="112.5" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<text x="124.0" y="107.5" text-anchor="middle" class="value">0.86</text>
+<rect x="173.9" y="206.3" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<rect x="230.8" y="283.0" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<rect x="287.7" y="230.8" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<text x="294.7" y="225.8" text-anchor="middle" class="value">0.79</text>
+<path d="M 124.0 133.3 L 180.9 216.2 L 237.8 270.7 L 294.7 222.7" fill="none" stroke="#009E73" stroke-width="2.2" opacity="0.88"/>
+<path d="M 124.0 124.3 L 116.0 140.3 L 132.0 140.3 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<text x="124.0" y="153.3" text-anchor="middle" class="value">0.85</text>
+<path d="M 180.9 207.2 L 172.9 223.2 L 188.9 223.2 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<path d="M 237.8 261.7 L 229.8 277.7 L 245.8 277.7 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<path d="M 294.7 213.7 L 286.7 229.7 L 302.7 229.7 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<text x="294.7" y="242.7" text-anchor="middle" class="value">0.80</text>
+<path d="M 124.0 281.8 L 180.9 440.1 L 237.8 424.3 L 294.7 384.7" fill="none" stroke="#D55E00" stroke-width="2.2" opacity="0.88"/>
+<path d="M 124.0 272.8 L 133.0 281.8 L 124.0 290.8 L 115.0 281.8 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<text x="124.0" y="301.8" text-anchor="middle" class="value">0.76</text>
+<path d="M 180.9 431.1 L 189.9 440.1 L 180.9 449.1 L 171.9 440.1 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<path d="M 237.8 415.3 L 246.8 424.3 L 237.8 433.3 L 228.8 424.3 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<path d="M 294.7 375.7 L 303.7 384.7 L 294.7 393.7 L 285.7 384.7 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<text x="294.7" y="404.7" text-anchor="middle" class="value">0.70</text>
+<path d="M 420.7 76.6 L 477.6 199.3 L 534.4 160.2 L 591.3 196.1" fill="none" stroke="#000000" stroke-width="2.2" opacity="0.88"/>
+<circle cx="420.7" cy="76.6" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<text x="420.7" y="64.6" text-anchor="middle" class="value">0.72</text>
+<circle cx="477.6" cy="199.3" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<circle cx="534.4" cy="160.2" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<circle cx="591.3" cy="196.1" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<text x="591.3" y="184.1" text-anchor="middle" class="value">0.59</text>
+<path d="M 420.7 59.4 L 477.6 165.1 L 534.4 156.0 L 591.3 168.3" fill="none" stroke="#0072B2" stroke-width="2.2" opacity="0.88"/>
+<rect x="413.7" y="52.4" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<text x="420.7" y="47.4" text-anchor="middle" class="value">0.74</text>
+<rect x="470.6" y="158.1" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<rect x="527.4" y="149.0" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<rect x="584.3" y="161.3" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<text x="591.3" y="156.3" text-anchor="middle" class="value">0.62</text>
+<path d="M 420.7 83.0 L 477.6 146.5 L 534.4 157.1 L 591.3 135.9" fill="none" stroke="#009E73" stroke-width="2.2" opacity="0.88"/>
+<path d="M 420.7 74.0 L 412.7 90.0 L 428.7 90.0 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<text x="420.7" y="103.0" text-anchor="middle" class="value">0.71</text>
+<path d="M 477.6 137.5 L 469.6 153.5 L 485.6 153.5 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<path d="M 534.4 148.1 L 526.4 164.1 L 542.4 164.1 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<path d="M 591.3 126.9 L 583.3 142.9 L 599.3 142.9 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<text x="591.3" y="155.9" text-anchor="middle" class="value">0.66</text>
+<path d="M 420.7 144.3 L 477.6 451.7 L 534.4 184.6 L 591.3 434.4" fill="none" stroke="#D55E00" stroke-width="2.2" opacity="0.88"/>
+<path d="M 420.7 135.3 L 429.7 144.3 L 420.7 153.3 L 411.7 144.3 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<text x="420.7" y="164.3" text-anchor="middle" class="value">0.65</text>
+<path d="M 477.6 442.7 L 486.6 451.7 L 477.6 460.7 L 468.6 451.7 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<path d="M 534.4 175.6 L 543.4 184.6 L 534.4 193.6 L 525.4 184.6 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<path d="M 591.3 425.4 L 600.3 434.4 L 591.3 443.4 L 582.3 434.4 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<text x="591.3" y="454.4" text-anchor="middle" class="value">0.34</text>
+<path d="M 717.3 212.3 L 774.2 322.5 L 831.1 295.6 L 888.0 322.8" fill="none" stroke="#000000" stroke-width="2.2" opacity="0.88"/>
+<circle cx="717.3" cy="212.3" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<text x="717.3" y="200.3" text-anchor="middle" class="value">0.55</text>
+<circle cx="774.2" cy="322.5" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<circle cx="831.1" cy="295.6" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<circle cx="888.0" cy="322.8" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<text x="888.0" y="310.8" text-anchor="middle" class="value">0.44</text>
+<path d="M 717.3 208.9 L 774.2 282.3 L 831.1 312.3 L 888.0 294.2" fill="none" stroke="#0072B2" stroke-width="2.2" opacity="0.88"/>
+<rect x="710.3" y="201.9" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<text x="717.3" y="196.9" text-anchor="middle" class="value">0.55</text>
+<rect x="767.2" y="275.3" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<rect x="824.1" y="305.3" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<rect x="881.0" y="287.2" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<text x="888.0" y="282.2" text-anchor="middle" class="value">0.47</text>
+<path d="M 717.3 279.7 L 774.2 357.7 L 831.1 330.5 L 888.0 341.2" fill="none" stroke="#009E73" stroke-width="2.2" opacity="0.88"/>
+<path d="M 717.3 270.7 L 709.3 286.7 L 725.3 286.7 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<text x="717.3" y="299.7" text-anchor="middle" class="value">0.48</text>
+<path d="M 774.2 348.7 L 766.2 364.7 L 782.2 364.7 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<path d="M 831.1 321.5 L 823.1 337.5 L 839.1 337.5 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<path d="M 888.0 332.2 L 880.0 348.2 L 896.0 348.2 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<text x="888.0" y="361.2" text-anchor="middle" class="value">0.42</text>
+<path d="M 717.3 104.3 L 774.2 449.4 L 831.1 145.1 L 888.0 428.0" fill="none" stroke="#D55E00" stroke-width="2.2" opacity="0.88"/>
+<path d="M 717.3 95.3 L 726.3 104.3 L 717.3 113.3 L 708.3 104.3 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<text x="717.3" y="124.3" text-anchor="middle" class="value">0.65</text>
+<path d="M 774.2 440.4 L 783.2 449.4 L 774.2 458.4 L 765.2 449.4 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<path d="M 831.1 136.1 L 840.1 145.1 L 831.1 154.1 L 822.1 145.1 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<path d="M 888.0 419.0 L 897.0 428.0 L 888.0 437.0 L 879.0 428.0 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<text x="888.0" y="448.0" text-anchor="middle" class="value">0.34</text>
+<text x="506.0" y="531" text-anchor="middle" class="axis">Experiment</text>
+<text x="28" y="260.5" text-anchor="middle" class="axis" transform="rotate(-90 28 260.5)">PCCC</text>
+<text x="982" y="56" class="legend" font-weight="700">VA type</text>
+<circle cx="992.0" cy="82.0" r="7" fill="#000000" stroke="#222" stroke-width="1"/>
+<text x="1014" y="88" class="legend">Overall</text>
+<rect x="985.0" y="107.0" width="14" height="14" fill="#0072B2" stroke="#222" stroke-width="1"/>
+<text x="1014" y="120" class="legend">Adult</text>
+<path d="M 992.0 137.0 L 984.0 153.0 L 1000.0 153.0 Z" fill="#009E73" stroke="#222" stroke-width="1"/>
+<text x="1014" y="152" class="legend">Child</text>
+<path d="M 992.0 169.0 L 1001.0 178.0 L 992.0 187.0 L 983.0 178.0 Z" fill="#D55E00" stroke="#222" stroke-width="1"/>
+<text x="1014" y="184" class="legend">Infant</text>
+<text x="82" y="549" class="small">PCCC is based on underlying cause only; endpoint labels show PCCC at EXP1 and EXP4.</text>
+</svg>

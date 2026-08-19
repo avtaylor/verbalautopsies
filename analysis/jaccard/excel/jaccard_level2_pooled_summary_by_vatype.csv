@@ -1,0 +1,13 @@
+va_type,experiment,n,mean_jaccard,median_jaccard,n_perfect,n_zero,perfect_match_percent,zero_overlap_percent
+adult,EXP1,2468,39%,33%,286,296,12%,12%
+adult,EXP2,2468,37%,33%,332,586,13%,24%
+adult,EXP3,2468,43%,33%,501,621,20%,25%
+adult,EXP4,2468,36%,33%,279,549,11%,22%
+child,EXP1,913,50%,50%,230,132,25%,14%
+child,EXP2,913,49%,50%,262,199,29%,22%
+child,EXP3,913,50%,50%,267,222,29%,24%
+child,EXP4,913,48%,50%,233,189,26%,21%
+infant,EXP1,501,47%,50%,96,83,19%,17%
+infant,EXP2,501,29%,0%,67,264,13%,53%
+infant,EXP3,501,42%,50%,90,133,18%,27%
+infant,EXP4,501,29%,25%,61,249,12%,50%

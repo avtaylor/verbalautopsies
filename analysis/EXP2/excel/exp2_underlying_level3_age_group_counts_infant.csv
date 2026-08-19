@@ -1,0 +1,30 @@
+cause_code,level3_name,total,0
+05-00-00,Causes specific to infancy: Unspecifiable,111,111
+05-06-00,Causes specific to infancy: Neonatal sepsis,103,103
+05-05-00,Causes specific to infancy: Birth injury/asphyxia,79,79
+05-03-00,Causes specific to infancy: Prematurity/low birth weight,68,68
+05-08-00,Causes specific to infancy: Sudden infant death syndrome,56,56
+01-01-04,Communicable disease: Acute febrile illness: Pneumonia,45,45
+02-04-00,Direct maternal cause: Obstructed labour,40,40
+04-09-00,External cause: Choking,37,37
+00-02-00,Unspecifiable: Specific information missing on VAQ,13,13
+01-01-01,Communicable disease: Acute febrile illness: Malaria,13,13
+05-99-00,Causes specific to infancy: Other specific unlisted,9,9
+04-99-00,External cause: Other specific unlisted,6,6
+05-04-00,Causes specific to infancy: Congenital abnormality,6,6
+03-09-01,Non communicable disease: Nutritional disorder: Malnutrition,5,5
+01-01-99,Communicable disease: Acute febrile illness: Other specific unlisted,3,3
+01-04-02,Communicable disease: TB/AIDS: AIDS,3,3
+01-01-02,Communicable disease: Acute febrile illness: Menigitis,2,2
+02-02-00,Direct maternal cause: Eclampsia,2,2
+00-04-00,"Unspecifiable: Multiple significant pathology, single COD can't be isolated",1,1
+02-99-00,Direct maternal cause: Other specific unlisted,1,1
+01-01-05,Communicable disease: Acute febrile illness: Diarrhoea with fever,1,1
+03-06-07,Non communicable disease: Neoplasm: Oesophagus,1,1
+03-05-00,Non communicable disease: Endocrine disorders: Unspecifiable,1,1
+04-02-00,External cause: Fall,1,1
+04-05-00,External cause: Poisoning/exposure to noxious substance,1,1
+04-08-00,External cause: Hanging,1,1
+03-08-00,Non communicable disease: Anaemia: Unspecifiable,1,1
+05-02-00,Causes specific to infancy: Stillbirth,1,1
+05-09-00,Causes specific to infancy: Neonatal tetanus,1,1

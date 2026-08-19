@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="520" viewBox="0 0 1120 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="420" y="32" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">EXP4 vs Physician: Largest Level 2 CSMF Differences</text>
+<text x="420" y="54" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#52616b">Percentage-point difference in underlying cause distribution: LLM minus physician.</text>
+<line x1="715.0" y1="96" x2="715.0" y2="462" stroke="#111827" stroke-width="1"/>
+<line x1="420.0" y1="462" x2="420.0" y2="467" stroke="#374151"/>
+<text x="420.0" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">-7</text>
+<line x1="567.5" y1="462" x2="567.5" y2="467" stroke="#374151"/>
+<text x="567.5" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">-4</text>
+<line x1="715.0" y1="462" x2="715.0" y2="467" stroke="#374151"/>
+<text x="715.0" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">+0</text>
+<line x1="862.5" y1="462" x2="862.5" y2="467" stroke="#374151"/>
+<text x="862.5" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">+4</text>
+<line x1="1010.0" y1="462" x2="1010.0" y2="467" stroke="#374151"/>
+<text x="1010.0" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">+7</text>
+<text x="390" y="117.79493333333333" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">05-05 - Birth injury/asphyxia</text>
+<rect x="573.4076138784382" y="104.0" width="141.59238612156184" height="20.28666666666667" fill="#dc2626"/>
+<text x="580.4076138784382" y="117.79493333333333" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-3.4</text>
+<text x="390" y="147.6282666666667" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">05-03 - Prematurity/low birth weight</text>
+<rect x="614.4791695330998" y="133.83333333333334" width="100.52083046690014" height="20.28666666666667" fill="#dc2626"/>
+<text x="621.4791695330998" y="147.6282666666667" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-2.4</text>
+<text x="390" y="177.46160000000003" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">01-04 - TB/AIDS</text>
+<rect x="625.9425353342223" y="163.66666666666669" width="89.05746466577769" height="20.28666666666667" fill="#dc2626"/>
+<text x="632.9425353342223" y="177.46160000000003" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-2.1</text>
+<text x="390" y="207.29493333333335" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">03-01 - Cardiovascular disorder</text>
+<rect x="637.4635650676322" y="193.5" width="77.53643493236784" height="20.28666666666667" fill="#dc2626"/>
+<text x="644.4635650676322" y="207.29493333333335" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-1.9</text>
+<text x="390" y="237.1282666666667" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">03-03 - Gastro intestinal disorder</text>
+<rect x="644.8339113643589" y="223.33333333333334" width="70.16608863564109" height="20.28666666666667" fill="#dc2626"/>
+<text x="651.8339113643589" y="237.1282666666667" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-1.7</text>
+<text x="390" y="266.96160000000003" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">03-00 - Unspecifiable</text>
+<rect x="665.2592599621396" y="253.16666666666669" width="49.740740037860434" height="20.28666666666667" fill="#dc2626"/>
+<text x="672.2592599621396" y="266.96160000000003" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-1.2</text>
+<text x="390" y="296.79493333333335" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">04-05 - Poisoning/exposure to noxious substance</text>
+<rect x="672.8403875259166" y="283.0" width="42.159612474083374" height="20.28666666666667" fill="#dc2626"/>
+<text x="679.8403875259166" y="296.79493333333335" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">-1.0</text>
+<text x="390" y="326.6282666666667" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">04-99 - Other specific unlisted</text>
+<rect x="715.0" y="312.83333333333337" width="49.78020904005724" height="20.28666666666667" fill="#2563eb"/>
+<text x="774.7802090400572" y="326.6282666666667" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">+1.2</text>
+<text x="390" y="356.46160000000003" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">01-05 - Diarrhoeal disease without fever</text>
+<rect x="715.0" y="342.6666666666667" width="61.72783990359295" height="20.28666666666667" fill="#2563eb"/>
+<text x="786.7278399035929" y="356.46160000000003" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">+1.5</text>
+<text x="390" y="386.29493333333335" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">05-00 - Unspecifiable</text>
+<rect x="715.0" y="372.5" width="82.26571714593418" height="20.28666666666667" fill="#2563eb"/>
+<text x="807.2657171459342" y="386.29493333333335" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">+2.0</text>
+<text x="390" y="416.1282666666667" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">00-02 - Specific information missing on VAQ</text>
+<rect x="715.0" y="402.33333333333337" width="107.13566728186211" height="20.28666666666667" fill="#2563eb"/>
+<text x="832.1356672818621" y="416.1282666666667" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">+2.6</text>
+<text x="390" y="445.96160000000003" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#111827">01-01 - Acute febrile illness</text>
+<rect x="715.0" y="432.1666666666667" width="295.0" height="20.28666666666667" fill="#2563eb"/>
+<text x="1020.0" y="445.96160000000003" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#374151">+7.1</text>
+<text x="715.0" y="504" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">Percentage-point difference</text>
+</svg>

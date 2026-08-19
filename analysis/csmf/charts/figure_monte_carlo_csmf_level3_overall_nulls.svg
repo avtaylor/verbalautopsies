@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="520" viewBox="0 0 1060 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="220" y="34" text-anchor="start" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#111827">Overall Level 3 CSMF Accuracy Against Monte Carlo Null Models</text>
+<text x="220" y="58" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#52616b">Observed values are compared with uniform random coding and physician-prior random coding.</text>
+<line x1="220.0" y1="104" x2="220.0" y2="448" stroke="#e5e7eb" stroke-width="1"/>
+<text x="220.0" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.25</text>
+<line x1="461.66666666666663" y1="104" x2="461.66666666666663" y2="448" stroke="#e5e7eb" stroke-width="1"/>
+<text x="461.66666666666663" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.50</text>
+<line x1="703.3333333333333" y1="104" x2="703.3333333333333" y2="448" stroke="#e5e7eb" stroke-width="1"/>
+<text x="703.3333333333333" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">0.75</text>
+<line x1="945.0" y1="104" x2="945.0" y2="448" stroke="#e5e7eb" stroke-width="1"/>
+<text x="945.0" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">1.00</text>
+<text x="32" y="136" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP1</text>
+<text x="202" y="120" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">Uniform random</text>
+<line x1="474.04700301854245" y1="116" x2="499.05778352738247" y2="116" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<circle cx="486.6857007330746" cy="116" r="5.5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<circle cx="695.2069322296946" cy="116" r="6.5" fill="#2563eb"/>
+<text x="704.2069322296946" y="120" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#111827">0.742</text>
+<text x="202" y="144" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">Physician-prior random</text>
+<line x1="894.4782233721431" y1="140" x2="912.986200948685" y2="140" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<circle cx="904.5478137128073" cy="140" r="5.5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<circle cx="695.2069322296946" cy="140" r="6.5" fill="#2563eb"/>
+<text x="704.2069322296946" y="144" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#111827">0.742</text>
+<text x="32" y="224" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP2</text>
+<text x="202" y="208" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">Uniform random</text>
+<line x1="474.8215104384505" y1="204" x2="499.61001468743" y2="204" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<circle cx="486.59520619141637" cy="204" r="5.5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<circle cx="680.5082610820896" cy="204" r="6.5" fill="#d97706"/>
+<text x="689.5082610820896" y="208" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#111827">0.726</text>
+<text x="202" y="232" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">Physician-prior random</text>
+<line x1="894.4701550123693" y1="228" x2="913.1653567943144" y2="228" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<circle cx="904.3809667117341" cy="228" r="5.5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<circle cx="680.5082610820896" cy="228" r="6.5" fill="#d97706"/>
+<text x="689.5082610820896" y="232" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#111827">0.726</text>
+<text x="32" y="312" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP3</text>
+<text x="202" y="296" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">Uniform random</text>
+<line x1="472.98309969238653" y1="292" x2="499.8145168723548" y2="292" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<circle cx="486.2248945377671" cy="292" r="5.5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<circle cx="663.3410720918489" cy="292" r="6.5" fill="#059669"/>
+<text x="672.3410720918489" y="296" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#111827">0.709</text>
+<text x="202" y="320" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">Physician-prior random</text>
+<line x1="892.8962390934325" y1="316" x2="911.2551233472145" y2="316" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<circle cx="902.5554638124916" cy="316" r="5.5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<circle cx="663.3410720918489" cy="316" r="6.5" fill="#059669"/>
+<text x="672.3410720918489" y="320" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#111827">0.709</text>
+<text x="32" y="400" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EXP4</text>
+<text x="202" y="384" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">Uniform random</text>
+<line x1="474.4921016795938" y1="380" x2="499.2598007746339" y2="380" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<circle cx="486.5016151083181" cy="380" r="5.5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<circle cx="678.4634293173723" cy="380" r="6.5" fill="#dc2626"/>
+<text x="687.4634293173723" y="384" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#111827">0.724</text>
+<text x="202" y="408" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#374151">Physician-prior random</text>
+<line x1="895.1195851175731" y1="404" x2="912.6905567542582" y2="404" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<circle cx="904.2024853406848" cy="404" r="5.5" fill="#ffffff" stroke="#334155" stroke-width="2"/>
+<circle cx="678.4634293173723" cy="404" r="6.5" fill="#dc2626"/>
+<text x="687.4634293173723" y="408" text-anchor="start" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#111827">0.724</text>
+<text x="582.5" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">CSMF accuracy</text>
+</svg>

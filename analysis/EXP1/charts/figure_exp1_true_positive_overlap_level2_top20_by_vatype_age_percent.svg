@@ -1,0 +1,465 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1478" height="1072" viewBox="0 0 1478 1072">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="32" text-anchor="start" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">EXP1 Level 2 True Positive Overlap by VA Type and Age (Top 20)</text>
+<text x="24" y="56" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#52616b">Cells show percent of comparable cases. Total column shows count and percent of Top 20 overlaps.</text>
+<text x="24" y="96" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">Cause code / name</text>
+<text x="554.0" y="104" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">Total</text>
+<text x="654.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">adult</text>
+<text x="654.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">15-24</text>
+<text x="746.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">adult</text>
+<text x="746.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">25-44</text>
+<text x="838.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">adult</text>
+<text x="838.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">45-64</text>
+<text x="930.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">adult</text>
+<text x="930.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">65+</text>
+<text x="1022.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">child</text>
+<text x="1022.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">0</text>
+<text x="1114.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">child</text>
+<text x="1114.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">1-4</text>
+<text x="1206.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">child</text>
+<text x="1206.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">5-9</text>
+<text x="1298.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">child</text>
+<text x="1298.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">10-14</text>
+<text x="1390.0" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">infant</text>
+<text x="1390.0" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#111827">0</text>
+<rect x="16" y="142" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="170" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">01-01 - Acute febrile illness</text>
+<rect x="500" y="145" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">816 (23.1%)</text>
+<rect x="608" y="145" width="88" height="38" rx="2" fill="rgb(195,215,205)"/>
+<text x="652.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">13.9%</text>
+<rect x="700" y="145" width="88" height="38" rx="2" fill="rgb(208,223,216)"/>
+<text x="744.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">10.6%</text>
+<rect x="792" y="145" width="88" height="38" rx="2" fill="rgb(213,227,221)"/>
+<text x="836.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">9.1%</text>
+<rect x="884" y="145" width="88" height="38" rx="2" fill="rgb(192,213,202)"/>
+<text x="928.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">14.8%</text>
+<rect x="976" y="145" width="88" height="38" rx="2" fill="rgb(22,101,52)"/>
+<text x="1020.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">59.2%</text>
+<rect x="1068" y="145" width="88" height="38" rx="2" fill="rgb(25,103,55)"/>
+<text x="1112.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">58.3%</text>
+<rect x="1160" y="145" width="88" height="38" rx="2" fill="rgb(76,137,100)"/>
+<text x="1204.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">45.0%</text>
+<rect x="1252" y="145" width="88" height="38" rx="2" fill="rgb(128,171,146)"/>
+<text x="1296.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">31.4%</text>
+<rect x="1344" y="145" width="88" height="38" rx="2" fill="rgb(237,243,243)"/>
+<text x="1388.0" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.8%</text>
+<rect x="16" y="186" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="214" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">01-04 - TB/AIDS</text>
+<rect x="500" y="189" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">805 (22.8%)</text>
+<rect x="608" y="189" width="88" height="38" rx="2" fill="rgb(173,201,186)"/>
+<text x="652.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">19.6%</text>
+<rect x="700" y="189" width="88" height="38" rx="2" fill="rgb(55,123,81)"/>
+<text x="744.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">50.5%</text>
+<rect x="792" y="189" width="88" height="38" rx="2" fill="rgb(93,148,114)"/>
+<text x="836.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">40.7%</text>
+<rect x="884" y="189" width="88" height="38" rx="2" fill="rgb(227,236,234)"/>
+<text x="928.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">5.4%</text>
+<rect x="976" y="189" width="88" height="38" rx="2" fill="rgb(211,226,220)"/>
+<text x="1020.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">9.6%</text>
+<rect x="1068" y="189" width="88" height="38" rx="2" fill="rgb(212,227,221)"/>
+<text x="1112.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">9.3%</text>
+<rect x="1160" y="189" width="88" height="38" rx="2" fill="rgb(204,221,213)"/>
+<text x="1204.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">11.4%</text>
+<rect x="1252" y="189" width="88" height="38" rx="2" fill="rgb(193,214,204)"/>
+<text x="1296.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">14.3%</text>
+<rect x="1344" y="189" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="1388.0" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.2%</text>
+<rect x="16" y="230" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="258" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-01 - Cardiovascular disorder</text>
+<rect x="500" y="233" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">479 (13.6%)</text>
+<rect x="608" y="233" width="88" height="38" rx="2" fill="rgb(232,240,238)"/>
+<text x="652.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">4.1%</text>
+<rect x="700" y="233" width="88" height="38" rx="2" fill="rgb(243,247,248)"/>
+<text x="744.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.2%</text>
+<rect x="792" y="233" width="88" height="38" rx="2" fill="rgb(196,216,206)"/>
+<text x="836.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">13.7%</text>
+<rect x="884" y="233" width="88" height="38" rx="2" fill="rgb(90,146,112)"/>
+<text x="928.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">41.3%</text>
+<rect x="976" y="233" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="233" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="1112.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.2%</text>
+<rect x="1160" y="233" width="88" height="38" rx="2" fill="rgb(245,248,250)"/>
+<text x="1204.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.7%</text>
+<rect x="1252" y="233" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="233" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="274" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="302" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-03 - Gastro intestinal disorder</text>
+<rect x="500" y="277" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">192 (5.4%)</text>
+<rect x="608" y="277" width="88" height="38" rx="2" fill="rgb(222,233,229)"/>
+<text x="652.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">6.7%</text>
+<rect x="700" y="277" width="88" height="38" rx="2" fill="rgb(214,228,222)"/>
+<text x="744.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">8.8%</text>
+<rect x="792" y="277" width="88" height="38" rx="2" fill="rgb(223,234,230)"/>
+<text x="836.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">6.5%</text>
+<rect x="884" y="277" width="88" height="38" rx="2" fill="rgb(221,232,228)"/>
+<text x="928.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">7.0%</text>
+<rect x="976" y="277" width="88" height="38" rx="2" fill="rgb(243,247,248)"/>
+<text x="1020.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.3%</text>
+<rect x="1068" y="277" width="88" height="38" rx="2" fill="rgb(246,249,250)"/>
+<text x="1112.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.5%</text>
+<rect x="1160" y="277" width="88" height="38" rx="2" fill="rgb(240,245,245)"/>
+<text x="1204.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.1%</text>
+<rect x="1252" y="277" width="88" height="38" rx="2" fill="rgb(237,243,242)"/>
+<text x="1296.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.9%</text>
+<rect x="1344" y="277" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="318" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="346" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">05-05 - Birth injury/asphyxia</text>
+<rect x="500" y="321" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">182 (5.2%)</text>
+<rect x="608" y="321" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="652.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="700" y="321" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="744.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="792" y="321" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="836.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="884" y="321" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="928.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="976" y="321" width="88" height="38" rx="2" fill="rgb(246,248,250)"/>
+<text x="1020.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.6%</text>
+<rect x="1068" y="321" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1112.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1160" y="321" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1204.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1252" y="321" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="321" width="88" height="38" rx="2" fill="rgb(110,159,130)"/>
+<text x="1388.0" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">36.1%</text>
+<rect x="16" y="362" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="390" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-06 - Neoplasm</text>
+<rect x="500" y="365" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">177 (5.0%)</text>
+<rect x="608" y="365" width="88" height="38" rx="2" fill="rgb(234,241,240)"/>
+<text x="652.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">3.6%</text>
+<rect x="700" y="365" width="88" height="38" rx="2" fill="rgb(236,242,241)"/>
+<text x="744.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">3.2%</text>
+<rect x="792" y="365" width="88" height="38" rx="2" fill="rgb(215,228,223)"/>
+<text x="836.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">8.6%</text>
+<rect x="884" y="365" width="88" height="38" rx="2" fill="rgb(212,227,221)"/>
+<text x="928.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">9.3%</text>
+<rect x="976" y="365" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="365" width="88" height="38" rx="2" fill="rgb(245,248,249)"/>
+<text x="1112.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.9%</text>
+<rect x="1160" y="365" width="88" height="38" rx="2" fill="rgb(245,248,250)"/>
+<text x="1204.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.7%</text>
+<rect x="1252" y="365" width="88" height="38" rx="2" fill="rgb(215,228,223)"/>
+<text x="1296.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">8.6%</text>
+<rect x="1344" y="365" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="406" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="434" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">05-03 - Prematurity/low birth weight</text>
+<rect x="500" y="409" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">131 (3.7%)</text>
+<rect x="608" y="409" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="652.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="700" y="409" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="744.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="792" y="409" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="836.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="884" y="409" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="928.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="976" y="409" width="88" height="38" rx="2" fill="rgb(246,248,250)"/>
+<text x="1020.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.6%</text>
+<rect x="1068" y="409" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1112.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1160" y="409" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1204.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1252" y="409" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="409" width="88" height="38" rx="2" fill="rgb(149,185,164)"/>
+<text x="1388.0" y="434" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">25.9%</text>
+<rect x="16" y="450" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="478" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-05 - Endocrine disorders</text>
+<rect x="500" y="453" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">109 (3.1%)</text>
+<rect x="608" y="453" width="88" height="38" rx="2" fill="rgb(240,245,245)"/>
+<text x="652.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.1%</text>
+<rect x="700" y="453" width="88" height="38" rx="2" fill="rgb(241,245,246)"/>
+<text x="744.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.8%</text>
+<rect x="792" y="453" width="88" height="38" rx="2" fill="rgb(230,238,236)"/>
+<text x="836.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">4.8%</text>
+<rect x="884" y="453" width="88" height="38" rx="2" fill="rgb(222,233,229)"/>
+<text x="928.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">6.8%</text>
+<rect x="976" y="453" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="453" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1112.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1160" y="453" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1204.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1252" y="453" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="453" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="494" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="522" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">05-06 - Neonatal sepsis</text>
+<rect x="500" y="497" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">99 (2.8%)</text>
+<rect x="608" y="497" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="652.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="700" y="497" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="744.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="792" y="497" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="836.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="884" y="497" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="928.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="976" y="497" width="88" height="38" rx="2" fill="rgb(238,244,244)"/>
+<text x="1020.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.5%</text>
+<rect x="1068" y="497" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1112.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1160" y="497" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1204.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1252" y="497" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="497" width="88" height="38" rx="2" fill="rgb(175,202,188)"/>
+<text x="1388.0" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">19.0%</text>
+<rect x="16" y="538" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="566" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-08 - Anaemia</text>
+<rect x="500" y="541" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">76 (2.2%)</text>
+<rect x="608" y="541" width="88" height="38" rx="2" fill="rgb(238,243,243)"/>
+<text x="652.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.6%</text>
+<rect x="700" y="541" width="88" height="38" rx="2" fill="rgb(245,248,249)"/>
+<text x="744.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.9%</text>
+<rect x="792" y="541" width="88" height="38" rx="2" fill="rgb(243,246,247)"/>
+<text x="836.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.4%</text>
+<rect x="884" y="541" width="88" height="38" rx="2" fill="rgb(240,244,245)"/>
+<text x="928.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.2%</text>
+<rect x="976" y="541" width="88" height="38" rx="2" fill="rgb(241,245,246)"/>
+<text x="1020.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.9%</text>
+<rect x="1068" y="541" width="88" height="38" rx="2" fill="rgb(232,239,237)"/>
+<text x="1112.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">4.3%</text>
+<rect x="1160" y="541" width="88" height="38" rx="2" fill="rgb(229,237,235)"/>
+<text x="1204.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">5.0%</text>
+<rect x="1252" y="541" width="88" height="38" rx="2" fill="rgb(237,243,242)"/>
+<text x="1296.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.9%</text>
+<rect x="1344" y="541" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="582" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="610" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-04 - Central nervous system disorder</text>
+<rect x="500" y="585" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">75 (2.1%)</text>
+<rect x="608" y="585" width="88" height="38" rx="2" fill="rgb(212,227,221)"/>
+<text x="652.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">9.3%</text>
+<rect x="700" y="585" width="88" height="38" rx="2" fill="rgb(235,241,240)"/>
+<text x="744.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">3.5%</text>
+<rect x="792" y="585" width="88" height="38" rx="2" fill="rgb(242,246,247)"/>
+<text x="836.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.5%</text>
+<rect x="884" y="585" width="88" height="38" rx="2" fill="rgb(242,246,247)"/>
+<text x="928.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.6%</text>
+<rect x="976" y="585" width="88" height="38" rx="2" fill="rgb(246,248,250)"/>
+<text x="1020.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.6%</text>
+<rect x="1068" y="585" width="88" height="38" rx="2" fill="rgb(246,249,250)"/>
+<text x="1112.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.5%</text>
+<rect x="1160" y="585" width="88" height="38" rx="2" fill="rgb(245,248,250)"/>
+<text x="1204.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.7%</text>
+<rect x="1252" y="585" width="88" height="38" rx="2" fill="rgb(237,243,242)"/>
+<text x="1296.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.9%</text>
+<rect x="1344" y="585" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="626" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="654" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">04-01 - Transport</text>
+<rect x="500" y="629" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">70 (2.0%)</text>
+<rect x="608" y="629" width="88" height="38" rx="2" fill="rgb(222,233,229)"/>
+<text x="652.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">6.7%</text>
+<rect x="700" y="629" width="88" height="38" rx="2" fill="rgb(233,240,239)"/>
+<text x="744.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">3.8%</text>
+<rect x="792" y="629" width="88" height="38" rx="2" fill="rgb(241,245,246)"/>
+<text x="836.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.9%</text>
+<rect x="884" y="629" width="88" height="38" rx="2" fill="rgb(245,248,249)"/>
+<text x="928.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.9%</text>
+<rect x="976" y="629" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="629" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="1112.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.3%</text>
+<rect x="1160" y="629" width="88" height="38" rx="2" fill="rgb(232,239,237)"/>
+<text x="1204.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">4.3%</text>
+<rect x="1252" y="629" width="88" height="38" rx="2" fill="rgb(237,243,242)"/>
+<text x="1296.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.9%</text>
+<rect x="1344" y="629" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="670" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="698" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-09 - Nutritional disorder</text>
+<rect x="500" y="673" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">62 (1.8%)</text>
+<rect x="608" y="673" width="88" height="38" rx="2" fill="rgb(246,249,250)"/>
+<text x="652.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.5%</text>
+<rect x="700" y="673" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="744.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.1%</text>
+<rect x="792" y="673" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="836.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="884" y="673" width="88" height="38" rx="2" fill="rgb(245,248,249)"/>
+<text x="928.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.8%</text>
+<rect x="976" y="673" width="88" height="38" rx="2" fill="rgb(229,237,235)"/>
+<text x="1020.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">5.1%</text>
+<rect x="1068" y="673" width="88" height="38" rx="2" fill="rgb(224,234,231)"/>
+<text x="1112.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">6.2%</text>
+<rect x="1160" y="673" width="88" height="38" rx="2" fill="rgb(229,237,235)"/>
+<text x="1204.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">5.0%</text>
+<rect x="1252" y="673" width="88" height="38" rx="2" fill="rgb(237,243,242)"/>
+<text x="1296.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.9%</text>
+<rect x="1344" y="673" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="1388.0" y="698" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.2%</text>
+<rect x="16" y="714" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="742" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">04-03 - Drowning/submersion</text>
+<rect x="500" y="717" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">56 (1.6%)</text>
+<rect x="608" y="717" width="88" height="38" rx="2" fill="rgb(228,237,234)"/>
+<text x="652.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">5.2%</text>
+<rect x="700" y="717" width="88" height="38" rx="2" fill="rgb(241,245,246)"/>
+<text x="744.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.9%</text>
+<rect x="792" y="717" width="88" height="38" rx="2" fill="rgb(245,248,250)"/>
+<text x="836.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.7%</text>
+<rect x="884" y="717" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="928.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.2%</text>
+<rect x="976" y="717" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="717" width="88" height="38" rx="2" fill="rgb(240,245,245)"/>
+<text x="1112.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.1%</text>
+<rect x="1160" y="717" width="88" height="38" rx="2" fill="rgb(221,232,228)"/>
+<text x="1204.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">7.1%</text>
+<rect x="1252" y="717" width="88" height="38" rx="2" fill="rgb(215,228,223)"/>
+<text x="1296.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">8.6%</text>
+<rect x="1344" y="717" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="758" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="786" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-02 - Respiratory disorder</text>
+<rect x="500" y="761" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">51 (1.4%)</text>
+<rect x="608" y="761" width="88" height="38" rx="2" fill="rgb(242,246,247)"/>
+<text x="652.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.5%</text>
+<rect x="700" y="761" width="88" height="38" rx="2" fill="rgb(246,248,250)"/>
+<text x="744.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.6%</text>
+<rect x="792" y="761" width="88" height="38" rx="2" fill="rgb(239,244,244)"/>
+<text x="836.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.4%</text>
+<rect x="884" y="761" width="88" height="38" rx="2" fill="rgb(239,244,244)"/>
+<text x="928.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.4%</text>
+<rect x="976" y="761" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="761" width="88" height="38" rx="2" fill="rgb(244,247,249)"/>
+<text x="1112.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.0%</text>
+<rect x="1160" y="761" width="88" height="38" rx="2" fill="rgb(245,248,250)"/>
+<text x="1204.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.7%</text>
+<rect x="1252" y="761" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="761" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="786" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="802" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="830" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">01-05 - Diarrhoeal disease without fever</text>
+<rect x="500" y="805" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">45 (1.3%)</text>
+<rect x="608" y="805" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="652.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="700" y="805" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="744.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="792" y="805" width="88" height="38" rx="2" fill="rgb(245,248,250)"/>
+<text x="836.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.7%</text>
+<rect x="884" y="805" width="88" height="38" rx="2" fill="rgb(244,247,248)"/>
+<text x="928.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.1%</text>
+<rect x="976" y="805" width="88" height="38" rx="2" fill="rgb(238,244,244)"/>
+<text x="1020.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.5%</text>
+<rect x="1068" y="805" width="88" height="38" rx="2" fill="rgb(230,238,236)"/>
+<text x="1112.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">4.7%</text>
+<rect x="1160" y="805" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1204.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1252" y="805" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="805" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="830" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="846" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="874" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">04-05 - Poisoning/exposure to noxious substance</text>
+<rect x="500" y="849" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">36 (1.0%)</text>
+<rect x="608" y="849" width="88" height="38" rx="2" fill="rgb(236,242,242)"/>
+<text x="652.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">3.1%</text>
+<rect x="700" y="849" width="88" height="38" rx="2" fill="rgb(242,246,246)"/>
+<text x="744.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.7%</text>
+<rect x="792" y="849" width="88" height="38" rx="2" fill="rgb(243,246,247)"/>
+<text x="836.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.4%</text>
+<rect x="884" y="849" width="88" height="38" rx="2" fill="rgb(246,249,251)"/>
+<text x="928.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.4%</text>
+<rect x="976" y="849" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="849" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="1112.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.3%</text>
+<rect x="1160" y="849" width="88" height="38" rx="2" fill="rgb(240,245,245)"/>
+<text x="1204.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.1%</text>
+<rect x="1252" y="849" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="849" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="874" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="890" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="918" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">03-07 - Genito urinary disorders</text>
+<rect x="500" y="893" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">30 (0.8%)</text>
+<rect x="608" y="893" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="652.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="700" y="893" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="744.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.1%</text>
+<rect x="792" y="893" width="88" height="38" rx="2" fill="rgb(245,248,249)"/>
+<text x="836.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.9%</text>
+<rect x="884" y="893" width="88" height="38" rx="2" fill="rgb(239,244,244)"/>
+<text x="928.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.4%</text>
+<rect x="976" y="893" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="893" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="1112.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.2%</text>
+<rect x="1160" y="893" width="88" height="38" rx="2" fill="rgb(245,248,250)"/>
+<text x="1204.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.7%</text>
+<rect x="1252" y="893" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="893" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="918" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="934" width="1446" height="44" fill="#f8fafc"/>
+<text x="486" y="962" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">04-08 - Hanging</text>
+<rect x="500" y="937" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">24 (0.7%)</text>
+<rect x="608" y="937" width="88" height="38" rx="2" fill="rgb(238,243,243)"/>
+<text x="652.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.6%</text>
+<rect x="700" y="937" width="88" height="38" rx="2" fill="rgb(242,246,247)"/>
+<text x="744.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.6%</text>
+<rect x="792" y="937" width="88" height="38" rx="2" fill="rgb(245,248,250)"/>
+<text x="836.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.7%</text>
+<rect x="884" y="937" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="928.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.3%</text>
+<rect x="976" y="937" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="937" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1112.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1160" y="937" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1204.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1252" y="937" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1296.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1344" y="937" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="16" y="978" width="1446" height="44" fill="#ffffff"/>
+<text x="486" y="1006" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#111827">04-02 - Fall</text>
+<rect x="500" y="981" width="104" height="38" rx="2" fill="#eef2f7"/>
+<text x="552.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">18 (0.5%)</text>
+<rect x="608" y="981" width="88" height="38" rx="2" fill="rgb(246,249,250)"/>
+<text x="652.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.5%</text>
+<rect x="700" y="981" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="744.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.3%</text>
+<rect x="792" y="981" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="836.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="884" y="981" width="88" height="38" rx="2" fill="rgb(244,247,248)"/>
+<text x="928.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">1.1%</text>
+<rect x="976" y="981" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1020.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+<rect x="1068" y="981" width="88" height="38" rx="2" fill="rgb(247,249,251)"/>
+<text x="1112.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.2%</text>
+<rect x="1160" y="981" width="88" height="38" rx="2" fill="rgb(240,245,245)"/>
+<text x="1204.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.1%</text>
+<rect x="1252" y="981" width="88" height="38" rx="2" fill="rgb(237,243,242)"/>
+<text x="1296.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2.9%</text>
+<rect x="1344" y="981" width="88" height="38" rx="2" fill="rgb(248,250,252)"/>
+<text x="1388.0" y="1006" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0.0%</text>
+</svg>
