@@ -29,7 +29,7 @@ This repository is intended for public sharing and does not include raw verbal a
 
 ## Citation
 
-Taylor A, Dube A, Kambiya P. Verbal autopsies cause-of-death determinations using GPT-5: selected code, aggregate outputs, and figures. INSPIRE 2.0 CC540 project compendium. Malawi University of Business and Applied Sciences and Malawi Epidemiological and Intervention Research Unit; 2026.
+Taylor A, Dube A, Kambiya P. Verbal autopsies cause-of-death determinations using GPT-5: selected code, aggregate outputs, and figures. INSPIRE 2.0 CC540 project compendium. Malawi University of Business and Applied Sciences and Malawi Epidemiology and Intervention Research Unit; 2026.
 
 ## Responsible use
 
