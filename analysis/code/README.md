@@ -1,5 +1,7 @@
 # Analysis code for selected manuscript outputs
 
+[Repo Link](analysis/code)
+
 This folder contains the statistical scripts needed for Tables 2–6 and Figures 2–5. Final public artefacts are written to `analysis/outputs/`. Raw verbal-autopsy narratives, workbooks, identifiers, and record-level generated files remain outside this public repository.
 
 ## Order of execution
