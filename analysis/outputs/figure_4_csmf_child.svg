@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="500" viewBox="0 0 760 500">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="92" y="34" font-family="Arial" font-size="21" font-weight="700">CSMF accuracy: Child VA</text>
+<text x="92" y="58" font-family="Arial" font-size="12" fill="#52616b">One line per experiment; higher values indicate closer agreement.</text>
+<line x1="92" y1="422.0" x2="610" y2="422.0" stroke="#e2e8f0"/>
+<text x="78" y="426.0" text-anchor="end" font-family="Arial" font-size="11">0.61</text>
+<line x1="92" y1="339.5" x2="610" y2="339.5" stroke="#e2e8f0"/>
+<text x="78" y="343.5" text-anchor="end" font-family="Arial" font-size="11">0.71</text>
+<line x1="92" y1="257.0" x2="610" y2="257.0" stroke="#e2e8f0"/>
+<text x="78" y="261.0" text-anchor="end" font-family="Arial" font-size="11">0.81</text>
+<line x1="92" y1="174.5" x2="610" y2="174.5" stroke="#e2e8f0"/>
+<text x="78" y="178.5" text-anchor="end" font-family="Arial" font-size="11">0.90</text>
+<line x1="92" y1="92.0" x2="610" y2="92.0" stroke="#e2e8f0"/>
+<text x="78" y="96.0" text-anchor="end" font-family="Arial" font-size="11">1.00</text>
+<text x="92.0" y="456" text-anchor="middle" font-family="Arial" font-size="13">Level 1</text>
+<text x="351.0" y="456" text-anchor="middle" font-family="Arial" font-size="13">Level 2</text>
+<text x="610.0" y="456" text-anchor="middle" font-family="Arial" font-size="13">Level 3</text>
+<path d="M 92.0 115.3 L 351.0 195.3 L 610.0 353.5" fill="none" stroke="#2563eb" stroke-width="2.8"/>
+<circle cx="92.0" cy="115.3" r="5" fill="#2563eb"/>
+<circle cx="351.0" cy="195.3" r="5" fill="#2563eb"/>
+<circle cx="610.0" cy="353.5" r="5" fill="#2563eb"/>
+<path d="M 92.0 121.7 L 351.0 220.2 L 610.0 311.3" fill="none" stroke="#d97706" stroke-width="2.8"/>
+<circle cx="92.0" cy="121.7" r="5" fill="#d97706"/>
+<circle cx="351.0" cy="220.2" r="5" fill="#d97706"/>
+<circle cx="610.0" cy="311.3" r="5" fill="#d97706"/>
+<path d="M 92.0 135.1 L 351.0 205.0 L 610.0 354.1" fill="none" stroke="#059669" stroke-width="2.8"/>
+<circle cx="92.0" cy="135.1" r="5" fill="#059669"/>
+<circle cx="351.0" cy="205.0" r="5" fill="#059669"/>
+<circle cx="610.0" cy="354.1" r="5" fill="#059669"/>
+<path d="M 92.0 124.7 L 351.0 206.3 L 610.0 312.3" fill="none" stroke="#dc2626" stroke-width="2.8"/>
+<circle cx="92.0" cy="124.7" r="5" fill="#dc2626"/>
+<circle cx="351.0" cy="206.3" r="5" fill="#dc2626"/>
+<circle cx="610.0" cy="312.3" r="5" fill="#dc2626"/>
+<text x="26" y="257.0" transform="rotate(-90 26 257.0)" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700">Score</text>
+<line x1="642" y1="110" x2="670" y2="110" stroke="#2563eb" stroke-width="3"/>
+<text x="680" y="114" font-family="Arial" font-size="12">EXP1</text>
+<line x1="642" y1="142" x2="670" y2="142" stroke="#d97706" stroke-width="3"/>
+<text x="680" y="146" font-family="Arial" font-size="12">EXP2</text>
+<line x1="642" y1="174" x2="670" y2="174" stroke="#059669" stroke-width="3"/>
+<text x="680" y="178" font-family="Arial" font-size="12">EXP3</text>
+<line x1="642" y1="206" x2="670" y2="206" stroke="#dc2626" stroke-width="3"/>
+<text x="680" y="210" font-family="Arial" font-size="12">EXP4</text>
+</svg>

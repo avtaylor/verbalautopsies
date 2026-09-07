@@ -1,39 +1,27 @@
-# MEIRU VA LLM cause-of-death analysis
+# Selected manuscript analysis
 
-Selected, de-identified outputs from analyses comparing four large-language-model (LLM) cause-of-death experiments with physician-coded verbal autopsy (VA) references.
+This slimmed-down folder contains only the aggregate tables and charts included in the manuscript, the code needed to reproduce them, and the minimal aggregate inputs needed to rebuild the presentation artifacts without sharing record-level VA data.
 
-**Main landing page:** open [`../index.html`](../index.html) from the repository root. This folder also contains [`index.html`](index.html), a subfolder-local copy of the analysis navigator. The full file inventory is in [`FILE_MANIFEST.csv`](FILE_MANIFEST.csv).
+## Contents
 
-## What is included
+- `outputs/` — Tables 2–6, Chart 2, and Figures 3–5.
+- `code/` — agreement, Jaccard, CSMF, PCCC, Monte Carlo, and manuscript assembly scripts.
+- `aggregate_inputs/` — minimal de-identified aggregate inputs used by the final assembly step.
 
-- `agreement/` — strict and flexible agreement summaries, confusion counts, confidence intervals, and paired tests.
-- `csmf/` — cause-specific mortality fraction (CSMF) and chance-corrected accuracy summaries.
-- `jaccard/` — aggregate set-overlap summaries for pooled and contributory causes.
-- `EXP1/`–`EXP4/` — experiment-level aggregate distributions and stratified figures.
-- `*/code/` — analysis and figure-generation scripts retained for methodological transparency.
-- `inputs/INPUT_FILES.md` — descriptions of restricted upstream inputs; the inputs themselves are not included.
+See [`code/README.md`](code/README.md) for execution order. The scripts that calculate metrics from the original source data require authorized private inputs. Raw questionnaires, narratives, identifiers, physician workbooks, model responses, and record-level intermediate tables are not included.
 
-The folders named `excel/` contain CSV tables, despite the historical folder name.
+## Manuscript deliverables
 
-## Data-sharing boundary
+1. Table 2: Underlying CoD distributions at Level 1 and top Level 2.
+2. Table 3: EXP1–EXP4 comparison using strict underlying agreement, flexible any-code agreement, Jaccard similarity, and CSMF accuracy at Levels 1–3.
+3. Figure 2: Flexible any-code agreement by coding level for overall, adult, child, and infant VA groups.
+4. Table 4: Level-2 flexible-match Jaccard similarity bins.
+5. Table 5: EXP1 top-20 Level-2 true-positive overlap by VA type and age.
+6. Figure 3: Largest EXP1 versus physician Level-2 underlying distribution differences by VA type.
+7. Figure 4: Six line charts showing PCCC and CSMF accuracy for adult, child and infant VA groups, with one line per experiment.
+8. Table 6: PCCC for strict underlying CoD agreement.
+9. Figure 5: Observed Level-2 CSMF accuracy versus the Monte Carlo physician-prior baseline.
 
-This package is intended for public sharing and contains only code, figures, and aggregate outputs. It deliberately excludes raw VA narratives, source workbooks, model responses, identifiers, and case/record-level comparison tables. For data requests contact the authors.
+## AI-assisted coding disclosure
 
-When this folder is placed in the main `verbalautopsies` repository as `analysis/`, `index.html` links upward to the root `data_preparation/` and `OpenAPI_calls/` folders for the questionnaire-to-text and OpenAI API code. Raw records and API credentials are not included.
-
-
-
-## Reproduction notes
-
-The upstream entry point is `agreement/code/analysis_llm_phy_agreement.py`. It creates a normalized record-level intermediate used by downstream CSMF, Jaccard, uncertainty, and chart scripts. That intermediate and the source data are intentionally absent, so this public package documents the workflow but is not runnable end-to-end without authorized access to restricted inputs.
-
-Paths in the retained scripts reflect the original analysis environment and may need configuration before an authorized rerun. See [`inputs/INPUT_FILES.md`](inputs/INPUT_FILES.md) for the expected private inputs.
-
-## Experiment labels
-
-`EXP1` through `EXP4` identify the four evaluated LLM analysis conditions. Consult the associated study documentation before assigning substantive prompt/model descriptions to these labels.
-
-## Responsible use
-
-These outputs evaluate agreement with physician coding and population-level cause distributions. They should not be interpreted as clinical diagnoses or used to make decisions about individuals.
-
+AI-assisted coding using Codex was used to generate code for some of the charts. All AI-generated code was reviewed manually, tested against the data, and verified by the human authors to ensure its correctness.
