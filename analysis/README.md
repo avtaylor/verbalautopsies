@@ -24,4 +24,4 @@ See [`code/README.md`](code/README.md) for execution order. The scripts that cal
 
 ## AI-assisted coding disclosure
 
-AI-assisted coding using Codex was used to generate code to create some of the charts. The detailed specifications for the creation of the charts were created by the authors. All AI-generated code was reviewed manually, tested against the data, verified and in many cases edited by the human authors to ensure correctness.
+Starter code for some of the charts was created using Codex. The detailed specifications for the creation of the charts were written by the authors. All AI-generated code was reviewed manually, tested against the data, verified and in many cases edited by the human authors to ensure correctness.
