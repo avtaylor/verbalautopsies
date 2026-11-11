@@ -1,0 +1,563 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1581" height="2725" viewBox="0 0 1581 2725">
+<defs><linearGradient id="confusionScale" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#F7FBFF"/><stop offset="25%" stop-color="#C6DBEF"/><stop offset="50%" stop-color="#6BAED6"/><stop offset="75%" stop-color="#3182BD"/><stop offset="100%" stop-color="#08519C"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="45" y="45" text-anchor="start" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000">Adult</text>
+<text x="484.0" y="231" text-anchor="start" transform="rotate(-45 484.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">TB/AIDS</text>
+<text x="542.0" y="231" text-anchor="start" transform="rotate(-45 542.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Cardiovascular disorder</text>
+<text x="600.0" y="231" text-anchor="start" transform="rotate(-45 600.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Acute febrile illness</text>
+<text x="658.0" y="231" text-anchor="start" transform="rotate(-45 658.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Gastro intestinal disorder</text>
+<text x="716.0" y="231" text-anchor="start" transform="rotate(-45 716.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Neoplasm</text>
+<text x="774.0" y="231" text-anchor="start" transform="rotate(-45 774.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Endocrine disorders</text>
+<text x="832.0" y="231" text-anchor="start" transform="rotate(-45 832.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Central nervous system disorder</text>
+<text x="890.0" y="231" text-anchor="start" transform="rotate(-45 890.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Transport</text>
+<text x="948.0" y="231" text-anchor="start" transform="rotate(-45 948.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Poisoning/exposure to noxious substance</text>
+<text x="1006.0" y="231" text-anchor="start" transform="rotate(-45 1006.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Unspecifiable</text>
+<text x="1064.0" y="231" text-anchor="start" transform="rotate(-45 1064.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">OTHER</text>
+<text x="1122.0" y="231" text-anchor="start" transform="rotate(-45 1122.0 231)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">BLANK</text>
+<text x="439" y="280.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">TB/AIDS</text>
+<rect x="455" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.831" stroke="#111827" stroke-width="1.6"/>
+<text x="484.0" y="280.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">82</text>
+<rect x="513" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.063" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="280.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="571" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.100" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="280.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">6</text>
+<rect x="629" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.058" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.068" stroke="#ffffff" stroke-width="1"/>
+<text x="716.0" y="280.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="745" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.041" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.041" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.041" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.078" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="280.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="1093" y="245" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="338.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Cardiovascular disorder</text>
+<rect x="455" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.057" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.831" stroke="#111827" stroke-width="1.6"/>
+<text x="542.0" y="338.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">82</text>
+<rect x="571" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.081" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="338.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="629" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.064" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="338.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="687" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.051" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.044" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.042" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.042" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.108" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="338.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">7</text>
+<rect x="1093" y="303" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="396.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Acute febrile illness</text>
+<rect x="455" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.078" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="396.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="513" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.112" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="396.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">7</text>
+<rect x="571" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.754" stroke="#111827" stroke-width="1.6"/>
+<text x="600.0" y="396.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">74</text>
+<rect x="629" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.059" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.055" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.044" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.044" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.044" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.131" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="396.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">9</text>
+<rect x="1093" y="361" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="454.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Gastro intestinal disorder</text>
+<rect x="455" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.069" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="454.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="513" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.069" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="454.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="571" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.143" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="454.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">11</text>
+<rect x="629" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.657" stroke="#111827" stroke-width="1.6"/>
+<text x="658.0" y="454.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">64</text>
+<rect x="687" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.109" stroke="#ffffff" stroke-width="1"/>
+<text x="716.0" y="454.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">7</text>
+<rect x="745" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.050" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.050" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.045" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.128" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="454.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">9</text>
+<rect x="1093" y="419" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="512.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Neoplasm</text>
+<rect x="455" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.050" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.077" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="512.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="571" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.050" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.077" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="512.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="687" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.864" stroke="#111827" stroke-width="1.6"/>
+<text x="716.0" y="512.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">86</text>
+<rect x="745" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.082" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="512.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="1093" y="477" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="570.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Endocrine disorders</text>
+<rect x="455" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.250" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="570.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">22</text>
+<rect x="571" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.079" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="570.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="629" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.053" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.698" stroke="#111827" stroke-width="1.6"/>
+<text x="774.0" y="570.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">68</text>
+<rect x="803" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.079" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="570.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="1093" y="535" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="628.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Central nervous system disorder</text>
+<rect x="455" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.143" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="628.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">11</text>
+<rect x="571" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.202" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="628.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">17</text>
+<rect x="629" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.055" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.084" stroke="#ffffff" stroke-width="1"/>
+<text x="716.0" y="628.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">5</text>
+<rect x="745" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.601" stroke="#111827" stroke-width="1.6"/>
+<text x="832.0" y="628.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">58</text>
+<rect x="861" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.114" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="628.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">8</text>
+<rect x="1093" y="593" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="686.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Transport</text>
+<rect x="455" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.968" stroke="#111827" stroke-width="1.6"/>
+<text x="890.0" y="686.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">97</text>
+<rect x="919" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.072" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="686.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="1093" y="651" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="744.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Poisoning/exposure to noxious substance</text>
+<rect x="455" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.120" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="744.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">8</text>
+<rect x="513" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.080" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="744.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="629" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.140" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="744.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">10</text>
+<rect x="687" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.080" stroke="#ffffff" stroke-width="1"/>
+<text x="832.0" y="744.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="861" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.520" stroke="#111827" stroke-width="1.6"/>
+<text x="948.0" y="744.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">50</text>
+<rect x="977" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.260" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="744.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">23</text>
+<rect x="1093" y="709" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="802.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Unspecifiable</text>
+<rect x="455" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.084" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="802.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">5</text>
+<rect x="513" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.345" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="802.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">32</text>
+<rect x="571" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.127" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="802.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">9</text>
+<rect x="629" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.149" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="802.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">11</text>
+<rect x="687" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.062" stroke="#ffffff" stroke-width="1"/>
+<text x="716.0" y="802.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="745" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.062" stroke="#ffffff" stroke-width="1"/>
+<text x="774.0" y="802.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="803" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.062" stroke="#ffffff" stroke-width="1"/>
+<text x="948.0" y="802.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="977" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#111827" stroke-width="1.6"/>
+<rect x="1035" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.389" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="802.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">36</text>
+<rect x="1093" y="767" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="803.0" y="867" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#000000">Experiment prediction</text>
+<text x="45" y="910" text-anchor="start" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000">Child</text>
+<text x="484.0" y="1096" text-anchor="start" transform="rotate(-45 484.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Acute febrile illness</text>
+<text x="542.0" y="1096" text-anchor="start" transform="rotate(-45 542.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">TB/AIDS</text>
+<text x="600.0" y="1096" text-anchor="start" transform="rotate(-45 600.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Nutritional disorder</text>
+<text x="658.0" y="1096" text-anchor="start" transform="rotate(-45 658.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Diarrhoeal disease without fever</text>
+<text x="716.0" y="1096" text-anchor="start" transform="rotate(-45 716.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Drowning/submersion</text>
+<text x="774.0" y="1096" text-anchor="start" transform="rotate(-45 774.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Anaemia</text>
+<text x="832.0" y="1096" text-anchor="start" transform="rotate(-45 832.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Congenital abnormality</text>
+<text x="890.0" y="1096" text-anchor="start" transform="rotate(-45 890.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Unspecifiable</text>
+<text x="948.0" y="1096" text-anchor="start" transform="rotate(-45 948.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Gastro intestinal disorder</text>
+<text x="1006.0" y="1096" text-anchor="start" transform="rotate(-45 1006.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Central nervous system disorder</text>
+<text x="1064.0" y="1096" text-anchor="start" transform="rotate(-45 1064.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">OTHER</text>
+<text x="1122.0" y="1096" text-anchor="start" transform="rotate(-45 1122.0 1096)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">BLANK</text>
+<text x="439" y="1145.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Acute febrile illness</text>
+<rect x="455" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.854" stroke="#111827" stroke-width="1.6"/>
+<text x="484.0" y="1145.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">85</text>
+<rect x="513" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.048" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.053" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.107" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="1145.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">7</text>
+<rect x="687" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.059" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.046" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.042" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.048" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.063" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="1145.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="1093" y="1110" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1203.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">TB/AIDS</text>
+<rect x="455" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.290" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="1203.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">26</text>
+<rect x="513" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.527" stroke="#111827" stroke-width="1.6"/>
+<text x="542.0" y="1203.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">51</text>
+<rect x="571" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.148" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="1203.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">11</text>
+<rect x="629" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.108" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="1203.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">7</text>
+<rect x="687" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.054" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.074" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="1203.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="1093" y="1168" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1261.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Nutritional disorder</text>
+<rect x="455" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.103" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="1261.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">7</text>
+<rect x="513" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.061" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="1261.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="571" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.729" stroke="#111827" stroke-width="1.6"/>
+<text x="600.0" y="1261.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">72</text>
+<rect x="629" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.186" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="1261.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">15</text>
+<rect x="687" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.061" stroke="#ffffff" stroke-width="1"/>
+<text x="774.0" y="1261.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="803" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.061" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="1261.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="1093" y="1226" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1319.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Diarrhoeal disease without fever</text>
+<rect x="455" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.227" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="1319.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">19</text>
+<rect x="513" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.067" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="1319.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="571" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.067" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="1319.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="629" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.733" stroke="#111827" stroke-width="1.6"/>
+<text x="658.0" y="1319.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">72</text>
+<rect x="687" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.067" stroke="#ffffff" stroke-width="1"/>
+<text x="1006.0" y="1319.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="1035" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1093" y="1284" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1377.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Drowning/submersion</text>
+<rect x="455" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="1342" width="58" height="58" fill="#08519C" fill-opacity="1.000" stroke="#111827" stroke-width="1.6"/>
+<text x="716.0" y="1377.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">100</text>
+<rect x="745" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1093" y="1342" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1435.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Anaemia</text>
+<rect x="455" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.416" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="1435.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">39</text>
+<rect x="513" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.123" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="1435.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">9</text>
+<rect x="629" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.249" stroke="#111827" stroke-width="1.6"/>
+<text x="774.0" y="1435.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">22</text>
+<rect x="803" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.082" stroke="#ffffff" stroke-width="1"/>
+<text x="832.0" y="1435.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="861" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.082" stroke="#ffffff" stroke-width="1"/>
+<text x="948.0" y="1435.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="977" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.249" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="1435.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">22</text>
+<rect x="1093" y="1400" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1493.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Congenital abnormality</text>
+<rect x="455" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.209" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="1493.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">18</text>
+<rect x="513" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.096" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="1493.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">6</text>
+<rect x="629" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.322" stroke="#111827" stroke-width="1.6"/>
+<text x="832.0" y="1493.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">29</text>
+<rect x="861" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.153" stroke="#ffffff" stroke-width="1"/>
+<text x="1006.0" y="1493.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">12</text>
+<rect x="1035" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.379" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="1493.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">35</text>
+<rect x="1093" y="1458" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1551.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Unspecifiable</text>
+<rect x="455" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.314" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="1551.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">29</text>
+<rect x="513" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#111827" stroke-width="1.6"/>
+<rect x="919" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.726" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="1551.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">71</text>
+<rect x="1093" y="1516" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1609.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Gastro intestinal disorder</text>
+<rect x="455" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.360" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="1609.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">33</text>
+<rect x="513" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.200" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="1609.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">17</text>
+<rect x="629" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.520" stroke="#111827" stroke-width="1.6"/>
+<text x="948.0" y="1609.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">50</text>
+<rect x="977" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1093" y="1574" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="1667.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Central nervous system disorder</text>
+<rect x="455" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.360" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="1667.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">33</text>
+<rect x="513" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.440" stroke="#111827" stroke-width="1.6"/>
+<text x="1006.0" y="1667.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">42</text>
+<rect x="1035" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.280" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="1667.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">25</text>
+<rect x="1093" y="1632" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="803.0" y="1732" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#000000">Experiment prediction</text>
+<text x="45" y="1775" text-anchor="start" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000">Neonates/stillbirth</text>
+<text x="484.0" y="1961" text-anchor="start" transform="rotate(-45 484.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Birth injury/asphyxia</text>
+<text x="542.0" y="1961" text-anchor="start" transform="rotate(-45 542.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Prematurity/low birth weight</text>
+<text x="600.0" y="1961" text-anchor="start" transform="rotate(-45 600.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Neonatal sepsis</text>
+<text x="658.0" y="1961" text-anchor="start" transform="rotate(-45 658.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Unspecifiable</text>
+<text x="716.0" y="1961" text-anchor="start" transform="rotate(-45 716.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Acute febrile illness</text>
+<text x="774.0" y="1961" text-anchor="start" transform="rotate(-45 774.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Congenital abnormality</text>
+<text x="832.0" y="1961" text-anchor="start" transform="rotate(-45 832.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Sudden infant death syndrome</text>
+<text x="890.0" y="1961" text-anchor="start" transform="rotate(-45 890.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Nutritional disorder</text>
+<text x="948.0" y="1961" text-anchor="start" transform="rotate(-45 948.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Unspecifiable</text>
+<text x="1006.0" y="1961" text-anchor="start" transform="rotate(-45 1006.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Ante postpartum haemorrhage</text>
+<text x="1064.0" y="1961" text-anchor="start" transform="rotate(-45 1064.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">OTHER</text>
+<text x="1122.0" y="1961" text-anchor="start" transform="rotate(-45 1122.0 1961)" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">BLANK</text>
+<text x="439" y="2010.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Birth injury/asphyxia</text>
+<rect x="455" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.597" stroke="#111827" stroke-width="1.6"/>
+<text x="484.0" y="2010.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">58</text>
+<rect x="513" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.073" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="2010.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="571" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.101" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="2010.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">6</text>
+<rect x="629" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.049" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.049" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.049" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.321" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="2010.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">29</text>
+<rect x="1093" y="1975" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2068.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Prematurity/low birth weight</text>
+<rect x="455" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.060" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="2068.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="513" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.848" stroke="#111827" stroke-width="1.6"/>
+<text x="542.0" y="2068.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">84</text>
+<rect x="571" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.060" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="2068.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="629" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.060" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="2068.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="687" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.066" stroke="#ffffff" stroke-width="1"/>
+<text x="716.0" y="2068.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="745" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.047" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.060" stroke="#ffffff" stroke-width="1"/>
+<text x="832.0" y="2068.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">2</text>
+<rect x="861" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.080" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="2068.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="1093" y="2033" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2126.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Neonatal sepsis</text>
+<rect x="455" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.080" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="2126.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="513" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.100" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="2126.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">6</text>
+<rect x="571" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.690" stroke="#111827" stroke-width="1.6"/>
+<text x="600.0" y="2126.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">68</text>
+<rect x="629" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.050" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.170" stroke="#ffffff" stroke-width="1"/>
+<text x="716.0" y="2126.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">14</text>
+<rect x="745" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.070" stroke="#ffffff" stroke-width="1"/>
+<text x="832.0" y="2126.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">3</text>
+<rect x="861" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.080" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="2126.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">4</text>
+<rect x="1093" y="2091" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2184.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Unspecifiable</text>
+<rect x="455" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.184" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="2184.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">15</text>
+<rect x="513" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.280" stroke="#ffffff" stroke-width="1"/>
+<text x="542.0" y="2184.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">25</text>
+<rect x="571" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.232" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="2184.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">20</text>
+<rect x="629" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.136" stroke="#111827" stroke-width="1.6"/>
+<text x="658.0" y="2184.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">10</text>
+<rect x="687" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.136" stroke="#ffffff" stroke-width="1"/>
+<text x="716.0" y="2184.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">10</text>
+<rect x="745" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.088" stroke="#ffffff" stroke-width="1"/>
+<text x="774.0" y="2184.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">5</text>
+<rect x="803" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.136" stroke="#ffffff" stroke-width="1"/>
+<text x="832.0" y="2184.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">10</text>
+<rect x="861" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.088" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="2184.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">5</text>
+<rect x="1093" y="2149" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2242.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Acute febrile illness</text>
+<rect x="455" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.520" stroke="#ffffff" stroke-width="1"/>
+<text x="600.0" y="2242.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">50</text>
+<rect x="629" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.520" stroke="#111827" stroke-width="1.6"/>
+<text x="716.0" y="2242.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">50</text>
+<rect x="745" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1093" y="2207" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2300.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Congenital abnormality</text>
+<rect x="455" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.825" stroke="#111827" stroke-width="1.6"/>
+<text x="774.0" y="2300.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">82</text>
+<rect x="803" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.215" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="2300.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#000000">18</text>
+<rect x="1093" y="2265" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2358.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Sudden infant death syndrome</text>
+<rect x="455" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.520" stroke="#ffffff" stroke-width="1"/>
+<text x="658.0" y="2358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">50</text>
+<rect x="687" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.520" stroke="#111827" stroke-width="1.6"/>
+<text x="832.0" y="2358.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">50</text>
+<rect x="861" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1093" y="2323" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2416.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Nutritional disorder</text>
+<rect x="455" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.520" stroke="#111827" stroke-width="1.6"/>
+<text x="890.0" y="2416.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">50</text>
+<rect x="919" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.520" stroke="#ffffff" stroke-width="1"/>
+<text x="1064.0" y="2416.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">50</text>
+<rect x="1093" y="2381" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2474.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Unspecifiable</text>
+<rect x="455" y="2439" width="58" height="58" fill="#08519C" fill-opacity="1.000" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="2474.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">100</text>
+<rect x="513" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#111827" stroke-width="1.6"/>
+<rect x="977" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1035" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1093" y="2439" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="439" y="2532.0" text-anchor="end" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#000000">Ante postpartum haemorrhage</text>
+<rect x="455" y="2497" width="58" height="58" fill="#08519C" fill-opacity="1.000" stroke="#ffffff" stroke-width="1"/>
+<text x="484.0" y="2532.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">100</text>
+<rect x="513" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="571" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="629" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="687" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="745" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="803" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="861" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="919" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="977" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#111827" stroke-width="1.6"/>
+<rect x="1035" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<rect x="1093" y="2497" width="58" height="58" fill="#08519C" fill-opacity="0.040" stroke="#ffffff" stroke-width="1"/>
+<text x="803.0" y="2597" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#000000">Experiment prediction</text>
+<text x="790.5" y="2641" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#000000">Percentage within physician reference code</text>
+<rect x="600.5" y="2653" width="380" height="22" fill="url(#confusionScale)" stroke="#6B7280" stroke-width="0.8"/>
+<text x="600.5" y="2697" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#000000">0</text>
+<text x="790.5" y="2697" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#000000">50</text>
+<text x="980.5" y="2697" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#000000">100</text>
+</svg>

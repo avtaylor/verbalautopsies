@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="690" viewBox="0 0 1900 690">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="472.7" y="31.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17202a">Adult</text>
+<line x1="350.0" y1="60" x2="350.0" y2="580" stroke="#e5e7eb"/>
+<text x="350.0" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-6</text>
+<line x1="399.1" y1="60" x2="399.1" y2="580" stroke="#e5e7eb"/>
+<text x="399.1" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-4</text>
+<line x1="448.1" y1="60" x2="448.1" y2="580" stroke="#e5e7eb"/>
+<text x="448.1" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-2</text>
+<line x1="497.2" y1="60" x2="497.2" y2="580" stroke="#e5e7eb"/>
+<text x="497.2" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">0</text>
+<line x1="546.3" y1="60" x2="546.3" y2="580" stroke="#e5e7eb"/>
+<text x="546.3" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">2</text>
+<line x1="595.3" y1="60" x2="595.3" y2="580" stroke="#e5e7eb"/>
+<text x="595.3" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">4</text>
+<line x1="497.2" y1="58" x2="497.2" y2="580" stroke="#334155" stroke-width="1.4"/>
+<text x="338.0" y="90.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Acute febrile illness</text>
+<rect x="497.2" y="70.0" width="76.0" height="29" fill="#287bb5"/>
+<text x="580.2" y="90.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+3.1</text>
+<text x="338.0" y="142.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Neoplasm</text>
+<rect x="497.2" y="122.0" width="29.0" height="29" fill="#287bb5"/>
+<text x="533.2" y="142.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+1.2</text>
+<text x="338.0" y="194.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Other specific unlisted</text>
+<rect x="497.2" y="174.0" width="22.0" height="29" fill="#287bb5"/>
+<text x="526.2" y="194.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+0.9</text>
+<text x="338.0" y="246.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Diarrhoeal disease without fever</text>
+<rect x="497.2" y="226.0" width="19.0" height="29" fill="#287bb5"/>
+<text x="523.2" y="246.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+0.8</text>
+<text x="338.0" y="298.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Cardiovascular disorder</text>
+<rect x="497.2" y="278.0" width="19.0" height="29" fill="#287bb5"/>
+<text x="523.2" y="298.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+0.8</text>
+<text x="338.0" y="350.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Endocrine disorders</text>
+<rect x="481.2" y="330.0" width="16.0" height="29" fill="#287bb5"/>
+<text x="474.2" y="350.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-0.7</text>
+<text x="338.0" y="402.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Poisoning/exposure to noxious substance</text>
+<rect x="479.2" y="382.0" width="18.0" height="29" fill="#287bb5"/>
+<text x="472.2" y="402.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-0.7</text>
+<text x="338.0" y="454.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Unspecifiable</text>
+<rect x="477.2" y="434.0" width="20.0" height="29" fill="#287bb5"/>
+<text x="470.2" y="454.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-0.8</text>
+<text x="338.0" y="506.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Unspecifiable</text>
+<rect x="453.2" y="486.0" width="44.0" height="29" fill="#287bb5"/>
+<text x="446.2" y="506.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-1.8</text>
+<text x="338.0" y="558.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">TB/AIDS</text>
+<rect x="404.2" y="538.0" width="93.0" height="29" fill="#287bb5"/>
+<text x="412.2" y="558.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#ffffff">-3.8</text>
+<text x="1101.0" y="31.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17202a">Child</text>
+<line x1="978.3" y1="60" x2="978.3" y2="580" stroke="#e5e7eb"/>
+<text x="978.3" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-8</text>
+<line x1="1013.4" y1="60" x2="1013.4" y2="580" stroke="#e5e7eb"/>
+<text x="1013.4" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-6</text>
+<line x1="1048.4" y1="60" x2="1048.4" y2="580" stroke="#e5e7eb"/>
+<text x="1048.4" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-4</text>
+<line x1="1083.5" y1="60" x2="1083.5" y2="580" stroke="#e5e7eb"/>
+<text x="1083.5" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-2</text>
+<line x1="1118.5" y1="60" x2="1118.5" y2="580" stroke="#e5e7eb"/>
+<text x="1118.5" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">0</text>
+<line x1="1153.6" y1="60" x2="1153.6" y2="580" stroke="#e5e7eb"/>
+<text x="1153.6" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">2</text>
+<line x1="1188.6" y1="60" x2="1188.6" y2="580" stroke="#e5e7eb"/>
+<text x="1188.6" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">4</text>
+<line x1="1223.7" y1="60" x2="1223.7" y2="580" stroke="#e5e7eb"/>
+<text x="1223.7" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">6</text>
+<line x1="1118.5" y1="58" x2="1118.5" y2="580" stroke="#334155" stroke-width="1.4"/>
+<text x="966.3" y="90.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Diarrhoeal disease without fever</text>
+<rect x="1118.5" y="70.0" width="80.7" height="29" fill="#287bb5"/>
+<text x="1206.2" y="90.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+4.6</text>
+<text x="966.3" y="142.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Nutritional disorder</text>
+<rect x="1118.5" y="122.0" width="32.7" height="29" fill="#287bb5"/>
+<text x="1158.2" y="142.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+1.9</text>
+<text x="966.3" y="194.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Acute febrile illness</text>
+<rect x="1118.5" y="174.0" width="17.3" height="29" fill="#287bb5"/>
+<text x="1142.8" y="194.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+1.0</text>
+<text x="966.3" y="246.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Cardiovascular disorder</text>
+<rect x="1118.5" y="226.0" width="13.5" height="29" fill="#287bb5"/>
+<text x="1139.0" y="246.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+0.8</text>
+<text x="966.3" y="298.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Other specific unlisted</text>
+<rect x="1118.5" y="278.0" width="9.6" height="29" fill="#287bb5"/>
+<text x="1135.1" y="298.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+0.5</text>
+<text x="966.3" y="350.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Anaemia</text>
+<rect x="1108.9" y="330.0" width="9.6" height="29" fill="#287bb5"/>
+<text x="1101.9" y="350.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-0.5</text>
+<text x="966.3" y="402.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Congenital abnormality</text>
+<rect x="1103.2" y="382.0" width="15.4" height="29" fill="#287bb5"/>
+<text x="1096.2" y="402.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-0.9</text>
+<text x="966.3" y="454.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Unspecifiable</text>
+<rect x="1099.3" y="434.0" width="19.2" height="29" fill="#287bb5"/>
+<text x="1092.3" y="454.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-1.1</text>
+<text x="966.3" y="506.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Unspecifiable</text>
+<rect x="1091.6" y="486.0" width="26.9" height="29" fill="#287bb5"/>
+<text x="1084.6" y="506.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-1.5</text>
+<text x="966.3" y="558.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">TB/AIDS</text>
+<rect x="1001.3" y="538.0" width="117.2" height="29" fill="#287bb5"/>
+<text x="1009.3" y="558.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#ffffff">-6.7</text>
+<text x="1729.3" y="31.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17202a">Neonate/stillbirth</text>
+<line x1="1606.7" y1="60" x2="1606.7" y2="580" stroke="#e5e7eb"/>
+<text x="1606.7" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-16</text>
+<line x1="1641.7" y1="60" x2="1641.7" y2="580" stroke="#e5e7eb"/>
+<text x="1641.7" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-12</text>
+<line x1="1676.8" y1="60" x2="1676.8" y2="580" stroke="#e5e7eb"/>
+<text x="1676.8" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-8</text>
+<line x1="1711.8" y1="60" x2="1711.8" y2="580" stroke="#e5e7eb"/>
+<text x="1711.8" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">-4</text>
+<line x1="1746.9" y1="60" x2="1746.9" y2="580" stroke="#e5e7eb"/>
+<text x="1746.9" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">0</text>
+<line x1="1781.9" y1="60" x2="1781.9" y2="580" stroke="#e5e7eb"/>
+<text x="1781.9" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">4</text>
+<line x1="1817.0" y1="60" x2="1817.0" y2="580" stroke="#e5e7eb"/>
+<text x="1817.0" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">8</text>
+<line x1="1852.0" y1="60" x2="1852.0" y2="580" stroke="#e5e7eb"/>
+<text x="1852.0" y="605.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#52616b">12</text>
+<line x1="1746.9" y1="58" x2="1746.9" y2="580" stroke="#334155" stroke-width="1.4"/>
+<text x="1594.7" y="90.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Obstructed labour</text>
+<rect x="1746.9" y="70.0" width="96.2" height="29" fill="#287bb5"/>
+<text x="1850.0" y="90.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+11.0</text>
+<text x="1594.7" y="142.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Acute febrile illness</text>
+<rect x="1746.9" y="122.0" width="24.5" height="29" fill="#287bb5"/>
+<text x="1778.3" y="142.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+2.8</text>
+<text x="1594.7" y="194.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Sudden infant death syndrome</text>
+<rect x="1746.9" y="174.0" width="15.7" height="29" fill="#287bb5"/>
+<text x="1769.6" y="194.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+1.8</text>
+<text x="1594.7" y="246.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Choking</text>
+<rect x="1746.9" y="226.0" width="10.5" height="29" fill="#287bb5"/>
+<text x="1764.4" y="246.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+1.2</text>
+<text x="1594.7" y="298.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Other specific unlisted</text>
+<rect x="1746.9" y="278.0" width="7.0" height="29" fill="#287bb5"/>
+<text x="1760.9" y="298.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+0.8</text>
+<text x="1594.7" y="350.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Specific information missing on VAQ</text>
+<rect x="1746.9" y="330.0" width="5.2" height="29" fill="#287bb5"/>
+<text x="1759.1" y="350.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+0.6</text>
+<text x="1594.7" y="402.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">No significant pathology that would explain the death</text>
+<rect x="1746.9" y="382.0" width="5.2" height="29" fill="#287bb5"/>
+<text x="1759.1" y="402.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">+0.6</text>
+<text x="1594.7" y="454.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Prematurity/low birth weight</text>
+<rect x="1738.1" y="434.0" width="8.7" height="29" fill="#287bb5"/>
+<text x="1731.1" y="454.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-1.0</text>
+<text x="1594.7" y="506.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Unspecifiable</text>
+<rect x="1727.6" y="486.0" width="19.2" height="29" fill="#287bb5"/>
+<text x="1720.6" y="506.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#17202a">-2.2</text>
+<text x="1594.7" y="558.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#17202a">Birth injury/asphyxia</text>
+<rect x="1617.4" y="538.0" width="129.4" height="29" fill="#287bb5"/>
+<text x="1625.4" y="558.0" text-anchor="start" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#ffffff">-14.8</text>
+<text x="950.0" y="672.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#17202a">EXP1 − physician underlying-cause CSMF (percentage points)</text>
+</svg>
