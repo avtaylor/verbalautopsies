@@ -1,0 +1,93 @@
+00 - 01 - 00 | Unspecifiable: No information (VAQ not available)
+00 - 02 - 00 | Unspecifiable: Specific information missing on VAQ
+00 - 03 - 00 | Unspecifiable: No significant pathology that would explain the death
+00 - 04 - 00 | Unspecifiable: Multiple significant pathology, single COD can't be isolated
+01 - 00 - 00 | Communicable disease: Unspecifiable
+01 - 01 - 00 | Communicable disease: Acute febrile illness: Unspecifiable
+01 - 01 - 01 | Communicable disease: Acute febrile illness: Malaria
+01 - 01 - 02 | Communicable disease: Acute febrile illness: Menigitis
+01 - 01 - 03 | Communicable disease: Acute febrile illness: Measles
+01 - 01 - 04 | Communicable disease: Acute febrile illness: Pneumonia
+01 - 01 - 05 | Communicable disease: Acute febrile illness: Diarrhoea with fever
+01 - 01 - 06 | Communicable disease: Acute febrile illness: Sepsis
+01 - 01 - 99 | Communicable disease: Acute febrile illness: Other specific unlisted
+01 - 03 - 00 | Communicable disease: Hepatitis
+01 - 04 - 00 | Communicable disease: TB/AIDS: Unspecifiable
+01 - 04 - 01 | Communicable disease: TB/AIDS: Pulmonary TB
+01 - 04 - 02 | Communicable disease: TB/AIDS: AIDS
+01 - 04 - 03 | Communicable disease: TB/AIDS: Extrapulmonary TB
+01 - 04 - 99 | Communicable disease: TB/AIDS: Other specific unlisted
+01 - 05 - 00 | Communicable disease: Diarrhoeal disease without fever
+01 - 06 - 00 | Communicable disease: Tetanus (exc. neonatal tetanus)
+01 - 07 - 00 | Communicable disease: Rabies
+01 - 99 - 00 | Communicable disease: Other specific unlisted
+02 - 00 - 00 | Direct maternal cause: Unspecifiable
+02 - 01 - 00 | Direct maternal cause: Abortion
+02 - 02 - 00 | Direct maternal cause: Eclampsia
+02 - 03 - 00 | Direct maternal cause: Ante postpartum haemorrhage
+02 - 04 - 00 | Direct maternal cause: Obstructed labour
+02 - 05 - 00 | Direct maternal cause: Puerperal sepsis
+02 - 06 - 00 | Direct maternal cause: Anaemia in pregnancy
+02 - 99 - 00 | Direct maternal cause: Other specific unlisted
+03 - 00 - 00 | Non communicable disease: Unspecifiable
+03 - 01 - 00 | Non communicable disease: Cardiovascular disorder: Unspecifiable
+03 - 01 - 01 | Non communicable disease: Cardiovascular disorder: Hypertension
+03 - 01 - 02 | Non communicable disease: Cardiovascular disorder: Congestive heart disease
+03 - 01 - 03 | Non communicable disease: Cardiovascular disorder: Ischaemic heart disease
+03 - 01 - 04 | Non communicable disease: Cardiovascular disorder: Cerebro vascular disease
+03 - 01 - 99 | Non communicable disease: Cardiovascular disorder: Other specific unlisted 03 - 02 - 00 | Non communicable disease: Respiratory disorder: Unspecifiable
+03 - 02 - 01 | Non communicable disease: Respiratory disorder: Chronic obstructive pulmonary disease
+03 - 02 - 02 | Non communicable disease: Respiratory disorder: Asthma
+03 - 02 - 99 | Non communicable disease: Respiratory disorder: Other specific unlisted
+03 - 03 - 00 | Non communicable disease: Gastro intestinal disorder: Unspecifiable
+03 - 03 - 01 | Non communicable disease: Gastro intestinal disorder: Peptic ulcer disease
+03 - 03 - 02 | Non communicable disease: Gastro intestinal disorder: Liver cirrhosis
+03 - 03 - 03 | Non communicable disease: Gastro intestinal disorder: Acute abdomen including obstruction
+03 - 03 - 99 | Non communicable disease: Gastro intestinal disorder: Other specific unlisted
+03 - 04 - 00 | Non communicable disease: Central nervous system disorder: Unspecifiable
+03 - 04 - 01 | Non communicable disease: Central nervous system disorder: Mental/behavioural disorder
+03 - 04 - 02 | Non communicable disease: Central nervous system disorder: Epilepsy
+03 - 04 - 99 | Non communicable disease: Central nervous system disorder: Other specific unlisted
+03 - 05 - 00 | Non communicable disease: Endocrine disorders: Unspecifiable
+03 - 05 - 01 | Non communicable disease: Endocrine disorders: Diabetes
+03 - 05 - 99 | Non communicable disease: Endocrine disorders: Other specific unlisted
+03 - 06 - 00 | Non communicable disease: Neoplasm: Unspecifiable
+03 - 06 - 01 | Non communicable disease: Neoplasm: Breast
+03 - 06 - 02 | Non communicable disease: Neoplasm: Cervix/uterus
+03 - 06 - 03 | Non communicable disease: Neoplasm: Liver
+03 - 06 - 04 | Non communicable disease: Neoplasm: Gastro intestinal tract including abdominal but excluding liver
+03 - 06 - 05 | Non communicable disease: Neoplasm: Lung
+03 - 06 - 06 | Non communicable disease: Neoplasm: Oral
+03 - 06 - 07 | Non communicable disease: Neoplasm: Oesophagus
+03 - 06 - 99 | Non communicable disease: Neoplasm: Other specific unlisted
+03 - 07 - 00 | Non communicable disease: Genito urinary disorders: Unspecifiable
+03 - 07 - 01 | Non communicable disease: Genito urinary disorders: Kidney disorder
+03 - 07 - 99 | Non communicable disease: Genito urinary disorders: Other specific unlisted
+03 - 08 - 00 | Non communicable disease: Anaemia: Unspecifiable
+03 - 08 - 01 | Non communicable disease: Anaemia: Caused by chronic communicable disease 03 - 08 - 99 | Non communicable disease: Anaemia: Other specific unlisted
+03 - 09 - 00 | Non communicable disease: Nutritional disorder: Unspecifiable
+03 - 09 - 01 | Non communicable disease: Nutritional disorder: Malnutrition
+03 - 09 - 99 | Non communicable disease: Nutritional disorder: Other specific unlisted 03 - 99 - 00 | Non communicable disease: Other specific unlisted
+04 - 00 - 00 | External cause: Unspecifiable
+04 - 01 - 00 | External cause: Transport
+04 - 02 - 00 | External cause: Fall
+04 - 03 - 00 | External cause: Drowning/submersion
+04 - 04 - 00 | External cause: Exposure to smoke/fire/flames
+04 - 05 - 00 | External cause: Poisoning/exposure to noxious substance
+04 - 06 - 00 | External cause: Use of weapon
+04 - 07 - 00 | External cause: Contact with venomous animals and plants
+04 - 08 - 00 | External cause: Hanging
+04 - 09 - 00 | External cause: Choking
+04 - 99 - 00 | External cause: Other specific unlisted
+05 - 00 - 00 | Causes specific to infancy: Unspecifiable
+05 - 01 - 00 | Causes specific to infancy: Miscarriage/abortion
+05 - 02 - 00 | Causes specific to infancy: Stillbirth
+05 - 03 - 00 | Causes specific to infancy: Prematurity/low birth weight
+05 - 04 - 00 | Causes specific to infancy: Congenital abnormality
+05 - 05 - 00 | Causes specific to infancy: Birth injury/asphyxia
+05 - 06 - 00 | Causes specific to infancy: Neonatal sepsis
+05 - 08 - 00 | Causes specific to infancy: Sudden infant death syndrome
+05 - 09 - 00 | Causes specific to infancy: Neonatal tetanus
+05 - 99 - 00 | Causes specific to infancy: Other specific unlisted
+99 - 00 - 00 | Other specific unlisted
+

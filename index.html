@@ -253,12 +253,12 @@
   <header>
     <div class="wrap hero">
       <h1>Verbal Autopsies Cause of Death Determinations using GPT-5</h1>
-      <p class="subtitle">Selected reproducible code, aggregate tables, and charts for comparing LLM-assigned cause-of-death codes with physician-coded verbal autopsy determinations.</p>
+      <p class="subtitle">Data and reproducible code for comparing LLM-assigned cause-of-death codes with physician-coded verbal autopsy determinations.</p>
     </div>
     <nav class="wrap" aria-label="Repository sections">
       <a href="#description">Description</a>
       <a href="#llm-pipeline">LLM Pipeline</a>
-      <a href="#analysis">Manuscript Analysis</a>
+      <a href="#reproduction">Reproduction</a>
       <a href="README.md">README</a>
       <a class="link" href="https://github.com/avtaylor/verbalautopsies/" target="_blank">Github repo</a>
        
@@ -269,15 +269,16 @@
     <section id="description">
       <h2>Description</h2>
       <p>This study was conducted under an INSPIRE 2.0 project, being a collaboration between Amelia Taylor at the Malawi University of Business and Applied Sciences (MUBAS) and Albert Dube and Paul Kambiya at the Malawi Epidemiology and Intervention Research Unit (MEIRU). MEIRU has recorded vital statistics in the Karonga Health and Demographics Surveillance Site (HDSS) since 2002. This research uses the Karonga HDSS data. Verbal Autopsies (VA) data is recorded on semi-structured questionnaires with a close relative of the deceased and includes responses to questionnaire items and a verbal account called a narrative.</p>
-      <p>We evaluate whether a frontier LLM can reproduce physician cause-of-death assignment process when provided with the complete VA record. We utilise the data and cause of death (CoD) assignment protocol from the Karonga HDSS in Malawi. GPT-assigned causes of death were generated using four different experiential inputs that incorporate the narrative with the questionnaire data. We calculated the exact and flexible agreement between the LLM and physician CoDs for three types of determinations: direct, underlying and contributory, at individual and population level. Agreement was evaluated hierarchically on three coding levels that replicated the process used by physicians.</p>
+      <p>We evaluate whether a frontier LLM can reproduce physician cause-of-death assignment process when provided with the complete VA record. We utilise the data and cause of death (CoD) assignment protocol from the Karonga HDSS in Malawi. GPT-assigned causes of death were generated using five different experimental inputs that incorporate the narrative with the questionnaire data. We calculated the exact and flexible agreement between the LLM and physician CoDs for three types of determinations: direct, underlying and contributory, at individual and population level. Agreement was evaluated hierarchically on three coding levels that replicated the process used by physicians.</p>
       <p>We show that GPT-5.2 captured clinically relevant causes of death at a high level of consistency and agreement with physicians, particularly at broad and intermediate coding levels. The agreement was better for common than for rare conditions. Our experiments show that the VA narrative contains complementary rather than repeating information from the structured questionnaire and their combined use is essential to CoD determination. Our findings support the use of frontier LLMs as effective tools for verbal autopsy workflows.</p>
-      <p>This repository serves as a compendium to the main research paper (under publication) and contain only code and selected analysis.</p>
-      <p>We run four LLM-CoD determination experiments on the four datasets,:</p>
+      <p>This repository serves as a compendium to the main research paper (under publication) and contains data and reproducible analysis code.</p>
+      <p>We run five LLM-CoD determination experiments on five datasets:</p>
       <ul>
         <li>EXP1	LLM - determinations of CoDs using the full account dataset.</li>
         <li>EXP2 	LLM - determinations of CoDs using questionnaire-as-text dataset.</li>
         <li>EXP3	LLM - determinations of CoDs using original-narrative dataset.</li>
         <li>EXP4 	LLM - determinations of CoDs using reconstructed-narrative dataset.</li>
+        <li>EXP5 - determinations of CoDs using extended questionnaire-as-text and original narrative.</li>
       </ul>
 
     </section>
@@ -301,47 +302,20 @@
       </div>
     </section>
 
-    <section id="analysis">
-      <h2>Selected Manuscript Analysis</h2>
-        <div class="grid">
-        <div class="card"><h3>Tables</h3><ul>
-          <li><a class="link" href="analysis/outputs/table_2_underlying_cod_distribution.html">Table 2: EXP1–EXP4 underlying CoD distributions</a></li>
-          <li><a class="link" href="analysis/outputs/table_3_experiment_comparison.html">Table 3: Experiment comparison</a></li>
-          <li><a class="link" href="analysis/outputs/table_4_level2_jaccard_bins.html">Table 4: Level-2 Jaccard bins</a></li>
-          <li><a class="link" href="analysis/outputs/table_5_exp1_top20_true_positive_overlap.html">Table 5: EXP1 top-20 overlap</a></li>
-          <li><a class="link" href="analysis/outputs/table_6_strict_underlying_pccc.html">Table 6: Strict underlying PCCC</a></li>
-        </ul></div>
-        <div class="card"><h3>Charts and figures</h3><ul>
-          <li><a class="link" href="analysis/outputs/figure_2_flexible_any_code_agreement_ensemble.html">Figure 2: Flexible agreement ensemble</a></li>
-          <li><a class="link" href="analysis/outputs/figure_3_exp1_vs_physician_level2_differences.svg">Figure 3: EXP1 distribution differences</a></li>
-          <li><a class="link" href="analysis/outputs/figure_4_pccc_csmf_line_charts.html">Figure 4: PCCC and CSMF line charts</a></li>
-          <li><a class="link" href="analysis/outputs/figure_5_observed_vs_monte_carlo.svg">Figure 5: Monte Carlo baseline</a></li>
-        </ul></div>
-        <div class="card"><h3>Reproduction</h3><ul>
-          <li><a class="link" href="analysis/README.md">Analysis guide</a></li>
-          <li><a class="link" href="analysis/code/README.md">Code</a></li>
-        </ul></div>
+    <section id="reproduction">
+      <h2>Reproduction</h2>
+      <p>Reproduce the flexible agreement, exact agreement, chance-corrected concordance (CCC), and cause-specific mortality fraction (CSMF) analyses using the data and code in the <a class="link" href="https://github.com/avtaylor/verbalautopsies/" target="_blank" rel="noopener">GitHub repository</a>.</p>
+      <div class="grid">
+        <div class="card"><h3>Data</h3><p>EXP1–EXP5 and physician cause codes, VA type, age and sex, code definitions, and Level-1-only corrections.</p><a class="link" href="https://github.com/avtaylor/verbalautopsies/tree/main/Data">Browse data</a></div>
+        <div class="card"><h3>Agreement analysis code</h3><p>Preparation, analysis scripts, dependencies, and instructions for running the four agreement methods.</p><a class="link" href="https://github.com/avtaylor/verbalautopsies/tree/main/Code">Browse code</a></div>
       </div>
-      <div class="chart-grid">
-        <figure><a href="analysis/outputs/figure_3_exp1_vs_physician_level2_differences.svg"><img src="analysis/outputs/figure_3_exp1_vs_physician_level2_differences.svg" alt="EXP1 versus physician Level 2 underlying cause distribution differences"></a><figcaption>Figure 3. Largest EXP1 versus physician Level-2 distribution differences by VA type.</figcaption></figure>
-        <figure><a href="analysis/outputs/figure_4_pccc_csmf_line_charts.html"><img src="analysis/outputs/figure_4_csmf_adult.svg" alt="Adult CSMF accuracy by experiment and coding level"></a><figcaption>Figure 4. Six PCCC and CSMF line charts for adult, child and infant VA groups.</figcaption></figure>
-        <figure><a href="analysis/outputs/figure_5_observed_vs_monte_carlo.svg"><img src="analysis/outputs/figure_5_observed_vs_monte_carlo.svg" alt="Observed CSMF accuracy versus Monte Carlo baseline"></a><figcaption>Figure 5. Observed Level-2 CSMF accuracy versus physician-prior Monte Carlo baseline.</figcaption></figure>
-      </div>
-      <div class="warning">Raw VA workbooks, identifiers, model responses, normalised record-level files, and case-level comparison extracts are intentionally excluded.</div>
-      <p class="note"><strong>AI-assisted coding disclosure:</strong> Starter code for some of the charts was created using Codex. 
-        The specifications for the creation of the charts were written by the authors. All AI-generated code was reviewed manually, tested against the data, verified and in many cases edited by the human authors to ensure correctness.
-        </p>
     </section>
   </main>
 
   <footer>
     <div class="wrap">
       <p>This work is part of INSPIRE 2.0 CC540 grant for HDSS Capacity building for the application of AI in enhancing the utility of MEIRU HDSS data. Team: Albert Dube, Amelia Taylor and Paul Kambiya. Contact ataylor@mubas.ac.mw</p>
-      <div class="citation">
-        <strong>Recommended citation</strong>
-        Taylor A, Dube A, Kambiya P. MEIRU VA LLM cause-of-death analysis: selected code, aggregate outputs, and figures. INSPIRE 2.0 CC540 project compendium. Malawi University of Business and Applied Sciences and Malawi Epidemiology and Intervention Research Unit; 2026.
-      </div>
-    </div>
+</div>
   </footer>
 
   <dialog id="previewDialog" aria-labelledby="previewTitle">

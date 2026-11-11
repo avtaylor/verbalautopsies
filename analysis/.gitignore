@@ -1,7 +1,0 @@
-working_outputs/
-master_normalized_codes.csv
-*_cases*.csv
-*.xlsx
-*.xls
-__pycache__/
-*.py[cod]

@@ -1,0 +1,94 @@
+{
+  "format": "UTF-8 CSV; read all columns as strings",
+  "files": {
+    "PHY.csv": {
+      "rows": 5150,
+      "columns": [
+        "ident",
+        "PHY_direct",
+        "PHY_underlying",
+        "PHY_contrib",
+        "vatype"
+      ],
+      "sha256": "09c4706fbd18f1f804477992cb89cf5fa1aa96bf05cd011467d18592c13113d9"
+    },
+    "EXP1.csv": {
+      "rows": 5150,
+      "columns": [
+        "ident",
+        "EXP1_direct",
+        "EXP1_underlying",
+        "EXP1_contrib_set"
+      ],
+      "sha256": "89462322d34a943fb0175b89cda4df1dd2af5644eb4ebd0cf3a19ca70eac5865"
+    },
+    "EXP2.csv": {
+      "rows": 5150,
+      "columns": [
+        "ident",
+        "EXP2_direct",
+        "EXP2_underlying",
+        "EXP2_contrib_set"
+      ],
+      "sha256": "a2c19565a53df90adfc42fb955c564dca08fb98c90db46904b34497b8bbf6c48"
+    },
+    "EXP3.csv": {
+      "rows": 5150,
+      "columns": [
+        "ident",
+        "EXP3_direct",
+        "EXP3_underlying",
+        "EXP3_contrib_set"
+      ],
+      "sha256": "758f261fb518be4c07bb1edb0e9975d5c9a86b4b1d1162d9c9861368aad52a4c"
+    },
+    "EXP4.csv": {
+      "rows": 5150,
+      "columns": [
+        "ident",
+        "EXP4_direct",
+        "EXP4_underlying",
+        "EXP4_contrib_set"
+      ],
+      "sha256": "24f18e350e07ec8ba104b6a78d37c878cb5c5e8c192993b72b8bbfaaceed6626"
+    },
+    "EXP5.csv": {
+      "rows": 5150,
+      "columns": [
+        "ident",
+        "EXP5_direct",
+        "EXP5_underlying",
+        "EXP5_contrib_set"
+      ],
+      "sha256": "322441105fa3cf6ee6a01b79f11fd61f684a7842a34f508e15e48c6ba4a893e9"
+    },
+    "va_type.csv": {
+      "sha256": "2b2eb90f8c0c154fc45ebc95ce41c3ceec48d9956fc7c1431eeabd5047ad17d5",
+      "rows": 5150,
+      "columns": [
+        "ident",
+        "vatype"
+      ]
+    },
+    "age_sex.csv": {
+      "sha256": "4b7328ae4251c982425bd21642511a110ecabdbf34098489d7b58bd05fb79457",
+      "rows": 5150,
+      "columns": [
+        "ident",
+        "Sex",
+        "Age"
+      ]
+    },
+    "ucod_only_level1.csv": {
+      "sha256": "20bb9f10713c9f0f106c4d6cee2ac3308ab7023cb38f8c789607aa907387339d",
+      "rows": 256,
+      "columns": [
+        "ident",
+        "ucod1"
+      ]
+    },
+    "MEIRU_CODS_LIST.txt": {
+      "sha256": "f4e9336c819cb5bc575c7410d0514db34c4363deffd9ad491a42404dd80b3ac7"
+    }
+  }
+}
